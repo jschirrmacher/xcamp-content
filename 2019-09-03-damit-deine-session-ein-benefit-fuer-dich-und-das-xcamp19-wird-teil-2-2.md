@@ -73,3 +73,8 @@ Es wird in Gruppen oder Einzeln daraus ein „Produkt“ gebaut.
 Dies ist eine typische Innovationsmethode, um kreative Denkprozesse durch das Konstruieren von Gegenständlichkeit zu erzeugen.
 
 …vier weitere Methoden stellen wir demnächst vor.
+
+## Andere Teile
+
+[Teil 1: Fishbowl, 1-2-4-All (Liberating Structure), Ask me anything](blog/2019-09-09-damit-deine-session-ein-benefit-fuer-dich-und-das-xcamp19-wird-2)
+[Teil 3: Ja+Und Brainstorming, Mind-Mapping, Studio Walk](blog/2019-09-09-damit-deine-session-ein-benefit-fuer-dich-und-das-xcamp19-wird-3)

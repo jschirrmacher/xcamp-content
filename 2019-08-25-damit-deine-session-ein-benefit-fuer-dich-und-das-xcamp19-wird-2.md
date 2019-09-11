@@ -76,3 +76,8 @@ Der Spezialist beantwortet die Fragen in einer selbst gewählten Reihenfolge.
 
 Vorteil: Lockert ein Thema auf, involviert das Publikum aktiv, der Spezialist kann sich optimal auf den Wissensstand der
 Teilnehmer einstellen. Sehr lean. Allgemeinplätze oder die dem Hörerkreis bekannte Grundlagen werden ausgespart.
+
+## Andere Teile
+
+[Teil 2: Kollegiale Beratung, Speed Dating, Hands-on Workshop](blog/2019-09-09-damit-deine-session-ein-benefit-fuer-dich-und-das-xcamp19-wird-2-2)
+[Teil 3: Ja+Und Brainstorming, Mind-Mapping, Studio Walk](blog/2019-09-09-damit-deine-session-ein-benefit-fuer-dich-und-das-xcamp19-wird-3)
