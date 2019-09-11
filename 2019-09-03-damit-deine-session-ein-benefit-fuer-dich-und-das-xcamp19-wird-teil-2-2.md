@@ -2,7 +2,7 @@
 title:     Damit deine Session ein Benefit für dich und das XCamp19 wird (Teil 2)
 author:    Gudrun Traumann
 published: 03.09.2019
-image:     Studio-Walk.png
+image:     Kollegiale-Beratung.png
 tags:      XCamp2019, Sessions
 ---
 
