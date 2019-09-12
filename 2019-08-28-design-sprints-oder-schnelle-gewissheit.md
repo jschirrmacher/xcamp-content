@@ -55,7 +55,6 @@ Aktuelle Meldungen und Beiträge zu Design Sprints und artverwandten Methoden:�
 
 Hilfestellungen zur Durchführung von Design Sprints: https://designsprintkit.withgoogle.com/
 
-Erlebe Benno Löwenberg auf dem XCamp
+## Erlebe Benno Löwenberg auf dem XCamp
 Auf dem XCamp erwartet Dich, neben zahlreichen weiteren spannenden Sessions, Benno Löwenberg mit einer Session zum Thema „Google Design-Sprints“.
 
-About the Author: benno
