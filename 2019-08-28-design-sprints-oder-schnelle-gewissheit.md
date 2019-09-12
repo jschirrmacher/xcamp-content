@@ -48,9 +48,9 @@ Design Sprints ermöglichen es innerhalb kurzer Zeit Kundenanforderungen aus unt
 ##Tipps und Infos
 Mehr Details z. B. zu den einzelnen Phasen, weiterführende Informationen, hilfreiche Hinweise und Werkzeuge finden sich hier:
 
-Design Sprints, kurz knackig und komplett präsentiert:  https://speakerdeck.com/bennoloewenberg/google-design-sprint-deutsch-number-googlede
+Design Sprints, kurz knackig und komplett präsentiert: https://speakerdeck.com/bennoloewenberg/google-design-sprint-deutsch-number-googlede
 
-Aktuelle Meldungen und Beiträge zu Design Sprints und artverwandten Methoden:  https://twitter.com/BennoLoewenberg
+Aktuelle Meldungen und Beiträge zu Design Sprints und artverwandten Methoden: https://twitter.com/BennoLoewenberg
 
 Hilfestellungen zur Durchführung von Design Sprints: https://designsprintkit.withgoogle.com/
 
