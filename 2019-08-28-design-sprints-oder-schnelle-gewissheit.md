@@ -6,7 +6,6 @@ image:     loewenberg_designsprints-1-1024x575-1.jpg
 tags:      XCamp2019, Sessions
 ---
 
-#Design Sprints oder schnelle Gewissheit
 Kundenprobleme verstehen, Ideen für passende Lösungen entwickeln und herausfinden, wie gut jene Ideen tatsächlich sind – all das in kurzer Zeit: Charakteristika und Einsatzmöglichkeiten der Design Sprint-Methode von Google im Vergleich und Zusammenspiel mit Design Thinking-Methoden und Lean Startup.
 
 ##Positiver Zeitdruck
