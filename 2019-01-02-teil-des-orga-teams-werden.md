@@ -19,6 +19,6 @@ Nach dem Barcamp ist vor dem Barcamp. Jetzt gilt es eine Location und einen Term
 - Konzeption und Betreuung neuer Formate auf dem Barcamp
 - Grafische Arbeiten
 
-Falls Du Lust und Interesse hast in einem netten Team zu organisieren, dann würden wir uns über Deine Motivation, Deinen Beitrag für das XCamp  und eine Nachricht von Dir sehr freuen!
+Falls Du Lust und Interesse hast in einem netten Team zu organisieren, dann würden wir uns über Deine Motivation, Deinen Beitrag für das XCamp und eine Nachricht von Dir sehr freuen!
 
 > HERZLICHEN DANK! WIR SIND FÜR 2019 MIT EINEM SPANNENDEN TEAM VOLLSTÄNDIG.
