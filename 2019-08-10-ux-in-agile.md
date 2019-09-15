@@ -6,7 +6,7 @@ image:     UX_in_AGILE.png
 tags:      XCamp2019, Sessions
 ---
 
-> ICH DENKE DAS THEMA IST “HOT” UND MÖCHTE ES DAHER AUF DEM XCAMP 2019 IN EINER WORKING SESSION MIT EUCH DISKUTIEREN UND LÖSUNGEN ERARBEITEN:
+> Ich denke das Thema ist “HOT” und möchte es daher auf dem XCamp 2019 in einer Working Session mit euch diskutieren und Lösungen bearbeiten:
 
 Früh und kontinuierlich Mehrwert für Kunden zu schaffen, ist (eigentlich) eines der Grundprinzipien hinter dem agilen Manifest. Doch einmal provokant gefragt: Wie viel Kundenmehrwerte (Customer Value) werden denn tatsächlich in agilen Projekten generiert?
 
@@ -42,7 +42,7 @@ Die folgenden Empfehlungen aus unterschiedlichen Fachbereichen sind bereits von 
 
 Die 5 Lösungsansätze wollen wir euch im Teil 02 vorstellen:
 
-- UX IN AGILE UND SCRUM (Jeff Gothelf, ![gothelf.co](https://jeffgothelf.com/), ![Scrum.org](https://www.scrum.org/))
+- UX IN AGILE UND SCRUM (Jeff Gothelf, [gothelf.co](https://jeffgothelf.com/), [Scrum.org](https://www.scrum.org/))
 - INTEGRATING UX AND USABILITY TESTIN IN AGILE (userzoom)
 - Lean UX in SAFe
 - Agile Prozesse mit Design Sprints optimieren
