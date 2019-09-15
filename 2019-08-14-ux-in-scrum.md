@@ -8,6 +8,8 @@ tags:      XCamp2019, Sessions
 
 Ich stelle euch hier die bekanntesten Integrationsansätze für UX und Scrum inhaltlich vor. Alle, die beim XCamp darüber mitdiskutieren wollen, sollten mit den wichtigsten Grundlagen über Agile/Scrum vorab vertraut sein. Eine Einführung wird es in der Session aus Zeitgründen leider nicht mehr gegeben.
 
+<!--snip-->
+
 ##5 Lösungsansätze für die Integration
 - UX IN AGILE UND SCRUM (Jeff Gothelf, [gothelf.co](https://jeffgothelf.com/), [Scrum.org](https://www.scrum.org/))
 - INTEGRATING UX AND USABILITY TESTING IN AGILE (userzoom)
