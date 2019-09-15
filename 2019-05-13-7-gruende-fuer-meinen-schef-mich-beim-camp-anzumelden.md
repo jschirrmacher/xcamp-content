@@ -10,13 +10,13 @@ tags:      XCamp2019, Sessions
 
 7 Gründe für meinen Chef, mich beim XCamp 2019 anzumelden
 
-- Neue Ideen für die eigene Arbeit erhalten
-- Spezialisten treffen und sich mit ihnen austauschen
-- Mit Experten vernetzen und kurze Wege für schnelle Information installieren
-- Neue Arbeitsmethoden und Tools kennenlernen
-- Sich weiterbilden mit Erkenntnissen aus der Praxis
-- Günstige Alternative im Vergleich zu klassischen Konferenzen
-- Personen treffen, die etwas bewegen wollen und zum Unternehmen passen
+1. Neue Ideen für die eigene Arbeit erhalten
+1. Spezialisten treffen und sich mit ihnen austauschen
+1. Mit Experten vernetzen und kurze Wege für schnelle Information installieren
+1. Neue Arbeitsmethoden und Tools kennenlernen
+1. Sich weiterbilden mit Erkenntnissen aus der Praxis
+1. Günstige Alternative im Vergleich zu klassischen Konferenzen
+1. Personen treffen, die etwas bewegen wollen und zum Unternehmen passen
 
 Bonusgrund: Findet am Causal Freitag statt
 
