@@ -5,7 +5,7 @@ published: 01.02.2019
 image:     Universal_Tile_XCamp19_XCamp19-Verstaerkung.png
 tags:      XCamp2019
 ---
-
+![XCamp2019-Verstaerkung](Universal_Tile_XCamp19_XCamp19-Verstaerkung.png)
 Nach dem Barcamp ist vor dem Barcamp. Jetzt gilt es eine Location und einen Termin zu finden. Aktuell sind wir ein Team aus Entwicklern, Beratern sowie Coaches und suchen Freiwillige, die uns bei der Organisation unseres XCamps 2019 unterstützen. Die Aufgaben sind vielfältig, spannend und umfassen folgende Tätigkeiten:
 
 - Regelmäßige Treffen mit dem Orga-Team
