@@ -15,4 +15,4 @@ bei DB Systel GmbH
 
 <a class="ytp-title-link yt-uix-sessionlink" target="_blank" data-sessionlink="feature=player-title" href="https://www.youtube.com/watch?v=4HbXMuR2eN0">Was ist das XCamp? Interview Dr. Christiane Gerigk und Jens Bothmer</a>
 
-JETZT TICKET SICHERN
+<a class="button turquoise big" target="_self" href="tickets">JETZT TICKET SICHERN</a>
