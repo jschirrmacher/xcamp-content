@@ -13,6 +13,6 @@ Frankfurt am Main
 Skydeck Silberturm, 31. Etage
 bei DB Systel GmbH
 
-https://youtu.be/4HbXMuR2eN0
+<a class="ytp-title-link yt-uix-sessionlink" target="_blank" data-sessionlink="feature=player-title" href="https://www.youtube.com/watch?v=4HbXMuR2eN0">Was ist das XCamp? Interview Dr. Christiane Gerigk und Jens Bothmer</a>
 
 JETZT TICKET SICHERN
