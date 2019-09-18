@@ -1,12 +1,12 @@
 ---
-title:     Deep Listening – die Quelle von Führung
-author:    Jens Bothmer
-published: 04.09.2019
-image:     dog-1200x800.jpg
-tags:      XCamp2019, Sessions
+title:      Deep Listening – die Quelle von Führung
+authorPage: jens-bothmer
+published:  04.09.2019
+image:      media/dog-1200x800.jpg
+tags:       XCamp2019, Sessions
 ---
 
-![alt text](dog-1200x800.jpg)
+![alt text](media/dog-1200x800.jpg)
 
 Wann war dein letztes Gespräch, bei dem etwas Neues miteinander entstanden ist?
 
@@ -33,7 +33,7 @@ Dieser Aufbau von Aufmerksamkeitsmustern erfordert somit Achtsamkeit. Achtsamkei
 Die Quelle von zukunftsorientierter Führung liegt somit darin, die eigene Aufmerksamkeit durch bewusstes Hinhören auszurichten. Aufbauend auf dieser Handlung entstehen alle weiteren sozialen Beziehungen. Anders gesagt: „Der Erfolg einer Intervention hängt vom inneren Zustand des Intervenierenden ab.“ Theorie U als soziale Technik für die Gestaltung von Veränderungen baut auf dieser Quelle von Führung auf. Sie fragt, wie wir von der Zukunft her lernen können. Denn wie schon Einstein wusste: Probleme kann man niemals mit derselben Denkweise lösen, durch die sie entstanden sind.
 
 ## Über die Autorin:
-Bianca Köllner ist [selbstständige Beraterin](https://www.conscious-change.net/deutsch/) für die gemeinsame Gestaltung von systemischem Wandel und ganzheitlichem Lernen in Organisationen und Netzwerken. Sie versteht sich dabei als Wegbereiterin für soziale Innovation und Nachhaltigkeit. Mehr Informationen unter: https://www.conscious-change.net
+Bianca Köllner ist [selbstständige Beraterin](https://www.conscious-change.net/) für die gemeinsame Gestaltung von systemischem Wandel und ganzheitlichem Lernen in Organisationen und Netzwerken. Sie versteht sich dabei als Wegbereiterin für soziale Innovation und Nachhaltigkeit. Mehr Informationen unter: https://www.conscious-change.net
 
 ## Quellen
 - Otto Scharmer: Essentials der Theorie U – Grundprinzipien und Anwendungen, 2019

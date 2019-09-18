@@ -2,7 +2,7 @@
 title:     Damit deine Session ein Benefit für dich und das XCamp19 wird (Teil 1)
 author:    Gudrun Traumann
 published: 25.08.2019
-image:     Fishbowl.png
+image:     media/Fishbowl.png
 tags:      XCamp2019, Sessions
 ---
 

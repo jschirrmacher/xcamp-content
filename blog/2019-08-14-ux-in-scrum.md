@@ -2,7 +2,7 @@
 title:     UX IN AGILE – Ansätze, um UX in Agile besser zu integrieren (Teil 2)
 author:    Wolf Noeding
 published: 14.08.2019
-image:     image_dt_lean_agile.png
+image:     media/image_dt_lean_agile.png
 tags:      XCamp2019, Sessions
 ---
 

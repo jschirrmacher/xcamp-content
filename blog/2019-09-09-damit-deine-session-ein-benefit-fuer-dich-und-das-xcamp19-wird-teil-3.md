@@ -2,7 +2,7 @@
 title:     Damit deine Session ein Benefit für dich und das XCamp19 wird (Teil 3)
 author:    Gudrun Traumann
 published: 09.09.2019
-image:     Studio-Walk.png
+image:     media/Studio-Walk.png
 tags:      XCamp2019, Sessions
 ---
 
@@ -22,7 +22,7 @@ Heute präsentieren wir die letzen vier Methoden.
 
 
 <a name="ja-und-brainstorming"></a>
-![Ja+Und Brainstorming](Ja-Und-Brainstorming.png)
+![Ja+Und Brainstorming](media/Ja-Und-Brainstorming.png)
 
 ## Ja+Und Brainstorming
 Problemstellung ist oft noch nicht klar. Eine reine Ideenfindung steht im Vordergrund. Es geht um Ideenfluss und Querdenken, frei von Konventionen:
@@ -36,7 +36,7 @@ Wichtig: Alles ist richtig, Quantität statt Qualität, Querdenken und unrealist
 
 
 <a name="mind-mapping"></a>
-![Mind-Mapping](Mind-Mapping.png)
+![Mind-Mapping](media/Mind-Mapping.png)
 
 ## Mind-Mapping
 Wenn Problem oder Aufgabenstellung schon etwas klarer sind. Alle Abhängigkeiten werden in Struktur gebracht und aufgedeckt:
@@ -49,7 +49,7 @@ Eignet sich für kleineren Gruppen und kann sogar alleine die Gedanken sortieren
 
 
 <a name="studio-walk"></a>
-![Studio Walk](Studio-Walk.png)
+![Studio Walk](media/Studio-Walk.png)
 
 ## Studio Walk
 Diese Methode arbeitet mit mehreren Flipcharts, um die sich die Teilnehmer bewegen müssen:
@@ -63,7 +63,7 @@ Die Methode eignet sich, um schnell vom Team getragene Lösungen zu erarbeiten.
 
 
 <a name="show-and-tell"></a>
-![Show & Tell](Show-and-Tell.png)
+![Show & Tell](media/Show-and-Tell.png)
 
 ## Show & Tell
 
