@@ -2,7 +2,7 @@
 title:     UX IN AGILE – Ansätze, um UX in Agile besser zu integrieren (Teil 1)
 author:    Wolf Noeding
 published: 10.08.2019
-image:     UX_in_AGILE.png
+image:     media/UX_in_AGILE.png
 tags:      XCamp2019, Sessions
 ---
 
@@ -12,7 +12,7 @@ Früh und kontinuierlich Mehrwert für Kunden zu schaffen, ist (eigentlich) eine
 
 Wenn wir ehrlich sind, sieht die Realität oft ernüchternd aus: User Stories, die einen tatsächlichen Mehrwert liefern würden, werden leider oft auf unbestimmte Zeit im Backlog “runterpriorisiert”. Wichtige Mechanismen für kundenzentrierte Entwicklung fehlen gänzlich im agilen Prozess. Das geht besser!
 
-![Zitat aus Forbes](Bild_Agile_laws-400x214.png)
+![Zitat aus Forbes](media/Bild_Agile_laws-400x214.png)
 ([Zitat aus Forbes](https://www.forbes.com/sites/stevedenning/2019/05/23/understanding-fake-agile/#1944085b4bbe): „Understanding Fake Agile“… )
 
 Wie lassen sich agile Produktentwicklung und UX optimal verzahnen? Das ist – fast zwanzig Jahre nach der Veröffentlichung des agilen Manifests – immer noch umstritten und in vielen Projekten ungelöst. Wir haben es eher mit zwei „Fachbereichen“ zu tun, die sich getrennt rasant weiterentwickeln. Stichwort Lean UX, Spotify-Model, Design Ops, Research Ops … was die Verzahnung umso dringlicher macht.

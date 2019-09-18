@@ -1,12 +1,12 @@
 ---
-title:     7 Gründe für meinen Chef, mich beim XCamp 2019 anzumelden
-author:    Jens Bothmer
-published: 13.05.2019
-image:     XCamp17_XCamp17_7-Gruende-fuer-den-Chef-1.png
-tags:      XCamp2019, Sessions
+title:      7 Gründe für meinen Chef, mich beim XCamp 2019 anzumelden
+authorPage: jens-bothmer
+published:  13.05.2019
+image:      media/XCamp17_XCamp17_7-Gruende-fuer-den-Chef-1.png
+tags:       XCamp2019, Sessions
 ---
 
-![Session Board](XCamp17_XCamp17_7-Gruende-fuer-den-Chef-1.png)
+![Session Board](media/XCamp17_XCamp17_7-Gruende-fuer-den-Chef-1.png)
 
 7 Gründe für meinen Chef, mich beim XCamp 2019 anzumelden
 
