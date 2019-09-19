@@ -7,11 +7,13 @@ tags:      XCamp2018, Sessions
 ---
 
 ##Das war das XCamp18
+
 Wieder einmal gab es viel gutes Feedback für unser diesjähriges Treffen am 25. August 2018 im Skydeck der DB Systel in 
 Frankfurt. Einige der Teilnehmer haben über ihre Erfahrungen in ihren Blogs berichtet, manche sind aber auch nur in den 
 internen Tools der jeweiligen Unternehmen zu finden. Zwei davon haben uns erlaubt, ihre Beiträge hier zu wiederzugeben:
 
 ##Tanja Oberst
+
 Am Wochenende war ich auf dem XCamp Rhein Main. Nachfolgend eine Zusammenfassung drei meiner favorisierten Sessions, 
 die ich besucht habe.  Das Xcamp fand am 25.08. im Skydeck in Frankfurt statt.
 
@@ -78,6 +80,7 @@ Weitere interessante Session wurden angeboten, aber wie das immer so ist am Barc
 Hochzeiten tanzen.
 
 ##Nico Jan Bach
+
 Twitter, Hashtags, agil, Intrapreneure … und weitere Begriffe, die sich immer mehr in den Sprachgebrauch des Alltags 
 einschleichen. Eine Welt, die mir bis vor acht Monaten im eigenen Unternehmen noch surreal erschien und letzten Samstag 
 offenbart wurde.
