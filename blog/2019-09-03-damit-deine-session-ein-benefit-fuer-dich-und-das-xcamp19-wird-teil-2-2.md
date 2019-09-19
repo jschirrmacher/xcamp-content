@@ -1,9 +1,9 @@
 ---
-title:     Damit deine Session ein Benefit für dich und das XCamp19 wird (Teil 2)
-author:    Gudrun Traumann
-published: 03.09.2019
-image:     media/Kollegiale-Beratung.png
-tags:      XCamp2019, Sessions
+title:      Damit deine Session ein Benefit für dich und das XCamp19 wird (Teil 2)
+authorPage: gudrun-traumann
+published:  03.09.2019
+image:      media/Kollegiale-Beratung.png
+tags:       XCamp2019, Sessions
 ---
 
 Das XCamp lebt von vielseitigen Themenbeiträgen und dem intensiven Austausch zu diesen. Du hast bereits ein Thema für

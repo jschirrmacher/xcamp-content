@@ -5,3 +5,5 @@ image:    ChristianeGerigk.jpg
 ---
 
 Christiane arbeitet als Coach in der Startphase von digitalen Innovationsprojekten. Unternehmen engagieren sie als Trainerin und Workshop-Moderatorin, um Mitarbeiter*innen verschiedenster Altersgruppen und Berufsrichtungen für agile Methoden und die digitale Transformation zu gewinnen.
+
+[Christiane Gerigk auf NetVis](https://xcamp.co/netvis/#0x186bd)
