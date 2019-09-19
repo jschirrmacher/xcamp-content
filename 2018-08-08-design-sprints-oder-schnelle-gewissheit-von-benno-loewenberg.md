@@ -41,7 +41,8 @@ in Anspruch nehmen kann als der eigentliche Design Sprint selbst. Diese beinhalt
 das Verstehen des Problemfeldes und der daraus abgeleiteten Formulierung der zu lösenden Problemstellung („Problem Framing“) 
 sowie den dafür notwendigen Nutzerrecherchen als Grundlage.
 
-Machen und Verwerfen
+##Machen und Verwerfen
+
 Für jedes Team und jede Aufgabe wird ein Design Sprint mit einer darauf abgestimmten Auswahl an Hilfsmitteln gefahren. 
 Auch während dessen Durchführung nimmt der Sprint Master, je nach Dynamik und Zwischenergebnissen, „on-the-fly“ Anpassungen 
 vor.
@@ -54,7 +55,8 @@ entstandenen Ideen anfass – und überprüfbar. Sie sind kein Selbstzweck, sond
 ausgearbeitet sein müssen, um beim Verproben mit Probanden ein Produkterlebnis zu schaffen, das realistisch genug für 
 aussagekräftige Ergebnisse ist („Rapid Prototyping“).
 
-Vielseitig und vielschichtig
+##Vielseitig und vielschichtig
+
 Wie bei allen Human-Centered Design Methoden spielt eine möglichst vielfältig aufgestellte Teilnehmergruppe eine wichtige 
 Rolle, damit die verschiedenen Blickwinkel zu einem Problemfeld und unterschiedliche Denkweisen für Lösungsansätze im 
 Team vorhanden sind. Jenes Know-how, welches nicht im Team vertreten ist, wird durch entsprechende Kurzvorträge externer 
@@ -78,7 +80,8 @@ und betrachten zu können. Ebenso mehrere mögliche Lösungen zu generieren und 
 
 ![Designsprints](loewenberg_designsprints-4-1024x575.jpg)
 
-Tipps und Infos
+##Tipps und Infos
+
 Mehr Details z. B. zu den einzelnen Phasen, weiterführende Informationen, hilfreiche Hinweise und Werkzeuge finden sich hier:
 
 Design Sprints, kurz knackig und komplett präsentiert: 
