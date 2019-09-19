@@ -8,6 +8,7 @@ Each article should contain a "meta" block, which contains the following fields:
 
 - **title** - The title of the article. This will be shown in the article list and as the title in the article itself, so there is no need to use another title by yourself.
 - **author** - The name of the articles author - normally you ;-)
+- **authorPage** - The name of the authors page (in /team)
 - **published** - The publishing date of the article.
 - **image** - Name of the image file which should be used in the article list.
 - **tags** - Comma separated list of tags for this article
