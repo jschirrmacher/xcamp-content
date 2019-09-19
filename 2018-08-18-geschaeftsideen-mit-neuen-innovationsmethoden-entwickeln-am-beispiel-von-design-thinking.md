@@ -2,7 +2,7 @@
 title:     Geschäftsideen mit neuen Innovationsmethoden entwickeln am Beispiel von Design Thinking
 author:    Jens Bothmer
 published: 18.08.2018
-image:     
+image:     DesignThinking_Workshops_by_autentity.de_resize-700x441.jpg
 tags:      XCamp2018, Sessions
 ---
 
