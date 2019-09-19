@@ -16,13 +16,13 @@ Lerne im Design Thinking Praxis-Workshop den Hintergrund, die Prinzipien und die
 
 ##Der Workshops ist ideal geeignet für:
 
-Manager und Geschäftsführer
-Fach- und Führungskräfte
-Projektleiter und Product-Owner
-Berater
-Personal-Referenten
-Research & Development sowie Business Development
-Sales, Marketing und Vertrieb
+- Manager und Geschäftsführer
+- Fach- und Führungskräfte
+- Projektleiter und Product-Owner
+- Berater
+- Personal-Referenten
+- Research & Development sowie Business Development
+- Sales, Marketing und Vertrieb
 
 ##Workshopleitung
 
