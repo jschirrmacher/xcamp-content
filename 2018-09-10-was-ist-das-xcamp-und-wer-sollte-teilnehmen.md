@@ -2,7 +2,7 @@
 title:     Video-Interview: Was ist das XCamp und wer sollte teilnehmen?
 author:    Jens Bothmer
 published: 10.09.2019
-image:     
+image:     Blog_Kachel-700x441.png
 tags:      XCamp2019, Sessions
 ---
 
