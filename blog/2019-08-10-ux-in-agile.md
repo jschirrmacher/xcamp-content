@@ -1,9 +1,9 @@
 ---
-title:     UX IN AGILE – Ansätze, um UX in Agile besser zu integrieren (Teil 1)
-author:    Wolf Noeding
-published: 10.08.2019
-image:     media/UX_in_AGILE.png
-tags:      XCamp2019, Sessions
+title:      UX IN AGILE – Ansätze, um UX in Agile besser zu integrieren (Teil 1)
+authorPage: wolf-noeding
+published:  10.08.2019
+image:      media/UX_in_AGILE.png
+tags:       XCamp2019, Sessions
 ---
 
 > Ich denke das Thema ist “HOT” und möchte es daher auf dem XCamp 2019 in einer Working Session mit euch diskutieren und Lösungen bearbeiten:

@@ -15,3 +15,5 @@ Er organisiert das XCamp und seinen Vorläufer, das LeanCamp, in der Frankfurt/R
 das Tool zur Vernetzung der Teilnehmer [Netvis](https://xcamp.co/netvis/) entwickelt.
 
 Weitere Infos zu Joachim finden sich auf seinem [XING Profil](https://www.xing.com/profile/Joachim_Schirrmacher)
+
+[Joachim Schirmacher auf NetVis](https://xcamp.co/netvis/#0x186b5)

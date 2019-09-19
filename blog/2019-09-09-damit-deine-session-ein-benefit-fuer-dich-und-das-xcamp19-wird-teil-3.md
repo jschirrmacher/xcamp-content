@@ -1,9 +1,9 @@
 ---
-title:     Damit deine Session ein Benefit für dich und das XCamp19 wird (Teil 3)
-author:    Gudrun Traumann
-published: 09.09.2019
-image:     media/Studio-Walk.png
-tags:      XCamp2019, Sessions
+title:      Damit deine Session ein Benefit für dich und das XCamp19 wird (Teil 3)
+authorPage: gudrun-traumann
+published:  09.09.2019
+image:      media/Studio-Walk.png
+tags:       XCamp2019, Sessions
 ---
 
 ## Inspirationen kurz vor dem Endspurt

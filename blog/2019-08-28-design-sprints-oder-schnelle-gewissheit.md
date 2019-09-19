@@ -1,9 +1,9 @@
 ---
-title:     Design Sprints oder schnelle Gewissheit
-author:    Benno Löwenberg
-published: 28.08.2019
-image:     media/loewenberg_designsprints-1-1024x575-1.jpg
-tags:      XCamp2019, Sessions
+title:      Design Sprints oder schnelle Gewissheit
+authorPage: benno-loewenberg
+published:  28.08.2019
+image:      media/loewenberg_designsprints-1-1024x575-1.jpg
+tags:       XCamp2019, Sessions
 ---
 
 Kundenprobleme verstehen, Ideen für passende Lösungen entwickeln und herausfinden, wie gut jene Ideen tatsächlich sind – all das in kurzer Zeit: Charakteristika und Einsatzmöglichkeiten der Design Sprint-Methode von Google im Vergleich und Zusammenspiel mit Design Thinking-Methoden und Lean Startup.
