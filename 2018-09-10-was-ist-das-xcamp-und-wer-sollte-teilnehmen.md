@@ -1,5 +1,5 @@
 ---
-title:     Video-Interview: Was ist das XCamp und wer sollte teilnehmen?
+title:     Video-Interview - Was ist das XCamp und wer sollte teilnehmen?
 author:    Jens Bothmer
 published: 10.09.2019
 image:     Blog_Kachel-700x441.png
