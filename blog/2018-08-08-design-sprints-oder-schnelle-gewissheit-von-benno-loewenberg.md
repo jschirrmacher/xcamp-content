@@ -2,7 +2,7 @@
 title:      Design Sprints oder schnelle Gewissheit
 authorPage: benno-loewenberg
 published:  08.08.2018
-image:      media/Universal_Tile_XCamp19_XCamp17_Sesssion_Loewenberg_Benno_Design-Sprint-320x202.png
+image:      media/Universal_Tile_XCamp19_XCamp17_Sesssion_Loewenberg_Benno_Design-Sprint.png
 tags:       XCamp2018, Sessions
 ---
 
