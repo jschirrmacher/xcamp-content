@@ -27,7 +27,7 @@ roles for large companies, such as eBay, Audi, SONY, Elsevier Science, LexisNexi
 Before moving back to the US in 2013 after living for fifteen years in Germany, he was the co-founder of the [European 
 Information Architecture conferences](https://euroia.org/). he also founded the [IA Konferenz](http://iakonferenz.org/), a 
 leading UX design event in Germany. For many years, 
-he was an editor with [Boxes and Arrows](http://www.boxesandarrows.com/), a leading online journal for user experience 
+he was an editor with [Boxes and Arrows](http://boxesandarrows.com/), a leading online journal for user experience 
 information. I also served on the advisory board of the [Information Architecture Institute](https://www.iainstitute.org/) 
 in 2007 and 2005. In 2007, Jim published my first full-length book, 
 [Designing Web Navigation](https://www.amazon.com/Designing-Web-Navigation-Optimizing-Experience/dp/0596528108/ref=sr_1_1?ie=UTF8&qid=1314717308&sr=8-1) 
