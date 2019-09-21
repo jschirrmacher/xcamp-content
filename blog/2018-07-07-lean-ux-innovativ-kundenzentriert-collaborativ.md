@@ -1,7 +1,7 @@
 ---
 title:      Lean UX – innovativ. kundenzentriert. collaborativ.
 authorPage: wolf-noeding
-published:  12.07.2018
+published:  07.07.2018
 image:      media/Universal_Tile_XCamp18_Leanx-UX-2.png
 tags:       XCamp2018, Sessions
 ---
