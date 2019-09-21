@@ -1,9 +1,9 @@
 ---
-title:     Scrum in einfachen Worten und Bildern erklären
-author:    Christiane Gerigk
-published: 14.08.2018
-image:     Christiane-Gerigk-320x202.png
-tags:      XCamp2018, Sessions
+title:      Scrum in einfachen Worten und Bildern erklären
+authorPage: christiane-gerigk
+published:  14.08.2018
+image:      media/Christiane-Gerigk-320x202.png
+tags:       XCamp2018, Sessions
 ---
 
 ##Session: Scrum – Agile Entwicklung kennenlernen
@@ -22,6 +22,6 @@ und Prozesse der agilen Methode ein.
 Zu der Session lade ich alle ein, die bisher nur am Rande oder gar nicht mit Scrum und agilen Methoden in Berührung 
 gekommen sind und gern mehr darüber erfahren wollen. Ich freue mich auf eure Fragen, auch Zweifel und Wünsche dazu.
 
-![Scrum in einfachen Worten](Titel-Scrum-in-einfachen-Worten-320x202.jpg)
+![Scrum in einfachen Worten](media/Titel-Scrum-in-einfachen-Worten-320x202.jpg)
 
 <a class="button turquoise big" target="_self" href="tickets">Jetzt Ticket sichern</a>
