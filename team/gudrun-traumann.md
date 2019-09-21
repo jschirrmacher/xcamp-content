@@ -1,7 +1,7 @@
 ---
 template: member-page
 title: Gudrun Traumann
-image: GudrunTrauman.jpg
+image: GudrunTraumann.jpg
 ---
 
 Gudrun Traumann ist Trainer für zielorientierte Kommunikation und hilft Menschen dabei, sich selbst und ihre Produkte
