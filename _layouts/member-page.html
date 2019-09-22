@@ -16,19 +16,6 @@
             <h1>Über {{page.title}}</h1>
             {{content}}
         </div>
-
-        <h2>Artikel von {{page.title}}</h2>
-        <div class="articles">
-            {{#articleList}}
-            <div class="card">
-                <a href="../blog/{{page.pageName}}">
-                    <img src="{{page.image}}">
-                    <h3>{{page.title}}</h3>
-                </a>
-                {{& previewText}}
-            </div>
-            {{/articleList}}
-        </div>
     </div>
 </div>
 

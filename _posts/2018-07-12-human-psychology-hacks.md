@@ -1,4 +1,5 @@
 ---
+layout:     post
 title:      Mastering Transformations with Human Psychology Hacks
 authorPage: christiane-gerigk
 published:  12.07.2018

@@ -1,4 +1,5 @@
 ---
+layout:     post
 title:      Mit dem Wheel of Progress aufdecken, wo Kunden nach Fortschritt suchen
 authorPage: christiane-gerigk
 published:  04.09.2019

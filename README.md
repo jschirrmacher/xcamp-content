@@ -20,6 +20,7 @@ dashes `---`.
 The meta block contains the following fields:
 
 **blog pages**
+- **layout** - Should be set to `post`.
 - **title** - The title of the article. It will be shown in the article list and as the title in the article itself, so
   there is no need to use another title by yourself.
 - **authorPage** - The name of the authors page (in `/team` folder, don't use the `.md` here, just the name)
@@ -30,8 +31,8 @@ The meta block contains the following fields:
 - **tags** - Comma separated list of tags for this article
 
 **team member pages**
+- **layout** - Should be set to `member-page`.
 - **title** - The title of the page, which is the team members name.
-- **layout** - Normally set to `member-page`, this is intended for future extensions.
 - **image** - File name of a profile picture of the team member.
 
 

@@ -1,4 +1,5 @@
 ---
+layout:     post
 title:      Damit deine Session ein Benefit für dich und das XCamp19 wird (Teil 1)
 authorPage: gudrun-traumann
 published:  25.08.2019

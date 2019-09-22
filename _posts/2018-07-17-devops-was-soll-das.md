@@ -1,4 +1,5 @@
 ---
+layout:     post
 title:      DevOps - was soll das?
 authorPage: joachim-schirrmacher
 published:  17.07.2018

@@ -1,4 +1,5 @@
 ---
+layout:     post
 title:      Geschäftsideen mit neuen Innovationsmethoden entwickeln am Beispiel von Design Thinking
 authorPage: jens-bothmer
 published:  18.08.2018

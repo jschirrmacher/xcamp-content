@@ -1,4 +1,5 @@
 ---
+layout:     post
 title:      Long Distance Relationships - Making Distributed Design Work
 author:     Jim Kalbach
 authorPage: jens-bothmer

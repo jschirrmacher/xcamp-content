@@ -1,4 +1,5 @@
 ---
+layout:     post
 title:      XCamp Orga-Team 2019 stellt sich vor – Einblicke in die Werkstatt
 authorPage: christiane-gerigk
 published:  19.05.2019

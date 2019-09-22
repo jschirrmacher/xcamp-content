@@ -1,4 +1,5 @@
 ---
+layout:     post
 title:      Grußwort zum XCamp von Prof. Dr. Kristina Sinemus – Hessische Ministerin für Digitale Strategie und Entwicklung
 authorPage: gudrun-traumann
 published:  15.07.2019

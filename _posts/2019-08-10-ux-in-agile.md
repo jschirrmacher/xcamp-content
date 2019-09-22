@@ -1,4 +1,5 @@
 ---
+layout:     post
 title:      UX IN AGILE – Ansätze, um UX in Agile besser zu integrieren (Teil 1)
 authorPage: wolf-noeding
 published:  10.08.2019

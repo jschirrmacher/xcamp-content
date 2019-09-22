@@ -1,4 +1,5 @@
 ---
+layout:     post
 title:      Das war das XCamp18
 authorPage: joachim-schirrmacher
 published:  06.09.2018

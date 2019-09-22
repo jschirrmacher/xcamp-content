@@ -1,4 +1,5 @@
 ---
+layout:     post
 title:      Lagerfeuer bringen Menschen zusammen
 authorPage: christiane-gerigk
 published:  18.06.2019

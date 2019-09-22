@@ -1,4 +1,5 @@
 ---
+layout:     post
 title:      Design Sprints oder schnelle Gewissheit
 authorPage: benno-loewenberg
 published:  28.08.2019

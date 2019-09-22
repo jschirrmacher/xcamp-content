@@ -1,4 +1,5 @@
 ---
+layout:     post
 title:      Video-Interview - Was ist das XCamp und wer sollte teilnehmen?
 authorPage: jens-bothmer
 published:  10.09.2019

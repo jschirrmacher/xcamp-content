@@ -1,4 +1,5 @@
 ---
+layout:     post
 title:      Deep Listening – die Quelle von Führung
 authorPage: jens-bothmer
 published:  04.09.2019

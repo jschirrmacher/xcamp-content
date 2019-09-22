@@ -1,4 +1,5 @@
 ---
+layout:     post
 title:      7 Gründe für meinen Chef, mich beim XCamp 2019 anzumelden
 authorPage: jens-bothmer
 published:  13.05.2019

@@ -1,4 +1,5 @@
 ---
+layout:     post
 title:      Scrum in einfachen Worten und Bildern erklären
 authorPage: christiane-gerigk
 published:  14.08.2018

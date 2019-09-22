@@ -1,4 +1,5 @@
 ---
+layout:     post
 title:      Orga-Team des XCamp 2019 sucht Unterstützung
 authorPage: jens-bothmer
 published:  01.02.2019

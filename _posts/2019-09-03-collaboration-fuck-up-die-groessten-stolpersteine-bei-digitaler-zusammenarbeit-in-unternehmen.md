@@ -1,4 +1,5 @@
 ---
+layout:     post
 title:      Collaboration Fuck-up – die größten Stolpersteine bei digitaler Zusammenarbeit in Unternehmen
 authorPage: jens-bothmer
 published:  03.09.2019

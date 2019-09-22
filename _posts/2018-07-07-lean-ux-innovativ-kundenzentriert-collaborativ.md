@@ -1,4 +1,5 @@
 ---
+layout:     post
 title:      Lean UX – innovativ. kundenzentriert. collaborativ.
 authorPage: wolf-noeding
 published:  07.07.2018
