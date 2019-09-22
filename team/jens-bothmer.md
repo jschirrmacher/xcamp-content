@@ -1,5 +1,5 @@
 ---
-template: member-page
+layout: member-page
 title: Jens Bothmer
 image: JensBothmer.jpg
 ---

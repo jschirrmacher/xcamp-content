@@ -31,7 +31,7 @@ The meta block contains the following fields:
 
 **team member pages**
 - **title** - The title of the page, which is the team members name.
-- **template** - Normally set to `member-page`, this is intended for future extensions.
+- **layout** - Normally set to `member-page`, this is intended for future extensions.
 - **image** - File name of a profile picture of the team member.
 
 

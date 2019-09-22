@@ -1,5 +1,5 @@
 ---
-template: member-page
+layout: member-page
 title: Gudrun Traumann
 image: GudrunTraumann.jpg
 ---
