@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>XCamp Autor - {{page.title}}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://xcamp.co/netvis/dist/css/main.css">
+</head>
+<body>
+{{> menu}}
+{{> logo}}
+<div id="main" class="no-background">
+    <div class="container team-member">
+        <div class="row">
+            <img src="{{page.image}}">
+            <h1>Über {{page.title}}</h1>
+            {{content}}
+        </div>
+
+        <h2>Artikel von {{page.title}}</h2>
+        <div class="articles">
+            {{#articleList}}
+            <div class="card">
+                <a href="../blog/{{page.pageName}}">
+                    <img src="{{page.image}}">
+                    <h3>{{page.title}}</h3>
+                </a>
+                {{& previewText}}
+            </div>
+            {{/articleList}}
+        </div>
+    </div>
+</div>
+
+<script src="https://xcamp.co/netvis/common.js"></script>
+</body>
+</html>
