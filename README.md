@@ -11,8 +11,7 @@ It is described in https://github.com/showdownjs/showdown/wiki/Showdown's-Markdo
 
 ## Page types
 
-Currently, there are two kinds of pages, blog articles (located in `/blog`) and team member pages (you guessed it:
- located in `/team`).
+Currently, there are two kinds of pages, blog articles (located in `/_posts`) and team member pages (located in `/team`).
 
 Each page should contain a "meta" block, which is at the beginning of each page and is surrounded by lines of three
 dashes `---`.
