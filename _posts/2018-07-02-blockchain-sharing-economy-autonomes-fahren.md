@@ -1,11 +1,11 @@
 ---
-title:     Lean Startup oder Was haben Blockchain, Sharing Economy und autonomes Fahren gemeinsam?
-author:    Christiane Gerigk
-published: 02.07.2018
-image:     Universal_Tile_XCamp18_Thomas-Edison-700x441.png
-tags:      XCamp2019, Sessions
+layout:     post
+title:      Lean Startup oder Was haben Blockchain, Sharing Economy und autonomes Fahren gemeinsam?
+authorPage: Christiane Gerigk
+published:  02.07.2018
+image:      Universal_Tile_XCamp18_Thomas-Edison-700x441.png
+tags:       XCamp2018, Sessions
 ---
-
 
 Den Aufbruch ins Unbekannte. Anbieter wie Konsumenten kennen die Praxis noch nicht. Auf Fragen gibt es keine Antworten durch 
 Recherchen, Best Practice oder gründliches Nachdenken. Unser Erfahrungswissen reicht bestenfalls für gute Annahmen, die es zu 
