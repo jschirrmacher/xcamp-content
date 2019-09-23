@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Die Magie der Momente – wie Augenblicke zu Geschichte werden und unser Leben sich maßgeblich verändert
-authorPage: Christiane Gerigk
+authorPage: christiane-gerigk
 published:  08.11.2017
 image:      media/Torsten-J-Koerting-Slider_3000x1680_Beratung-700x441.jpg
 tags:       XCamp2017, Sessions
