@@ -1,15 +1,15 @@
 ---
 layout:     post
 title:      Planungen für das XCamp laufen auf Hochtouren
-authorPage: Jens Bothmer
+authorPage: jens-bothmer
 published:  15.06.2018
 image:      media/XCamp-Team_2018_1280px-700x441.jpg
 tags:       XCamp2018
 ---
 
 Der 25. August 2018 steht fest. Die Location ist im 
-![Skydeck des Silberturms bei der DB Systel GmbH](https://skydeck.deutschebahn.com/) atemberaubend. 
-Erste Sessions sind bei uns eingereicht. Wir, das ![Orga-Team](https://xcamp.co/barcamp-for-agile-management/ueber/) 
+[Skydeck des Silberturms bei der DB Systel GmbH](https://skydeck.deutschebahn.com/) atemberaubend. 
+Erste Sessions sind bei uns eingereicht. Wir, das [Orga-Team](https://xcamp.co/barcamp-for-agile-management/ueber/) 
 des XCamp, arbeiten auf Hochtouren, um für die Community das XCamp zu gestalten.
 
 Gern geben wir einen kleinen Einblick, wie wir das tun. Siehe Foto. Joachim hat den Ticketverkauf mit optimalen 
