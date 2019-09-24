@@ -1,9 +1,9 @@
 ---
 layout:     post
 title:      Lean Startup oder Was haben Blockchain, Sharing Economy und autonomes Fahren gemeinsam?
-authorPage: Christiane Gerigk
+authorPage: christiane-gerigk
 published:  02.07.2018
-image:      Universal_Tile_XCamp18_Thomas-Edison-700x441.png
+image:      media/Universal_Tile_XCamp18_Thomas-Edison-700x441.png
 tags:       XCamp2018, Sessions
 ---
 
@@ -47,11 +47,11 @@ mit noch unausgereiften Ideen Experimente am Markt durchführen dürfen. Ein Bus
 doch raus aus dem Gebäude? Viele, viele Hürden und Prozessvorschriften sind hier zu überwinden: angefangen von Grundsätzen wie 
 One-Face to the Customer, Corporate Identity, Qualitätssicherung…
 
-Beim ![XCamp](https://xcamp.co/netvis/index) stärken wir allen, die den Lean Weg gehen den Rücken, tauschen uns über Argumente und Praxiserfahrungen aus. Wie 
+Beim [XCamp](https://xcamp.co/netvis/index) stärken wir allen, die den Lean Weg gehen den Rücken, tauschen uns über Argumente und Praxiserfahrungen aus. Wie 
 erkläre ich, dass Lean im Kontext von Produktentwicklung etwas anderes heißt als in Produktion und Kundenservice. Nicht 
 Perfektion und Effizienz, sondern Vermeiden von Zeit und Ressourcen in ungeprüfte, abstrakte Entwicklungschancen.
 
-Interessiert an mehr? Hier entlang geht’s zu den Tickets zum ![XCamp18](https://xcamp.co/netvis/tickets?type=corporate)
+Interessiert an mehr? Hier entlang geht’s zu den Tickets zum [XCamp18](https://xcamp.co/netvis/tickets?type=corporate)
 
 Eine gute Zusammenfassung gibt der HBR-Artikel von 
-![Steve Blank, 2013: Why the Lean Start-Up Changes Everything](https://hbr.org/2013/05/why-the-lean-start-up-changes-everything)
+[Steve Blank, 2013: Why the Lean Start-Up Changes Everything](https://hbr.org/2013/05/why-the-lean-start-up-changes-everything)
