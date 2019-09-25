@@ -27,6 +27,6 @@ Lerne im Design Thinking Praxis-Workshop den Hintergrund, die Prinzipien und die
 
 ##Workshopleitung
 
-![Jens Botmer](media/Jens_Bothmer_683_683_Portraits-200x200.png)
+![Jens Botmer](/media/Jens_Bothmer_683_683_Portraits-200x200.png)
 
 Jens Bothmer, Innovationsberater bei [Autentity](https://www.autentity.de/)

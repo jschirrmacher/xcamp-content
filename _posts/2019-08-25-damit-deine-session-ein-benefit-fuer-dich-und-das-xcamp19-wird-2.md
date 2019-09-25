@@ -17,7 +17,7 @@ strukturieren. Als Session-Geber kannst du das von dir gewünschte Format vorgeb
 Session-Teilnehmern die Regeln zu Beginn kurz in Erinnerung zu rufen.
 
 Wir veröffentlichen die Methoden in lockerer Folge hier im Blog. Fortsetzung folgt in Kürze.
-<!--snip-->
+<!--more-->
 
 ## Teil 1:
 

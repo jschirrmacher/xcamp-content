@@ -2,6 +2,7 @@
 layout:     post
 title:      Mit dem Wheel of Progress aufdecken, wo Kunden nach Fortschritt suchen
 authorPage: christiane-gerigk
+author:     Christiane Gerigk
 published:  04.09.2019
 image:      media/JTBD-Karten-open-1024x768.jpg
 tags:       XCamp2019, Sessions
@@ -17,13 +18,13 @@ Customer Needs, Kundenprobleme oder Kundenbedürfnisse sind bis heute die gängi
 ##Den Wunsch nach Fortschritt verstehen, aber wie?
 Mit Hilfe der richtigen Vorgehensweise, einem Mix aus strukturierten Kundeninterviews und deren Auswertung, lässt sich darstellen, welchen Fortschritt Kunden suchen, wie Kunden heute um eine Lösung ringen und wo die Innovations-Potenziale liegen.
 
-![JTBD-Karten](media/JTBD-Karten-open-1024x768.jpg)
+![JTBD-Karten](/media/JTBD-Karten-open-1024x768.jpg)
 *Jobs-to-be-done Interviewkarten*
 
 ##Das Wheel of Progress
 Auf dem XCamp 2019 werde ich das Wheel of Progress (WoP), ankündigen, welches die Merkmale des Prozesses zu Fortschritt darstellt: Ein Werkzeug, das auf den Erkenntnissen der Jobs to Be Done-Theorie basiert und den „Best Practices“ ihrer Anwendung. Das WoP hilft zu entscheiden, welche Kunden-Jobs besonders lohnend sind und bietet darüber hinaus einen Anschluss an den populären Business Model Canvas.
 
-![JTBD-Karten](media/The-Wheel-of-Progress_Schema-1-1024x724.jpg)
+![JTBD-Karten](/media/The-Wheel-of-Progress_Schema-1-1024x724.jpg)
 *The Wheel of Progress*
 
 ##Neugierig geworden?

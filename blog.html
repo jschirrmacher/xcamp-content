@@ -1,14 +1,41 @@
 ---
 layout: default
-title: Blog
 ---
+<style>
+    ul {
+        margin: 0;
+    }
+
+    li {
+        list-style: none;
+        margin-bottom: 1em;
+    }
+
+    li img {
+        max-width: 30%;
+        float: left;
+        margin-right: 10px;
+        margin-bottom: 10px;
+    }
+
+    li .meta {
+        border-top: 1px solid #343434;
+        border-bottom: 1px solid #343434;
+        padding: 3px 0;
+        clear: both;
+    }
+</style>
+
 <h1>Blog Posts</h1>
 
 <ul>
     {% for post in site.posts %}
     <li>
+        <img src="{{post.image}}">
         <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        <p>{{ post.excerpt }}</p>
+        <p>{{ post.excerpt | strip_html }}</p>
+
+        <div class="meta">by <a href="team/{{ post.authorPage}}">{{ post.author }}</a> | {{ post.published }}</div>
     </li>
     {% endfor %}
 </ul>

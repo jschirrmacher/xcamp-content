@@ -7,7 +7,7 @@ image:      media/Blog_XCamp19_Lagefeuer_72dpi-2.jpg
 tags:       XCamp2019, Sessions
 ---
 
-![Lagerfeuer](media/Blog_XCamp19_Lagefeuer_72dpi-2.jpg)
+![Lagerfeuer](/media/Blog_XCamp19_Lagefeuer_72dpi-2.jpg)
 
 So auch das XCamp. Bei uns denken Menschen gemeinsam über Innovationsmethoden wie Best oder Emerging Practices nach. Der Unterschied zu klassischen Tagungen ist das Barcamp-Format, angereichert durch Workshops, bei denen Hands-on neue Ideen und Methoden ausprobiert und besprochen werden. Das Feedback der Teilnehmer und auch unsere eigenen Erfahrungen in inzwischen 5 Jahren Organisation haben uns darin bestärkt, den interaktiven Charakter noch stärker in den Vordergrund zu rücken.
 
