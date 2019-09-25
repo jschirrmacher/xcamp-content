@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Wir stellen uns vor – das XCamp Orga-Team
-authorPage: 
+author:     XCamp 2018 Team
 published:  07.06.2018
 image:      media/hands_bw-700x441.jpg
 tags:       XCamp2018
@@ -17,7 +17,7 @@ verändert. Wir sind sechs Personen, die sich freiwillig zusammen finden, um fü
 
 Damit ihr uns besser kennen lernt und versteht, weshalb uns das XCamp 2018 wichtig ist, haben wir drei Fragen beantwortet. 
 Mehr Details zu uns findet ihr auf unseren Webseiten oder den XING Profilen. Und natürlich könnt ihr uns beim XCamp im 
-August treffen. Meldet euch auf unserer ![Webseite](https://xcamp.co/netvis/index) an!
+August treffen. Meldet euch auf unserer [Webseite](https://xcamp.co/netvis/index) an!
 
 ##Dr. Christiane Gerigk
 
@@ -38,8 +38,8 @@ Wie schafft man es diese Prinzipien mit den vorhandenen Routinen, Menschen leben
 
 ###Kontakt
 
-![XING](https://www.xing.com/profile/Christiane_Gerigk/cv)
-![Webseite](https://digital-wachsen.de/)
+[XING](https://www.xing.com/profile/Christiane_Gerigk/cv)
+[Webseite](https://digital-wachsen.de/)
 
 
 
@@ -63,7 +63,7 @@ Wie schaffen wir es durch sinnstiftende Formen der Zusammenarbeit nachhaltige In
 
 ###Kontakt
 
-![XING](https://www.xing.com/profile/BiancaNadine_Koellner/cv)
+[XING](https://www.xing.com/profile/BiancaNadine_Koellner/cv)
 
 
 
@@ -87,9 +87,9 @@ Wie müssen Unternehmen aufgestellt sein, z.B. kulturell und organisatorisch, um
 
 ###Kontakt
 
-![XING](https://www.xing.com/profile/Stefan_Trost4/cv)
+[XING](https://www.xing.com/profile/Stefan_Trost4/cv)
 
-![Webseite](https://www.stefantrost.co/)
+[Webseite](https://www.stefantrost.co/)
 
 
 
@@ -109,8 +109,8 @@ Ich arbeite selbst in einem Großunternehmen, das agil werden will.
 
 ###Kontakt
 
-![XING](https://www.xing.com/profile/Joachim_Schirrmacher/cv)
-![Twitter](https://twitter.com/jschirrmacher)
+[XING](https://www.xing.com/profile/Joachim_Schirrmacher/cv)
+[Twitter](https://twitter.com/jschirrmacher)
 
 
 
@@ -129,8 +129,8 @@ Wie können sich Unternehmen mit einem authentischen Vorgehen langfristig auf de
 
 ###Kontakt
 
-![XING](https://www.xing.com/profile/Jens_Bothmer/portfolio)
-![Webseite](https://www.autentity.de/)
+[XING](https://www.xing.com/profile/Jens_Bothmer/portfolio)
+[Webseite](https://www.autentity.de/)
 
 
 
@@ -155,8 +155,8 @@ kontinuierlich weiter, um beispielsweise dem Bedarf nach einer stärkeren Kunden
 Erfahrungsaustausch über die Learnings in diesen Bereichen ist für mich sehr wertvoll.
 
 ###Kontakt
-![XING](https://www.xing.com/profile/WolfH_Noeding/cv)
-![Linkedin](https://www.linkedin.com/in/wolf-noeding-3a77722/)
+[XING](https://www.xing.com/profile/WolfH_Noeding/cv)
+[Linkedin](https://www.linkedin.com/in/wolf-noeding-3a77722/)
 Webseite
 
 
@@ -179,5 +179,5 @@ Lebenslanges Lernen, Agile Methoden im Vertrieb nutzen
 Wie wir den Menschen in einer schnelllebigen technologiegeprägten mitnehmen können.
 
 Kontakt
-![XING](https://www.xing.com/profile/Gudrun_Traumann/cv)
-![Webseite](https://www.gudrun-traumann.com/)
+[XING](https://www.xing.com/profile/Gudrun_Traumann/cv)
+[Webseite](https://www.gudrun-traumann.com/)
