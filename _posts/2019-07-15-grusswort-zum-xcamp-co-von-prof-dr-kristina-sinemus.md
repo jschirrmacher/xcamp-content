@@ -7,7 +7,7 @@ image:      media/Prof-Dr-Kristina-Sinemus-Hessische-Ministerin-fuer-Digitale-St
 tags:       XCamp2019, Sessions
 ---
 
-![Prof. Dr. Kristina Sinemus](media/Prof-Dr-Kristina-Sinemus-Hessische-Ministerin-fuer-Digitale-Strategie-und-Entwicklung-Copyright-STK-Fotografin-Salome-Roessler.jpg =320x*) Liebe Teilnehmerinnen und Teilnehmer,
+![Prof. Dr. Kristina Sinemus](/media/Prof-Dr-Kristina-Sinemus-Hessische-Ministerin-fuer-Digitale-Strategie-und-Entwicklung-Copyright-STK-Fotografin-Salome-Roessler.jpg =320x*) Liebe Teilnehmerinnen und Teilnehmer,
 
 Hessen ist ein wichtiger Messe- und Veranstaltungsstandort im Bereich der Digitalisierung, den die Landesregierung weiter stärken möchte. Ich freue mich, dass das XCamp erneut in Frankfurt stattfindet. Es ist ein Event von der Community für die Community. Sie haben hier die Möglichkeit Ihre Erfahrungen und verschiedene Innovationsmethoden mit Experten aus den unterschiedlichsten Disziplinen auszutauschen. Schwerpunktthemen in diesem Jahr sind Agiles Management und Innovation im Unternehmenskontext.
 
@@ -18,6 +18,6 @@ Ich wünsche Ihnen einen inspirierenden Tag und einen spannenden Austausch.
 Prof. Dr. Kristina Sinemus   
 Hessische Ministerin für Digitale Strategie und Entwicklung
 
-![Heimat Hessen Logo](media/hstk_heimat_hessen_logo_wappen_17_-600x321.jpg)
+![Heimat Hessen Logo](/media/hstk_heimat_hessen_logo_wappen_17_-600x321.jpg)
 
 Bildnachweis: Prof. Dr. Kristina Sinemus, Hessische Ministerin für Digitale Strategie und Entwicklung © Staatskanzlei / Salome Roessler

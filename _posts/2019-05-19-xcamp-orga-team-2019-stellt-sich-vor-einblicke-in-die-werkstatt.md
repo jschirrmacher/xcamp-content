@@ -7,7 +7,7 @@ image:      media/Team-2019.png
 tags:       XCamp2019, Sessions
 ---
 
-![XCamp Team 2019](media/Team-2019.png)
+![XCamp Team 2019](/media/Team-2019.png)
 
 Hinter dem XCamp19 steht ein vielseitiges, motiviertes Team von Kreativen, Entwicklern, Designern, Innovations- und UX-Beratern. Uns eint der gemeinsame Wunsch: Es soll wieder ein XCamp für die Innovationstreiber und Organisationsbeweger in der Rhein-Main Region geben. Die meisten von uns waren mehrfach beim LeanCamp oder XCamp und wollen, dass es wieder einen dieser hochintensiven Tage zum Austauschen, Vernetzen und Lernen rund um die Erfahrungen und Methoden der Praxis gibt. Wir verbinden damit das Bild vom Lagerfeuer. Sich treffen und offen mit Gleichgesinnten über Erlebtes, über Erfolge, unsere Fragen und Hindernisse sprechen.
 

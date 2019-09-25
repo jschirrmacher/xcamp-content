@@ -35,5 +35,5 @@ The meta block contains the following fields:
 - **image** - File name of a profile picture of the team member.
 
 
-In blog pages, you can use a html comment `<!-- snip -->` in the markdown text to mark the position to stop showing
+In blog pages, you can use a html comment `<!--more-->` in the markdown text to mark the position to stop showing
 preview text in the article list.

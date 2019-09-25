@@ -7,7 +7,7 @@ image:      media/Bild3.jpg
 tags:       XCamp2019, Sessions
 ---
 
-![Collaboration](media/Bild3.jpg)
+![Collaboration](/media/Bild3.jpg)
 
 Die Art und Weise, wie Teams in Unternehmen zusammenarbeiten wird sich durch die Digitalisierung maßgeblich verändern. So entstehen durch neue IT-Technologien und digitale Werkzeuge vielfältige Möglichkeiten, die Kommunikation und Zusammenarbeit flexibler und effizienter zu gestalten. Dennoch kommt es immer wieder zu Fehlern innerhalb Teams, welche die digitale Zusammenarbeit erschweren und ein effizientes Arbeiten verhindern.
 
@@ -16,7 +16,7 @@ Die Art und Weise, wie Teams in Unternehmen zusammenarbeiten wird sich durch die
 Deshalb decken wir gemeinsam die **häufigsten Stolpersteine digitaler Zusammenarbeit** auf. Lasst uns zusammen **anwendbare Lösungswege** finden, um diese Hürden zu bewältigen.
 
 
-![Collaboration](media/Bild2-400x267.jpg)
+![Collaboration](/media/Bild2-400x267.jpg)
 
 ##Fuck-up Session – Aus Hindernissen Verbesserungen entwickeln:
 
