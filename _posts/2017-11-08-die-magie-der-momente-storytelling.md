@@ -26,12 +26,12 @@ Kinder dahingehend erzogen haben.
 
 Es gibt vier Arten von bestimmenden Momenten:
 
-** - Momente der Überraschung:** Überraschende Momente stechen aus der Masse an alltäglichen Eindrücken heraus. Sie produzieren 
+- **Momente der Überraschung:** Überraschende Momente stechen aus der Masse an alltäglichen Eindrücken heraus. Sie produzieren 
 nicht nur ein Lächeln oder ein Gefühl des Glücks, nein, sie rufen unvergessliche Begeisterung hervor. Um diese Momente zu 
 kreieren, bedarf es eines besonderen Erlebnisses, deutlich verstärkt von einem Überraschungseffekt.
 -> Ticketabriss, Liebesbrief, ein getragenes T-Shirt, Zeichnungen Deiner Kinder
 
-** - Momente der Erkenntnis:** Diese Momente verändern unsere Glaubenssätze, unsere Bedürfnisse, unser Wertesystem oder unsere 
+- **Momente der Erkenntnis:** Diese Momente verändern unsere Glaubenssätze, unsere Bedürfnisse, unser Wertesystem oder unsere 
 Gewohnheiten. Es sind Momente, die eine starke Veränderung unserer Lebensblaupause zur Folge haben und in denen wir uns 
 neu „verdrahten“, alte Verbindungen aufbrechen und durch neue Verbindungen ersetzen. Es sind die Momente, in denen wir fühlen, 
 dass sie unser Leben über Jahrzehnte verändern werden. „Jetzt ist es Zeit sich selbstständig zu machen!“, „Diesen Mann/diese 
@@ -43,7 +43,7 @@ ehrenamtliches Mitglied einer Community – du bist in der Lage, ein lebensverä
 -> Zitate oder Artikel, die dich bewegt haben, Bücher, die deinen Blick auf etwas verändert haben, Tagebücher, die deine 
 Gedanken enthalten
 
-** - Momente voller Stolz:** Dann gibt es die Momente, in denen wir unser Bestes geben und die beste Version unserer selbst sind. 
+- **Momente voller Stolz:** Dann gibt es die Momente, in denen wir unser Bestes geben und die beste Version unserer selbst sind. 
 Momente voller Errungenschaften, Momente voller Mut, Momente voller Stolz, Momente, in denen wir durch eine imaginäre Mauer 
 gebrochen sind und vielleicht Dinge getan haben, die uns bis dahin unmöglich schienen. Auch diese Momente lassen sich 
 kreieren, indem wir verstehen, wie sie entstehen. Durch das kontinuierliche Ausbrechen aus unserer Komfortzone erweitern wir 
@@ -54,7 +54,7 @@ einen Moment voller Stolz dar und lässt sich so, aufgereiht wie an einer Perlen
 Sequenz erkennen wir unerwartete Dinge über Mut und Courage und die überraschenden Effekte, die dadurch entstehen.
 -> Startnummern, Gummiarmbändchen, Zertifikate, Dankesschreiben, Awards
 
-** - Momente der Verbundenheit:** Bewegende und bestimmende Momente sind auch „sozial“, Momente wie Hochzeiten, Geburtstage, 
+- **Momente der Verbundenheit:** Bewegende und bestimmende Momente sind auch „sozial“, Momente wie Hochzeiten, Geburtstage, 
 Urlaube, gemeinsame Arbeits- und Projekterfolge, Ansprachen, Sportevents. Diese Momente stärken und bleiben in Erinnerung, 
 weil wir sie mit anderen teilen. Projektteams erleben das, wenn sie gemeinsam einen wichtigen Projektmeilenstein erreichen. 
 Diese Momente entstehen dadurch, dass zwei oder mehr Menschen als Fremde einen „Raum“ betreten und ihn nach einiger Zeit 
