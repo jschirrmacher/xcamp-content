@@ -83,4 +83,4 @@ Wir freuen uns auf deine Session!
 ## Andere Teile
 
 - [Teil 1: Fishbowl, 1-2-4-All (Liberating Structure), Ask me anything](blog/2019-08-25-damit-deine-session-ein-benefit-fuer-dich-und-das-xcamp19-wird-2)
-- [Teil 2: Kollegiale Beratung, Speed Dating, Hands-on Workshop](blog/2019-09-09-damit-deine-session-ein-benefit-fuer-dich-und-das-xcamp19-wird-teil-2-2)
+- [Teil 2: Kollegiale Beratung, Speed Dating, Hands-on Workshop](blog/2019-09-03-damit-deine-session-ein-benefit-fuer-dich-und-das-xcamp19-wird-teil-2-2)
