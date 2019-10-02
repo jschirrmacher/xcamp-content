@@ -77,5 +77,5 @@ Dies ist eine typische Innovationsmethode, um kreative Denkprozesse durch das Ko
 
 ## Andere Teile
 
-[Teil 1: Fishbowl, 1-2-4-All (Liberating Structure), Ask me anything](blog/2019-09-09-damit-deine-session-ein-benefit-fuer-dich-und-das-xcamp19-wird-2)
-[Teil 3: Ja+Und Brainstorming, Mind-Mapping, Studio Walk](blog/2019-09-09-damit-deine-session-ein-benefit-fuer-dich-und-das-xcamp19-wird-3)
+- [Teil 1: Fishbowl, 1-2-4-All (Liberating Structure), Ask me anything](blog/2019-08-25-damit-deine-session-ein-benefit-fuer-dich-und-das-xcamp19-wird-2)
+- [Teil 3: Ja+Und Brainstorming, Mind-Mapping, Studio Walk](blog/2019-09-09-damit-deine-session-ein-benefit-fuer-dich-und-das-xcamp19-wird-teil-3)
