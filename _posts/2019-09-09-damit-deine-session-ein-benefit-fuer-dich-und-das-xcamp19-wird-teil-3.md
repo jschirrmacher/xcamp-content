@@ -34,7 +34,8 @@ Problemstellung ist oft noch nicht klar. Eine reine Ideenfindung steht im Vorder
 1. Die Ideen werden nach Belieben gemeinsam ausgebaut, geclustert, ergänzt, kombiniert.
 1. Die Ideen werden gemeinsam bewertet.
 
-Wichtig: Alles ist richtig, Quantität statt Qualität. Querdenken und unrealistisches Fantasieren sind erlaubt. Varianten Tipp: Zeitreisen Brainstorming: Man fragt sich, wie die Problemstellung vor oder in 10, 100 oder 1000 Jahren gelöst wurde oder wird.
+Wichtig: Alles ist richtig, Quantität statt Qualität. Querdenken und unrealistisches Fantasieren sind erlaubt. <br>
+Varianten Tipp: Zeitreisen Brainstorming: Man fragt sich, wie die Problemstellung vor oder in 10, 100 oder 1000 Jahren gelöst wurde oder wird.
 
 
 <a name="mind-mapping"></a>
@@ -69,8 +70,15 @@ Die Methode eignet sich, um schnell vom Team getragene Lösungen zu erarbeiten.
 ![Show & Tell](/media/Show-and-Tell.png)
 
 ## Show & Tell
+Diese Methode eignet sich für einen Erfahrungsbericht. Sie benötigt etwas Vorbereitung, ein Ergebnis oder Folien zum Zeigen. Der Session-Geber berichtet über den Hergang und beantwortet Fragen.
 
-Und jetzt bist du an der Reihe! Wir freuen uns auf deine Session!
+1. Geht auf die Ziele und Voraussetzungen des eingeschlagenen Weges ein.
+1. Je realistischer und selbstkritischer die Vorstellung, umso mehr lädt sie zum Mitdenken und Lernen ein.
+1. Achtet darauf, nicht in einen langen Monolog zu geraten.
+
+
+Und jetzt bist du an der Reihe! <br>
+Wir freuen uns auf deine Session!
 
 ## Andere Teile
 
