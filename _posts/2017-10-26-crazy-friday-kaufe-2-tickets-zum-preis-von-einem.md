@@ -3,7 +3,7 @@ layout:     post
 title:      Crazy Friday – Kaufe 2 Tickets zum Preis von einem *
 authorPage: jens-bothmer
 published:  26.10.2017
-image:      /media/Universal_Tile_XCamp17_Promotion_Crazy_Friday-700x441.png
+image:      media/Universal_Tile_XCamp17_Promotion_Crazy_Friday-700x441.png
 tags:       XCamp2017, Tickets
 ---
 
