@@ -30,18 +30,18 @@ Heute präsentieren wir die letzen vier Methoden.
 Problemstellung ist oft noch nicht klar. Eine reine Ideenfindung steht im Vordergrund. Es geht um Ideenfluss und Querdenken, frei von Konventionen:
 
 1. Jeder notiert möglichst viele Ideen auf Klebezettel.
-1. Die Ideen werden gemeinsam betrachtet und nicht kritisiert.
-1. Die Ideen werden nach Belieben ausgebaut, geclustert, ergänzt, kombiniert.
+1. Jeder stellt seine Ideen vor und klebt sie an die Wand. Die anderen hören genau zu, ohne Kritik oder "Ja, aber ..."
+1. Die Ideen werden nach Belieben gemeinsam ausgebaut, geclustert, ergänzt, kombiniert.
 1. Die Ideen werden gemeinsam bewertet.
 
-Wichtig: Alles ist richtig, Quantität statt Qualität, Querdenken und unrealistisches Fantasieren sind erlaubt. Varianten Tipp: Zeitreisen Brainstorming: Man fragt sich wie die Problemstellung vor oder in 10, 100 oder 1000 Jahren gelöst wurde oder wird.
+Wichtig: Alles ist richtig, Quantität statt Qualität. Querdenken und unrealistisches Fantasieren sind erlaubt. Varianten Tipp: Zeitreisen Brainstorming: Man fragt sich, wie die Problemstellung vor oder in 10, 100 oder 1000 Jahren gelöst wurde oder wird.
 
 
 <a name="mind-mapping"></a>
 ![Mind-Mapping](/media/Mind-Mapping.png)
 
 ## Mind-Mapping
-Wenn Problem oder Aufgabenstellung schon etwas klarer sind. Alle Abhängigkeiten werden in Struktur gebracht und aufgedeckt:
+Wenn Problem oder Aufgabenstellung schon etwas klarer sind. Alle Zusammenhänge und Abhängigkeiten werden in Struktur gebracht und aufgedeckt:
 
 1. Gedanken Ideen werden analog einem Brainstorming auf Klebezettel oder direkt auf dem Whitebord notiert.
 1. Die Gedanken werden sofort in Beziehung zueinander gestellt.
@@ -54,11 +54,12 @@ Eignet sich für kleineren Gruppen und kann sogar alleine die Gedanken sortieren
 ![Studio Walk](/media/Studio-Walk.png)
 
 ## Studio Walk
-Diese Methode arbeitet mit mehreren Flipcharts, um die sich die Teilnehmer bewegen müssen:
+Diese Methode arbeitet mit mehreren Flipcharts, zwischen denen sich die Teilnehmer bewegen:
 
-1. Maximal vier Flipcharts mit unterschiedlichen Fragestellung zu einem Thema werden aufgestellt.
-1. Die Teilnehmer bilden vier Teams und bearbeiten die Fragestellung.
-1. Der Moderator kann wie beim Speed-Dating ein Wechsel der Teams veranlassen.
+1. Maximal vier Flipcharts mit unterschiedlichen Fragestellungen zu einem Thema werden aufgestellt.
+1. Die Teilnehmer bilden vier Teams. 
+1. Jedes Team bearbeiten zunächst eine Fragestellung.
+1. Der Moderator kann wie beim Speed-Dating, z.B. nach 5 min, den Wechsel der Teams zum nächsten Flipchart veranlassen. 
 1. Nach 20 Minuten präsentiert jede Gruppe ihr Ergebnis.
 
 Die Methode eignet sich, um schnell vom Team getragene Lösungen zu erarbeiten.
