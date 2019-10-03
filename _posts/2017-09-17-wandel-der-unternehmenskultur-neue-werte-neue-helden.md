@@ -3,7 +3,7 @@ layout:     post
 title:      Wandel der Unternehmenskultur – neue Werte, neue Helden
 authorPage: joachim-schirrmacher
 published:  17.09.2017
-image:      media/Universal_Tile_XCamp18_Leanx-UX-2.png
+image:      media/dr_martin_strunk_pablo-700x441.png
 tags:       XCamp2017, Sessions
 ---
 
