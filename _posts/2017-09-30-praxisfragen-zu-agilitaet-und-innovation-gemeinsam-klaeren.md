@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Praxisfragen zu Agilität und Innovation gemeinsam klären
-authorPage: christiane-gerick
+authorPage: christiane-gerigk
 published:  30.09.2017
 image:      media/LeanCampWI-06450-700x441.jpg
 tags:       XCamp2017, Agilität
