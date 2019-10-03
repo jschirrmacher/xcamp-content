@@ -3,7 +3,7 @@ layout:     post
 title:      Lean Startup Workshop mit Norbert Lang
 authorPage: christiane-gerick
 published:  26.09.2017
-image:      media/Universal_Tile_XCamp18_Leanx-UX-2.png
+image:      media/Lean-Startup-Ansatz-700x441.png
 tags:       XCamp2017, Lean Startup
 ---
 
