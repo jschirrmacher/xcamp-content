@@ -12,7 +12,7 @@ wir 1 kostenloses Ticket für das XCamp17.
 
 ##Was mußt Du tun?
 Mach ein Selfie von Dir in der Umgebung, wo Du die besten Ideen hast<br>
-Nutze das Twitter-Mention **@xcamp17 + https://goo.gl/MVNMHL ** <br>
+Nutze das Twitter-Mention **@xcamp17 + https://goo.gl/MVNMHL** <br>
 Twittere das Foto mit Mention und Link
 
 ![XCamp 2017 Aktion](/media/Flyer_XCAMP_DINA6_v5_Twitter_Kachel.png)
