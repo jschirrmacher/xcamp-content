@@ -25,13 +25,13 @@ Thanks for the numerous enriching exchanges as well as for the great networking 
 Joachim Schirrmacher, Darren Cooper, Daniel Andrisek and Nelson Javier Mejia! 
 
 --slider
-![Circle of Innovation in DB Skydeck](/media/0.jpeg)
-![View from DB Skydeck](/media/0-2.jpeg)
-![Jens Bothmer in action](/media/0-3.jpeg)
-![Tasty food at XCamp 2019](/media/0-4.jpeg)
-![Visual Recording of XCamp](/media/0-5.jpeg)
-![Visual Recording of XCamp](/media/0-6.jpeg)
-![Visual Recording of XCamp](/media/0-7.jpeg)
-![Visual Recording of XCamp](/media/0-8.jpeg)
-![View from DB Skydeck](/media/0-9.jpeg)
+![Circle of Innovation in DB Skydeck](media/0.jpeg)
+![View from DB Skydeck](media/0-2.jpeg)
+![Jens Bothmer in action](media/0-3.jpeg)
+![Tasty food at XCamp 2019](media/0-4.jpeg)
+![Visual Recording of XCamp](media/0-5.jpeg)
+![Visual Recording of XCamp](media/0-6.jpeg)
+![Visual Recording of XCamp](media/0-7.jpeg)
+![Visual Recording of XCamp](media/0-8.jpeg)
+![View from DB Skydeck](media/0-9.jpeg)
 --slider

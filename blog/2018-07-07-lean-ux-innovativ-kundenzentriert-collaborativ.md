@@ -35,7 +35,7 @@ Den Autoren Jeff Gothelf und Josh Seiden ist es unter anderem zu verdanken, dass
 
 Jeff Gothelf hat mit dem Lean UX Canvas zudem ein Template entwickelt, das eine leicht nachvollziehbare Methode liefert, um Lösungs-Ideen und Hypothesen für das anschließende Testing (in Form von zielführenden Experimenten) vorzubereiten und zu entwickeln.
 
-![Lean UX Canvas von Jeff Gothelf](/media/LeanUX_canvas_v4-940x608-600x388.png)
+![Lean UX Canvas von Jeff Gothelf](media/LeanUX_canvas_v4-940x608-600x388.png)
 *Bild: Lean UX Canvas von Jeff Gothelf, www.jeffgothelf.com/blog/leanuxcanvas*
 
 

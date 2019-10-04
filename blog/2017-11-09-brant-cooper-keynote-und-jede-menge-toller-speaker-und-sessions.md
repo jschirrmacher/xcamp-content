@@ -38,7 +38,7 @@ Lean Startup Methoden in der Unternehmenswirklichkeit
 – [Torsten J. Koerting, The Game Changer](https://www.xing.com/profile/Torsten_Koerting/portfolio)
 
 ##Es geht doch anders! Erfahrungen bei der Einführung von agilen Prozessen
-– [Andrea Heisel](https://www.xing.com/profile/Andrea_Heisel/cv) und ![Soete Klien](https://www.xing.com/profile/Soete_Klien/cv), 
+– [Andrea Heisel](https://www.xing.com/profile/Andrea_Heisel/cv) und [Soete Klien](https://www.xing.com/profile/Soete_Klien/cv), 
 GIZ – Deutsche Gesellschaft für Internationale Zusammenarbeit
 
 ##Lean UX – mehr Kundenzentrierung und Innovation in klassischen agile Prozessen

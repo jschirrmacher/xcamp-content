@@ -26,7 +26,7 @@ An eben diesem Punkt soll unser Lean Startup Workshop auf dem XCamp17 ansetzen. 
 * Wer ist meine Zielgruppe und wie finde ich sie?
 * Erfüllt mein Produkt sein Werteversprechen? Was wenn nicht und wie finde ich das heraus?
 
-![Norbert Lang](/media/Norbert_Lang_geringe-Aufl-200x300.jpg)
+![Norbert Lang](media/Norbert_Lang_geringe-Aufl-200x300.jpg)
 
 Workshop-Facilitator: Norbert Lang
 Innovationsberater im Creative Learning Space in Frankfurt am Main.

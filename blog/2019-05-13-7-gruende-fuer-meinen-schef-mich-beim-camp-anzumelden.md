@@ -7,7 +7,7 @@ image:      media/XCamp17_XCamp17_7-Gruende-fuer-den-Chef-1.png
 tags:       XCamp2019, Sessions
 ---
 
-![Session Board](/media/XCamp17_XCamp17_7-Gruende-fuer-den-Chef-1.png)
+![Session Board](media/XCamp17_XCamp17_7-Gruende-fuer-den-Chef-1.png)
 
 7 Gründe für meinen Chef, mich beim XCamp 2019 anzumelden
 

@@ -23,6 +23,6 @@ und Prozesse der agilen Methode ein.
 Zu der Session lade ich alle ein, die bisher nur am Rande oder gar nicht mit Scrum und agilen Methoden in Berührung 
 gekommen sind und gern mehr darüber erfahren wollen. Ich freue mich auf eure Fragen, auch Zweifel und Wünsche dazu.
 
-![Scrum in einfachen Worten](/media/Titel-Scrum-in-einfachen-Worten-320x202.jpg)
+![Scrum in einfachen Worten](media/Titel-Scrum-in-einfachen-Worten-320x202.jpg)
 
 <a class="button turquoise big" target="_self" href="tickets">Jetzt Ticket sichern</a>

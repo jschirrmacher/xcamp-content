@@ -7,7 +7,7 @@ image:      media/hoAzUSPA-700x441.jpeg
 tags:       XCamp2018, Sessions
 ---
 
-![Xcamp 2018 im DB Skydeck](/media/hoAzUSPA-700x441.jpeg)
+![Xcamp 2018 im DB Skydeck](media/hoAzUSPA-700x441.jpeg)
 ##Das war das XCamp18
 
 Wieder einmal gab es viel gutes Feedback für unser diesjähriges Treffen am 25. August 2018 im Skydeck der DB Systel in 

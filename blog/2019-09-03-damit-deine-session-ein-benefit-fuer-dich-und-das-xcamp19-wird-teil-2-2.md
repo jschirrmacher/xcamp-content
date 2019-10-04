@@ -27,7 +27,7 @@ Wir veröffentlichen die Methoden in lockerer Folge hier im Blog. Fortsetzung fo
 
 
 <a name="kollegiale-beratung"></a>
-![Kollegiale Beratung](/media/Kollegiale-Beratung.png)
+![Kollegiale Beratung](media/Kollegiale-Beratung.png)
 
 ## Kollegiale Beratung
 Eine konkrete Aufgabenstellung, zu welcher die Session-Geberin Lösungsideen erhalten möchte:
@@ -51,7 +51,7 @@ Eine konkrete Aufgabenstellung, zu welcher die Session-Geberin Lösungsideen erh
 9. Der Protokollant überreicht ihr seine Notizen.
 
 <a name="speed-dating"></a>
-![Speed Dating](/media/Speed-Dating.png)
+![Speed Dating](media/Speed-Dating.png)
 
 ## Speed Dating
 Eine Thema oder eine Fragestellung wird in verschiedenen Zweier-Gruppen von allen Seiten beleuchtet.
@@ -63,7 +63,7 @@ Nach 20 Minuten (bei 20 Teilnehmern) werden die Ergebnisse präsentiert und zur 
 Eignet sich besonders gut, um schnell Ideen zu generieren. An dieser Stelle, aber nicht, um einen Partner zu finden.
 
 <a name="hands-on-workshop"></a>
-![Hands-on Workshop](/media/Hands-on-Workshop.png)
+![Hands-on Workshop](media/Hands-on-Workshop.png)
 
 ## Hands-on Workshop
 Im Rahmen von Design-Thinking ist dies eine Methode, um mit den „Händen denkend“ eine Produktidee zu entwickeln:

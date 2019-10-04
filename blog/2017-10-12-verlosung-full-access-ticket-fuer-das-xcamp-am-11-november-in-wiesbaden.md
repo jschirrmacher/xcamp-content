@@ -15,7 +15,7 @@ Mach ein Selfie von Dir in der Umgebung, wo Du die besten Ideen hast<br>
 Nutze das Twitter-Mention **@xcamp17** + https://goo.gl/MVNMHL<br>
 Twittere das Foto mit Mention und Link
 
-![XCamp 2017 Aktion](/media/Flyer_XCAMP_DINA6_v5_Twitter_Kachel.png)
+![XCamp 2017 Aktion](media/Flyer_XCAMP_DINA6_v5_Twitter_Kachel.png)
 
 ##Nimm an der Verlosung teil und **gewinne mit etwas Glück** Dein freies Ticket
 Bekanntgabe der Gewinner verlängert bis 03. November 2017<br>

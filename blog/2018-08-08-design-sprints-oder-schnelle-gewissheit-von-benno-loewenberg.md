@@ -16,7 +16,7 @@ Zusammenspiel mit Design Thinking-Methoden und Lean Startup.
 Google Design Sprint ist eine Design-Methode zur Lösung von Business-Problemen, um schnell Ideen zu entwickeln und direkt 
 ein Bild über deren Marktfähigkeit zu erhalten – bevor viel Zeit, Geld und Arbeit in ein Produkt investiert wurde.
 
-![Designsprints](/media/loewenberg_designsprints-1-1024x575.jpg)
+![Designsprints](media/loewenberg_designsprints-1-1024x575.jpg)
 
 Es ist eine Kombination von Methodenbestandteilen aus Design Thinking, Creative Problem Solving, User-Research sowie 
 produktstrategischer Aspekte (und es schmeckt auch ein bisschen nach Lean). Dieser Methodenkoffer wird stetig 
@@ -34,7 +34,7 @@ Sprint wurden ursprünglich auf fünf Tage verteilt. Die Praxis hat gezeigt, das
 durchführen lässt, weswegen auch Google bzw. prominente Protagonisten selbst von dieser spezifisch festgelegten Dauer 
 abgerückt sind („Design Sprint 2.0“).
 
-![Designsprints](/media/loewenberg_designsprints-2-1024x575.jpg)
+![Designsprints](media/loewenberg_designsprints-2-1024x575.jpg)
 
 Zudem sind erfolgreiche Design Sprints eigentlich ein Etikettenschwindel, da jene nicht bloß in nur ein paar Tagen 
 vonstatten gehen: Von zentraler Bedeutung für das Gelingen ist deren Vorbereitung, welche durchaus sehr viel mehr Zeit 
@@ -67,7 +67,7 @@ Um bei aller Dynamik nicht den (roten) Faden zu verlieren, bedient man sich Orie
 Hierin werden die aus der Vorbereitungsphase stammenden Ziele und Erkenntnisse aufgeführt und im Laufe des Design Sprints um 
 den erarbeiteten Lösungsansatz ergänzt.
 
-![Designsprints](/media/loewenberg_designsprints-3-1024x575.jpg)
+![Designsprints](media/loewenberg_designsprints-3-1024x575.jpg)
 
 Anwendbar sind Design Sprints in zwei Flughöhen: auf strategischer Ebene für langfristige Fragestellungen wie Produktvisionen, 
 als auch auf operativer Ebene, um bspw. während der Produktentwicklung Einzelaspekte, z. B. Produkt-Features, zu überprüfen 
@@ -79,7 +79,7 @@ Design Sprints ermöglichen es innerhalb kurzer Zeit Kundenanforderungen aus unt
 und betrachten zu können. Ebenso mehrere mögliche Lösungen zu generieren und diese frühzeitig, mit echten Nutzern zu 
 überprüfen. Dies hilft eine klare Vorstellung über die Marktgängigkeit vor Entwicklung und Produktion einer Lösung zu erlagen.
 
-![Designsprints](/media/loewenberg_designsprints-4-1024x575.jpg)
+![Designsprints](media/loewenberg_designsprints-4-1024x575.jpg)
 
 ##Tipps und Infos
 

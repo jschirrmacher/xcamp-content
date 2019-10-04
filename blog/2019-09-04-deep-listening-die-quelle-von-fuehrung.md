@@ -8,7 +8,7 @@ image:      media/dog-1200x800.jpg
 tags:       XCamp2019, Sessions
 ---
 
-![alt text](/media/dog-1200x800.jpg)
+![alt text](media/dog-1200x800.jpg)
 
 Wann war dein letztes Gespräch, bei dem etwas Neues miteinander entstanden ist?
 

@@ -27,7 +27,7 @@ Wir veröffentlichen die Methoden in lockerer Folge hier im Blog. Fortsetzung fo
 
 
 <a name="ja-und-brainstorming"></a>
-![Fishbowl](Fishbowl.png)
+![Fishbowl](media/Fishbowl.png)
 
 ## Fishbowl
 Die Methode eignet sich für große Gruppen mit potentiell hitzigen Diskussionen. Der Kern der Methode ist die Sitzordnung.
@@ -45,7 +45,7 @@ Große Gruppen können auf dieses Weise gut strukturiert diskutieren und zu eine
 
 
 <a name="liberating-structure"></a>
-![1-2-4-All (Liberating Structure)](Liberating-Structure.png)
+![1-2-4-All (Liberating Structure)](media/Liberating-Structure.png)
 
 ## 1-2-4-All (Liberating Structure)
 Ganz leichtgewichtig **in vier Schritten** innerhalb kürzester Zeit vielfältige Ergebnisse zu einer Fragestellung erhalten:
@@ -61,7 +61,7 @@ Schließlich kommen alle in großer Runde zusammen und teilen ihre Gedanken zur 
 Vorteil: Alle Teilnehmer werden sofort eingebunden – auch die Zurückhaltenden – und jede Runde bereichert die Lösungsideen.
 
 <a name="ask-me-anything"></a>
-![Ask Me Anything](Ask-Me-Anything.png)
+![Ask Me Anything](media/Ask-Me-Anything.png)
 
 ## Ask Me Anything
 Ein Spezialist trägt nicht frontal seine Expertise in einem Vortrag dem Publikum vor, sondern stellt sich aktiv in einem

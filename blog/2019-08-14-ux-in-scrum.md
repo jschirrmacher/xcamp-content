@@ -26,7 +26,7 @@ Generell zielt jeder der Ansätze darauf ab, dass die verschiedenen Expertenroll
 ## UX IN AGILE UND SCRUM (Jeff Gothelf, [gothelf.co](https://jeffgothelf.com/), [Scrum.org](https://www.scrum.org/))
 
 Jeff Gothelf ist wohl einer der meist genannten Namen, wenn es um dieses Thema geht. Er hat mit Kollegen einen integrierten Lösungsvorschlag von UX in Scrum entwickelt Er basiert hauptsächlich darauf, einen Standard-Scrum-Prozess durch bewährte UX Methoden wirkungsvoll zu erweitern. Jeff stellt dies ausdrücklich zur Diskussion und zur kontinuierlichen Weiterentwicklung vor.
-![UX](image_jeff_gothelf.png)
+![UX](media/image_jeff_gothelf.png)
 
 (Bild: Jeff Gothelf (Blogpost) „Here is how UX Design Integrates with Agile and Scrum“)
 Fünf Integrations-Empfehlungen hebt er besonders hervor:
@@ -60,7 +60,7 @@ Beispielsweise für die prozessuale Integration von UX in Scrum werden vier Inte
 - **„Design Spikes“** – Parallel laufende Entwicklungsarbeit (ohne Roll-Out), außerhalb der Sprints
 - **„Sprint Pairs“** – Die UX-Entwicklung erfolgt mit einem Sprint Vorlauf vor dem Entwicklungs-Sprint
 
-![Sprint Pairs](image_userzoom.png)
+![Sprint Pairs](media/image_userzoom.png)
 *Bildbeispiel: Userzoom einer Integrations-Möglichkeiten „Sprint Pairs“*
 
 Und zusätzlich werden **sieben bewährte Erfolgs-Mechanismen** (UX in Scrum) hervorgehoben, die einen starken Hebel für Optimierungen haben:
@@ -85,7 +85,7 @@ Ab den jüngsten Versionen (V4.5 …) fokussiert sich die Integration nun sogar 
 - Lean UX Center of Excellence (LUXCE) – Integration auf allen SAFe Entwicklungs-Leveln
 - Program Increment (PI) – in ausführlicher Form ist im Framework beschrieben wie Outputs aus dem LUXCE in den Program Increment Life Cycle
 
-![SAFE LeanUX](image_SAFE_LeanUX_1.png)
+![SAFE LeanUX](media/image_SAFE_LeanUX_1.png)
 
 Obwohl Lean UX in SAFe sicherlich ein guter Ansatz ist, so gibt es dennoch zahlreiche Herausforderungen (Kritiken) an diesem Framework, die hoffentlich in zukünftigen Versionen adressiert werden:
 
@@ -93,7 +93,7 @@ Obwohl Lean UX in SAFe sicherlich ein guter Ansatz ist, so gibt es dennoch zahlr
 - Challenge 2 – Der Customer (und speziell kundenzentrierte Prozess) geht darin fast völlig unter
 - Challenge 3 – Das Framework wirkt sehr bürokratisch und unhandlich
 
-![SAFE LeanUX](image_SAFE_LeanUX_2.png)
+![SAFE LeanUX](media/image_SAFE_LeanUX_2.png)
 *Bild/ Diagramm Lean UX Process im SAFe Framework*
 
 Die Links dazu:
@@ -106,7 +106,7 @@ Design Sprints sind eine Methode (Framework), um in einem Ablauf von fünf Entwi
 
 Entstanden ist die Methode 2016 aus dem Startup und Lean Innovation Umfeld heraus. Da es sich um einen sehr kundenzentrierten Prozess handelt, wird heute auch viel darüber gesprochen, ihn mit den anderen agilen Methoden zu kombinieren. Was grundsätzlich viele Vorteile hätte, vor allem um die kundenzentrierte Konzeptentwicklung im agilen Prozess zu stärken. Als Integrationsmöglichkeit könnte beispielsweise ein Design Sprint im Rahmen eines agilen Sprints laufen oder davor oder parallel dazu. Es gibt mehrere Möglichkeiten (ähnlich den Integrationsmöglichkeiten von Usability Testing, siehe 2. Beispiel von userzoom).
 
-![Design Sprint](image_design_sprint.png)
+![Design Sprint](media/image_design_sprint.png)
 
 Der Ablauf eines Design Sprint im Überblick:
 
@@ -134,7 +134,7 @@ Einige der genannten, typischen Probleme & Herausforderungen durch eine „schle
 - Problemlösungen entstehen oft isoliert von agilen Umsetzungsteams
 - Designs werden von Entwicklern falsch interpretiert
 
-![UX Burner](image_uxburner.png)
+![UX Burner](media/image_uxburner.png)
 *UX BURNER*
 
 UX BURNER gibt darauf eine Antwort, die Step by Step beschrieben wird. In einfacher Form dargestellt, wird im normalen Sprintablauf ein Designsprint durchgeführt Tag 1-5 mit folgenden Aktivitäten:
@@ -158,7 +158,7 @@ Alle diese Integrationslösungen zeigen erst einmal, dass das Thema weiterhin ei
 
 Grundsätzlich macht es viel Sinn, mit einigen der hier beschriebenen Verbesserungsmechanismen zu beginnen und zu experimentieren. Um eigene Erfahrungen zu sammeln. Wir haben in jedem unserer Projekte mit dem Team überlegt, welche Verbesserungen uns “Quick Wins” verschaffen könnten. Und meistens kommt man auf 3-5 dieser Methoden die ein nennenswerten Impact erzeugen (ergebnisorientiert) und auf deren Aufmerksamkeit man aufbauen kann.
 
-![Lean Agile](image_dt_lean_agile.png)
+![Lean Agile](media/image_dt_lean_agile.png)
 
 Da Kundenzentrierte Innovation gerade einen regelrechten Hype erlebt – durch Unternehmens-Strategien in unterschiedlichen Bereichen (Customer Experience Strategie, Lean Innovation, Design Sprints, User Experience Prozesse, Team Transformation, Mitarbeiterenwicklung uvm.) – wird dieses Thema in Zukunft wohl eher noch etwas relevanter und wichtiger werden. Die Komplexität des Ganzen trägt ihren Teil dazu bei.
 

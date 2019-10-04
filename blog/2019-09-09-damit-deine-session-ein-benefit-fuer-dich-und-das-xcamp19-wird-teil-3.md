@@ -24,7 +24,7 @@ Heute präsentieren wir die letzen vier Methoden.
 
 
 <a name="ja-und-brainstorming"></a>
-![Ja+Und Brainstorming](/media/Ja-Und-Brainstorming.png)
+![Ja+Und Brainstorming](media/Ja-Und-Brainstorming.png)
 
 ## Ja+Und Brainstorming
 Problemstellung ist oft noch nicht klar. Eine reine Ideenfindung steht im Vordergrund. Es geht um Ideenfluss und Querdenken, frei von Konventionen:
@@ -39,7 +39,7 @@ Varianten Tipp: Zeitreisen Brainstorming: Man fragt sich, wie die Problemstellun
 
 
 <a name="mind-mapping"></a>
-![Mind-Mapping](/media/Mind-Mapping.png)
+![Mind-Mapping](media/Mind-Mapping.png)
 
 ## Mind-Mapping
 Wenn Problem oder Aufgabenstellung schon etwas klarer sind. Alle Zusammenhänge und Abhängigkeiten werden in Struktur gebracht und aufgedeckt:
@@ -52,7 +52,7 @@ Eignet sich für kleineren Gruppen und kann sogar alleine die Gedanken sortieren
 
 
 <a name="studio-walk"></a>
-![Studio Walk](/media/Studio-Walk.png)
+![Studio Walk](media/Studio-Walk.png)
 
 ## Studio Walk
 Diese Methode arbeitet mit mehreren Flipcharts, zwischen denen sich die Teilnehmer bewegen:
@@ -67,7 +67,7 @@ Die Methode eignet sich, um schnell vom Team getragene Lösungen zu erarbeiten.
 
 
 <a name="show-and-tell"></a>
-![Show & Tell](/media/Show-and-Tell.png)
+![Show & Tell](media/Show-and-Tell.png)
 
 ## Show & Tell
 Diese Methode eignet sich für einen Erfahrungsbericht. Sie benötigt etwas Vorbereitung, ein Ergebnis oder Folien zum Zeigen. Der Session-Geber berichtet über den Hergang und beantwortet Fragen.
