@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Das Personalressort als Innovations-Promotor
-authorPage: christiane-gerick
+authorPage: christiane-gerigk
 published:  24.09.2017
 image:      media/Andre-Doerfler-700x441.jpg
 tags:       XCamp2017, Sessions

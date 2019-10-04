@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Was ist das XCamp?
-authorPage: christiane-gerick
+authorPage: christiane-gerigk
 published:  27.08.2017
 image:      media/XCamp17_XCamp17_Was-ist-das-XCamp-1-700x441.png
 tags:       XCamp2017, Sessions

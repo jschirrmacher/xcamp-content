@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Warum unterstützt die R+V Versicherung das XCamp als Sponsor?
-authorPage: christiane-gerick
+authorPage: christiane-gerigk
 published:  07.09.2017
 image:      media/RV-Logo-320x202.jpg
 tags:       XCamp2017, Sessions
