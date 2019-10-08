@@ -11,16 +11,19 @@ Am 13. September 2019 treffen auf dem XCamp die Innovationstreiber aus Unternehm
 
 - =magenta
 
+  <span class="checkmark"></span>
   ### Zuhören und praktisch Eintauchen
   Erlebe Keynotes, hands-on Workshops und Open Space-Sessions zu Agilen Methoden, Lean Startup, Design Thinking, Business Modell Generation und den Erfolgsbedingungen für die Praxis.
 
 - =yellow
 
+  <span class="checkmark"></span>
   ### Inspiration erleben und vernetzen
   Gewinne durch Erfahrungsaustausch, interaktives Lernen und Workshops neue Einsichten und Motivation. Vernetze Dich mit Gleichgesinnten und Spezialisten, die neue Impulse geben.
 
 - =turquoise
 
+  <span class="checkmark"></span>
   ### Schwung ins Unternehmen tragen
   Erfahre selbst, wie Du kreativer wirst und mehr Wirksamkeit in Innovationsprojekten erreichen kannst. Setze anschliessend das Gelernte bei Dir vor Ort erfolgreich in die Praxis.
 
@@ -50,21 +53,21 @@ Am 13. September 2019 im Skydeck der DB Systel im Silberturm diskutieren Experte
 
 Ähnlich zu den vergangenen LeanCamps und XCamps gibt es viel Inspiration, Vernetzung und neue Schubkraft für eigene Projekte.
 
-- =magenta sold-out
+- =magenta has-bottom-buttons sold-out
 
   ### Selbstzahler-Ticket
   Mit diesem Ticket holst Du dir als Selbstzahler den Zugang zum Event, Verköstigung und Getränke. Verpass nicht diese
   einmalige Chance!
   <a href="tickets?type=private" class="button button--light align-bottom ticket-button" target="_self" disabled="true">148,75 €<br>Ticket kaufen</a>
 
-- =yellow sold-out
+- =yellow has-bottom-buttons sold-out
 
   ### Unternehmensticket
   Mit einem Unternehmensticket erhältst Du als Mitarbeiter eines Unternehmens den vollen Zugang zur Veranstaltung für
   den gesamten Tag inklusive Verköstigung und Getränke. Kauf auf Rechnung ist hier möglich.
   <a href="tickets?type=corporate" class="button button--light align-bottom ticket-button" target="_self" disabled="true">297,50 €<br>Ticket kaufen</a>
 
-- =turquoise sold-out
+- =turquoise has-bottom-buttons sold-out
 
   ### Vergünstigtes Ticket
   Du studierst, gründest gerade oder bist in einer finanziell engen Phase und interessierst dich für innovate agile?
@@ -80,19 +83,19 @@ Wir halten dich auf dem Laufenden, wenn du dich in unserem Newsletter einträgst
 
 ## Sponsoren
 
-1. [![DB Systel](assets/sponsors/Sponsoren_Logos_xcamp_2017__SP_DB_Systel.png)](https://www.dbsystel.de)
-1. [![Die Zentrale](assets/sponsors/Sponsoren_Logos_xcamp_2019__Die_Zentrale-400x224.png)](https://die-zentrale-ffm.de/)
-1. [![Check24](assets/sponsors/Sponsoren_Logos_xcamp_2019__Check24-400x224.png)](https://www.check24.de/)
-1. [![Communardo](assets/sponsors/Sponsoren_Logos_xcamp_2019__Communardo-400x224.png)](https://www.communardo.de/)
-1. [![Sponsor werden](assets/sponsors/Sponsoren_Logos_xcamp_2018__Ihr-Logo_v1.png)](mailto:sponsoring@xcamp.co)
+1. [![DB Systel](sponsors/Sponsoren_Logos_xcamp_2017__SP_DB_Systel.png)](https://www.dbsystel.de)
+1. [![Die Zentrale](sponsors/Sponsoren_Logos_xcamp_2019__Die_Zentrale-400x224.png)](https://die-zentrale-ffm.de/)
+1. [![Check24](sponsors/Sponsoren_Logos_xcamp_2019__Check24-400x224.png)](https://www.check24.de/)
+1. [![Communardo](sponsors/Sponsoren_Logos_xcamp_2019__Communardo-400x224.png)](https://www.communardo.de/)
+1. [![Sponsor werden](sponsors/Sponsoren_Logos_xcamp_2018__Ihr-Logo_v1.png)](mailto:sponsoring@xcamp.co)
 
 ## Netzwerkpartner
 
-1. [![Digital Media Women](assets/partners/DMW-400x224.png)](https://digitalmediawomen.de/quartiere/rhein-main/)
-1. [![Hessen Innovativ](assets/partners/IHK.png)](https://www.ihk-hessen-innovativ.de/)
-1. [![Gründen & Wachsen](assets/partners/Gruenden_Wachsen_FAZ-1-400x224.png)](https://www.frankfurt-bm.com/medienmarken-und-zielgruppen/zielgruppen/gruenden-wachsen/)
-1. [![Make Rhein-Main](assets/partners/Make_Rhein_Main-400x224.png)](https://make-rhein-main.de/)
-1. [![Digitales Hessen](assets/partners/dh-Logo.jpg)](https://www.digitalstrategie-hessen.de/)
+1. [![Digital Media Women](partners/DMW-400x224.png)](https://digitalmediawomen.de/quartiere/rhein-main/)
+1. [![Hessen Innovativ](partners/IHK.png)](https://www.ihk-hessen-innovativ.de/)
+1. [![Gründen & Wachsen](partners/Gruenden_Wachsen_FAZ-1-400x224.png)](https://www.frankfurt-bm.com/medienmarken-und-zielgruppen/zielgruppen/gruenden-wachsen/)
+1. [![Make Rhein-Main](partners/Make_Rhein_Main-400x224.png)](https://make-rhein-main.de/)
+1. [![Digitales Hessen](partners/dh-Logo.jpg)](https://www.digitalstrategie-hessen.de/)
 
 
 <div id="location" class="three-boxes">
