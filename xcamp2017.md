@@ -35,7 +35,7 @@ Am 11. November 2017 trafen sich auf dem XCamp in Wiesbaden Innovationstreiber a
 - =magenta
 
   ### Brant Cooper
-  %frame ![Brant Cooper](uploads/2018/05/brantcooper-200x200.jpg)%
+  %frame ![Brant Cooper](media/2018/05/brantcooper-200x200.jpg)%
   
   [CEO Moves the Needle Inc. & Author of The Lean Entrepreneur](https://www.brantcooper.com/)
   
@@ -46,7 +46,7 @@ Am 11. November 2017 trafen sich auf dem XCamp in Wiesbaden Innovationstreiber a
 - =turquoise
 
   ### Martin Strunk
-  %frame ![Martin Strunk](uploads/2018/05/dr_strunk_1985.jpg)%
+  %frame ![Martin Strunk](media/2018/05/dr_strunk_1985.jpg)%
   
   [DB Systel GmbH](https://www.dbsystel.de)
   
@@ -59,7 +59,7 @@ Am 11. November 2017 trafen sich auf dem XCamp in Wiesbaden Innovationstreiber a
 
   ### Benno Löwenberg
 
-  %frame ![Benno Löwenberg](uploads/2018/05/profilbild_benno_loewenberg-3.png)%
+  %frame ![Benno Löwenberg](media/2018/05/profilbild_benno_loewenberg-3.png)%
   
   @BennoLoewenberg
   
@@ -70,7 +70,7 @@ Am 11. November 2017 trafen sich auf dem XCamp in Wiesbaden Innovationstreiber a
 - =turquoise
 
   ### André Dörfler
-  %frame ![André Dörfler](uploads/2018/05/Andre-Doerfler-200x113.jpg)%
+  %frame ![André Dörfler](media/2018/05/Andre-Doerfler-200x113.jpg)%
   
   R + V Versicherung
   
@@ -79,7 +79,7 @@ Am 11. November 2017 trafen sich auf dem XCamp in Wiesbaden Innovationstreiber a
 - =turquoise
 
   ### Marc Frey
-  %frame ![Marc Frey](uploads/2018/05/marc_frey__neu__720-200x124.png)%
+  %frame ![Marc Frey](media/2018/05/marc_frey__neu__720-200x124.png)%
   
   Simplify
   
@@ -90,7 +90,7 @@ Am 11. November 2017 trafen sich auf dem XCamp in Wiesbaden Innovationstreiber a
 - =turquoise
 
   ### Jens Bothmer
-  %frame ![Jens Bothmer](uploads/2018/05/Jens_Bothmer_683_683_Portraits-200x200.png)%
+  %frame ![Jens Bothmer](media/2018/05/Jens_Bothmer_683_683_Portraits-200x200.png)%
   
   Autentity Innovationberatung
   
@@ -99,7 +99,7 @@ Am 11. November 2017 trafen sich auf dem XCamp in Wiesbaden Innovationstreiber a
 - =turquoise
 
   ### Torsten J. Koerting
-  %frame ![Torsten J. Koerting](uploads/2018/05/Torsten-J-Koerting-Slider_3000x1680_Beratung-200x112.jpg)%
+  %frame ![Torsten J. Koerting](media/2018/05/Torsten-J-Koerting-Slider_3000x1680_Beratung-200x112.jpg)%
   
   The Game Changer
   
@@ -173,18 +173,18 @@ Am 11. November 2017 trafen sich auf dem XCamp in Wiesbaden Innovationstreiber a
 
 ## Eindrücke vom XCamp
 
-- ![](uploads/2018/05/DSC07410.jpg)
-- ![](uploads/2018/05/DSC07474.jpg)
-- ![](uploads/2018/05/DSC07583.jpg)
-- ![](uploads/2018/05/DSC08060.jpg)
-- ![](uploads/2018/05/DSC07645.jpg)
-- ![](uploads/2018/05/DSC07535.jpg)
-- ![](uploads/2018/05/DSC07717-.jpg)
-- ![](uploads/2018/05/DSC08033.jpg)
-- ![](uploads/2018/05/DSC07773.jpg)
-- ![](uploads/2018/05/DSC07865.jpg)
-- ![](uploads/2018/05/DSC07821.jpg)
-- ![](uploads/2018/05/DSC08104.jpg)
+- ![](media/2018/05/DSC07410.jpg)
+- ![](media/2018/05/DSC07474.jpg)
+- ![](media/2018/05/DSC07583.jpg)
+- ![](media/2018/05/DSC08060.jpg)
+- ![](media/2018/05/DSC07645.jpg)
+- ![](media/2018/05/DSC07535.jpg)
+- ![](media/2018/05/DSC07717-.jpg)
+- ![](media/2018/05/DSC08033.jpg)
+- ![](media/2018/05/DSC07773.jpg)
+- ![](media/2018/05/DSC07865.jpg)
+- ![](media/2018/05/DSC07821.jpg)
+- ![](media/2018/05/DSC08104.jpg)
 
 ## Das Format des XCamp
 
@@ -228,15 +228,15 @@ Am 11. November 2017 trafen sich auf dem XCamp in Wiesbaden Innovationstreiber a
 
 ## Sponsoren
 
-1. [![R+V Versicherung](uploads/2018/05/Sponsoren_Logos_xcamp_2017__SP_R-und-V.png)](https://www.ruv.de/)
-1. [![DB Systel](sponsors/Sponsoren_Logos_xcamp_2017__SP_DB_Systel.png)](https://www.dbsystel.de)
-1. [![Frankfurt Business Media](uploads/2018/05/Sponsoren_Logos_xcamp_2017__MP_FAZ_Frankfurt_Business_Media.png)](https://www.frankfurt-bm.com/)
-1. ![Rhein-Main Startups](partners/Sponsoren_Logos_xcamp_2017__MP_Rhein_Main_Startups.png)
-1. [![ETECTURE](uploads/2018/05/Sponsoren_Logos_xcamp_2017__SP_Etecture.png)](https://www.etecture.de/)
-1. [![four for business](uploads/2018/05/Sponsoren_Logos_xcamp_2017__SP_fourforbusiness.png)](https://www.4fb.de/)
-1. ![Syncom](uploads/2018/05/Sponsoren_Logos_xcamp_2017__PT_Syncom.png)
-1. [![Innovation Kickbox](uploads/2018/05/Sponsoren_Logos_xcamp_2017__SP_Innovation_Kickbox.png)](https://www.innovation-kickbox.de/)
-1. [![Sponsor werden](sponsors/Sponsoren_Logos_xcamp_2018__Ihr-Logo_v1.png)](mailto:sponsoring@xcamp.co)
+1. [![R+V Versicherung](media/2018/05/Sponsoren_Logos_xcamp_2017__SP_R-und-V.png)](https://www.ruv.de/)
+1. [![DB Systel](media/sponsors/Sponsoren_Logos_xcamp_2017__SP_DB_Systel.png)](https://www.dbsystel.de)
+1. [![Frankfurt Business Media](media/2018/05/Sponsoren_Logos_xcamp_2017__MP_FAZ_Frankfurt_Business_Media.png)](https://www.frankfurt-bm.com/)
+1. ![Rhein-Main Startups](media/partners/Sponsoren_Logos_xcamp_2017__MP_Rhein_Main_Startups.png)
+1. [![ETECTURE](media/2018/05/Sponsoren_Logos_xcamp_2017__SP_Etecture.png)](https://www.etecture.de/)
+1. [![four for business](media/2018/05/Sponsoren_Logos_xcamp_2017__SP_fourforbusiness.png)](https://www.4fb.de/)
+1. ![Syncom](media/2018/05/Sponsoren_Logos_xcamp_2017__PT_Syncom.png)
+1. [![Innovation Kickbox](media/2018/05/Sponsoren_Logos_xcamp_2017__SP_Innovation_Kickbox.png)](https://www.innovation-kickbox.de/)
+1. [![Sponsor werden](media/sponsors/Sponsoren_Logos_xcamp_2018__Ihr-Logo_v1.png)](mailto:sponsoring@xcamp.co)
 
 
 > ## Agenda

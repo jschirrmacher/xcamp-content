@@ -83,19 +83,19 @@ Wir halten dich auf dem Laufenden, wenn du dich in unserem Newsletter einträgst
 
 ## Sponsoren
 
-1. [![DB Systel](sponsors/Sponsoren_Logos_xcamp_2017__SP_DB_Systel.png)](https://www.dbsystel.de)
-1. [![Die Zentrale](sponsors/Sponsoren_Logos_xcamp_2019__Die_Zentrale-400x224.png)](https://die-zentrale-ffm.de/)
-1. [![Check24](sponsors/Sponsoren_Logos_xcamp_2019__Check24-400x224.png)](https://www.check24.de/)
-1. [![Communardo](sponsors/Sponsoren_Logos_xcamp_2019__Communardo-400x224.png)](https://www.communardo.de/)
-1. [![Sponsor werden](sponsors/Sponsoren_Logos_xcamp_2018__Ihr-Logo_v1.png)](mailto:sponsoring@xcamp.co)
+1. [![DB Systel](media/sponsors/Sponsoren_Logos_xcamp_2017__SP_DB_Systel.png)](https://www.dbsystel.de)
+1. [![Die Zentrale](media/sponsors/Sponsoren_Logos_xcamp_2019__Die_Zentrale-400x224.png)](https://die-zentrale-ffm.de/)
+1. [![Check24](media/sponsors/Sponsoren_Logos_xcamp_2019__Check24-400x224.png)](https://www.check24.de/)
+1. [![Communardo](media/sponsors/Sponsoren_Logos_xcamp_2019__Communardo-400x224.png)](https://www.communardo.de/)
+1. [![Sponsor werden](media/sponsors/Sponsoren_Logos_xcamp_2018__Ihr-Logo_v1.png)](mailto:sponsoring@xcamp.co)
 
 ## Netzwerkpartner
 
-1. [![Digital Media Women](partners/DMW-400x224.png)](https://digitalmediawomen.de/quartiere/rhein-main/)
-1. [![Hessen Innovativ](partners/IHK.png)](https://www.ihk-hessen-innovativ.de/)
-1. [![Gründen & Wachsen](partners/Gruenden_Wachsen_FAZ-1-400x224.png)](https://www.frankfurt-bm.com/medienmarken-und-zielgruppen/zielgruppen/gruenden-wachsen/)
-1. [![Make Rhein-Main](partners/Make_Rhein_Main-400x224.png)](https://make-rhein-main.de/)
-1. [![Digitales Hessen](partners/dh-Logo.jpg)](https://www.digitalstrategie-hessen.de/)
+1. [![Digital Media Women](media/partners/DMW-400x224.png)](https://digitalmediawomen.de/quartiere/rhein-main/)
+1. [![Hessen Innovativ](media/partners/IHK.png)](https://www.ihk-hessen-innovativ.de/)
+1. [![Gründen & Wachsen](media/partners/Gruenden_Wachsen_FAZ-1-400x224.png)](https://www.frankfurt-bm.com/medienmarken-und-zielgruppen/zielgruppen/gruenden-wachsen/)
+1. [![Make Rhein-Main](media/partners/Make_Rhein_Main-400x224.png)](https://make-rhein-main.de/)
+1. [![Digitales Hessen](media/partners/dh-Logo.jpg)](https://www.digitalstrategie-hessen.de/)
 
 
 <div id="location" class="three-boxes">

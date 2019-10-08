@@ -34,7 +34,7 @@ Am 25. August 2018 trafen auf dem XCamp die Innovationstreiber aus Unternehmen u
 - =magenta
 
   ### Martin Wolf
-  %frame [![Martin Wolf](uploads/2018/07/50erElement-3signet.png)](blog/2018-07-12-human-psychology-hacks)%
+  %frame [![Martin Wolf](media/2018/07/50erElement-3signet.png)](blog/2018-07-12-human-psychology-hacks)%
   
   [point of origin | Wien](https://www.pointoforigin.at/de/Mehr/Was-wir-tun/Team/iTeamId__75.htm)
   
@@ -43,7 +43,7 @@ Am 25. August 2018 trafen auf dem XCamp die Innovationstreiber aus Unternehmen u
 - =turquoise
 
   ### Jim Kalbach
-  %frame [![Jim Kalbach](uploads/2018/07/Jim_Kalbach.jpg)](http://www.inspectandadapt.de/uber-mich/)%
+  %frame [![Jim Kalbach](media/2018/07/Jim_Kalbach.jpg)](http://www.inspectandadapt.de/uber-mich/)%
   
   [Experiencing Information](http://www.inspectandadapt.de/uber-mich/)
   
@@ -53,7 +53,7 @@ Am 25. August 2018 trafen auf dem XCamp die Innovationstreiber aus Unternehmen u
 - =turquoise
 
   ### Doris Leinen
-  %frame [![Doris Leinen](uploads/2018/07/profil.jpeg)](https://www.dbsystel.de/)%
+  %frame [![Doris Leinen](media/2018/07/profil.jpeg)](https://www.dbsystel.de/)%
   
   [DB Systel](https://www.dbsystel.de/)
   
@@ -63,7 +63,7 @@ Am 25. August 2018 trafen auf dem XCamp die Innovationstreiber aus Unternehmen u
 - =turquoise
 
   ### Oliver Zilken
-  %frame [![Oliver Zilken](uploads/2018/06/oliver-zilken-foto.256x256.jpg)](https://www.xing.com/profile/Oliver_Zilken/)%
+  %frame [![Oliver Zilken](media/2018/06/oliver-zilken-foto.256x256.jpg)](https://www.xing.com/profile/Oliver_Zilken/)%
   
   [Chief Scrum Master, Rewe Digital GmbH](https://www.xing.com/profile/Oliver_Zilken/)
   
@@ -72,7 +72,7 @@ Am 25. August 2018 trafen auf dem XCamp die Innovationstreiber aus Unternehmen u
 - =turquoise
 
   ### Andreas Leicher
-  %frame [![Andreas Leicher](uploads/2018/07/andreas-leicher-foto.1024x1024-200x200.jpg)](http://kotaico.de/)%
+  %frame [![Andreas Leicher](media/2018/07/andreas-leicher-foto.1024x1024-200x200.jpg)](http://kotaico.de/)%
   
   [Kotaicode](http://kotaico.de/)
   
@@ -81,7 +81,7 @@ Am 25. August 2018 trafen auf dem XCamp die Innovationstreiber aus Unternehmen u
 - =turquoise
 
   ### Robert Gies
-  %frame [![Robert Gies](uploads/2018/06/rgies-pic-200x232.jpg)](http://robert-gies.de/)%
+  %frame [![Robert Gies](media/2018/06/rgies-pic-200x232.jpg)](http://robert-gies.de/)%
   
   [123Agile](http://robert-gies.de/)
   
@@ -90,7 +90,7 @@ Am 25. August 2018 trafen auf dem XCamp die Innovationstreiber aus Unternehmen u
 - =turquoise
 
   ### Joachim Schirrmacher
-  %frame [![Joachim Schirrmacher](uploads/2018/06/Organisation_XCamp_Joachim_Schirrmacher-257x300.png)](blog/2018-07-17-devops-was-soll-das)%
+  %frame [![Joachim Schirrmacher](media/2018/06/Organisation_XCamp_Joachim_Schirrmacher-257x300.png)](blog/2018-07-17-devops-was-soll-das)%
   
   [DB Systel](https://www.dbsystel.de/)
   
@@ -99,7 +99,7 @@ Am 25. August 2018 trafen auf dem XCamp die Innovationstreiber aus Unternehmen u
 - =turquoise
 
   ### Daniel Dubbel
-  %frame [![Daniel Dubbel](uploads/2018/06/doubled-200x200.jpg)](http://www.inspectandadapt.de/uber-mich)%
+  %frame [![Daniel Dubbel](media/2018/06/doubled-200x200.jpg)](http://www.inspectandadapt.de/uber-mich)%
   
   [Inspect&Adapt](http://www.inspectandadapt.de/uber-mich/)
   
@@ -108,7 +108,7 @@ Am 25. August 2018 trafen auf dem XCamp die Innovationstreiber aus Unternehmen u
 - =turquoise
 
   ### Katharina Berger
-  %frame [![Katharina Berger](uploads/2018/07/uxHaZrtw.jpeg)](http://innovate4people.com/)%
+  %frame [![Katharina Berger](media/2018/07/uxHaZrtw.jpeg)](http://innovate4people.com/)%
   
   [Innovate4People](http://innovate4people.com/)
   
@@ -117,7 +117,7 @@ Am 25. August 2018 trafen auf dem XCamp die Innovationstreiber aus Unternehmen u
 - =turquoise
 
   ### Benno Löwenberg
-  %frame [![Benno Löwenberg](uploads/2018/07/profilbild_benno_loewenberg.png)](blog/2018-07-26-design-systeme-ux-skalierbar-machen-designer-und-devs-als-speed-hero-statt-sprint-sisyphos)%
+  %frame [![Benno Löwenberg](media/2018/07/profilbild_benno_loewenberg.png)](blog/2018-07-26-design-systeme-ux-skalierbar-machen-designer-und-devs-als-speed-hero-statt-sprint-sisyphos)%
   
   [@BennoLoewenberg](https://twitter.com/BennoLoewenberg)
   
@@ -127,7 +127,7 @@ Am 25. August 2018 trafen auf dem XCamp die Innovationstreiber aus Unternehmen u
 
   ### Susanne Busshart
 
-  %frame [![Susanne Busshart](uploads/2018/07/Susanne-Busshart.jpg)](http://www.rosaundleo.agency/)%
+  %frame [![Susanne Busshart](media/2018/07/Susanne-Busshart.jpg)](http://www.rosaundleo.agency/)%
   
   [rosa & leo](http://www.rosaundleo.agency/)
   
@@ -136,7 +136,7 @@ Am 25. August 2018 trafen auf dem XCamp die Innovationstreiber aus Unternehmen u
 - =turquoise
 
   ### Martin Weber-Schaeuffelen
-  %frame [![Martin Weber-Schaeuffelen](uploads/2018/07/Martin_Weber-Schaeuffelen-300x269.png)](http://www.usability-testessen.org/)%
+  %frame [![Martin Weber-Schaeuffelen](media/2018/07/Martin_Weber-Schaeuffelen-300x269.png)](http://www.usability-testessen.org/)%
   
   [Usability Testessen](http://www.usability-testessen.org/)
   
@@ -206,16 +206,16 @@ Du kannst dich zu jeder Zeit wieder von XCamp Newsletter abmelden. Einfach in de
 
 ## Sponsoren
 
-1. [![DB Systel](sponsors/Sponsoren_Logos_xcamp_2017__SP_DB_Systel.png)](https://www.dbsystel.de)
-1. [![AirPlus](sponsors/Sponsoren_Logos_xcamp_2018__Airplus-1.png)](https://airplus.com/)
-1. [![Sponsor werden](sponsors/Sponsoren_Logos_xcamp_2018__Ihr-Logo_v1.png)](mailto:sponsoring@xcamp.co)
+1. [![DB Systel](media/sponsors/Sponsoren_Logos_xcamp_2017__SP_DB_Systel.png)](https://www.dbsystel.de)
+1. [![AirPlus](media/sponsors/Sponsoren_Logos_xcamp_2018__Airplus-1.png)](https://airplus.com/)
+1. [![Sponsor werden](media/sponsors/Sponsoren_Logos_xcamp_2018__Ihr-Logo_v1.png)](mailto:sponsoring@xcamp.co)
 
 ## Netzwerkpartner
 
-1. ![Rhein-Main Startups](partners/Sponsoren_Logos_xcamp_2017__MP_Rhein_Main_Startups.png)
-1. ![Spotfolio](partners/Sponsoren_Logos_xcamp_2018__Sporfolio.png)
-1. [![Hessen Innovativ](partners/IHK.png)](https://www.ihk-hessen-innovativ.de/)
-1. [![Digital Media Women](partners/DMW-400x224.png)](https://digitalmediawomen.de/quartiere/rhein-main/)
+1. ![Rhein-Main Startups](media/partners/Sponsoren_Logos_xcamp_2017__MP_Rhein_Main_Startups.png)
+1. ![Spotfolio](media/partners/Sponsoren_Logos_xcamp_2018__Sporfolio.png)
+1. [![Hessen Innovativ](media/partners/IHK.png)](https://www.ihk-hessen-innovativ.de/)
+1. [![Digital Media Women](media/partners/DMW-400x224.png)](https://digitalmediawomen.de/quartiere/rhein-main/)
 
 
 > ## Agenda
