@@ -1,0 +1,62 @@
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>{{eventName}} - Mein Account</title>
+    <base href="{{baseUrl}}">
+    <link rel="stylesheet" href="dist/css/ticket.css">
+</head>
+<body data-code="{{accessCode}}">
+{{> menu}}
+{{> logo}}
+<div id="main">
+    <div class="container semi-transparent">
+        <h1>Mein {{eventName}} Account</h1>
+
+        <p>Wir freuen uns über deine Teilnahme am {{eventName}}!</p>
+
+        {{#invoice}}
+            <p>Auf dieser Seite findest du die Rechnung und kannst die gekauften Tickets verwalten.</p>
+
+            <p><a href="accounts/{{accessCode}}/invoices/current" target="_blank" class="button wide">
+                Hier ist deine Rechnung
+            </a></p>
+
+            {{^paid}}
+                <p>
+                    Bitte überweise den Betrag innerhalb von 10 Tagen auf das Konto Nr. {{bankAccount.IBAN}}
+                    der {{bankAccount.holder}}.
+                </p>
+            {{/paid}}
+        {{/invoice}}
+        {{^invoice}}
+            <p>Eine Rechnung haben wir keine für dich. Hat vielleicht jemand anderes das Ticket für dich gekauft?</p>
+        {{/invoice}}
+
+        <p>
+            Hier sind die gebuchten Tickets. Bitte personalisiere die Tickets vor dem Event. Bring dein
+            Ticket auf deinem Smartphone oder ausgedruckt mit.
+        </p>
+
+        <p>
+            Tickets können übertragen werden, indem man hier den neuen Teilnehmer einträgt und speichert.
+        </p>
+
+        {{#tickets}}
+
+            <form class="ticket" id="{{access_code}}">
+                {{> ticketHeader}}
+
+                {{> ticketData}}
+            </form>
+
+        {{/tickets}}
+    </div>
+</div>
+{{> footer}}
+
+<script src="qrcode/qrcode.min.js"></script>
+<script src="common.js"></script>
+<script src="account.js"></script>
+</body>
+</html>

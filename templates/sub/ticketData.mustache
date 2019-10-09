@@ -1,0 +1,49 @@
+<div class="row">
+    <div class="form-group col-4">
+        <label>
+            <input type="text" name="participant_firstName" class="form-control" autocomplete="off"
+                   placeholder="Vorname" {{disabled}} value="{{{participant.firstName}}}" required/>
+        </label>
+    </div>
+    <div class="form-group col-4">
+        <label>
+            <input type="text" name="participant_lastName" class="form-control" autocomplete="off"
+                   placeholder="Name" {{disabled}} value="{{{participant.lastName}}}" required/>
+        </label>
+
+    </div>
+</div>
+
+<div class="row">
+    <div class="form-group col-8">
+        <label>
+            <input type="email" name="participant_email" class="form-control participant-email" autocomplete="off"
+                   placeholder="E-Mail-Adresse" {{disabled}} value="{{{participant.email}}}" required/>
+        </label>
+    </div>
+</div>
+
+<div class="form-group">
+    <button class="button small noprint printTicket">Ausdrucken</button>
+    <button class="button small noprint saveTicket">Daten speichern</button>
+    <a class="button small noprint" href="{{baseUrl}}#{{participant.id}}" target="netvis">Teilnehmerprofil bearbeiten</a>
+</div>
+
+<div class="info noprint">
+    <dl>
+        <dt>Datenschutzhinweise</dt>
+        <dd>
+            Wir benötigen die Namen und E-Mail-Adressen der Teilnehmer zum Versenden von Informationen über das gebuchte
+            Event, für die Aufnahme in unsere elektronische Teilnehmer-Liste und die Namensschilder beim Event.
+            Wir müssen auch die Namen der tatsächlichen Teilnehmer an den Sicherheitsdienst des Gebäudes (DB Sicherheit
+            GmbH) melden.<br><br>
+
+            Auf Anforderung werden wir die Daten gern nach dem Event wieder entfernen. Dazu genügt eine einfache E-Mail
+            an <a class="mail2info" data-message="Bitte aus dem XCamp-Netzwerk entfernen"></a>.<br><br>
+
+            Während der Veranstaltung werden Fotos und Filme gemacht, die auf sozialen Medien (z.B. Twitter) oder der
+            xcamp.co Website veröffentlicht werden. Als Teilnehmer des Events erkläre ich mich hiermit ausdrücklich
+            damit einverstanden.
+        </dd>
+    </dl>
+</div>

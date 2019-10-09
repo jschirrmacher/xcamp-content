@@ -1,0 +1,36 @@
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Ticket für das {{eventName}} kaufen</title>
+    <base href="{{baseUrl}}">
+    <link rel="stylesheet" href="dist/css/ticket.css">
+</head>
+<body>
+{{> menu}}
+{{> logo}}
+<div id="main">
+    <div class="container semi-transparent">
+        <h1>Tickets für das XCamp kaufen</h1>
+
+        <div id="ticket-presale">
+            {{#notYet}}
+                <h2>Noch gibt es leider keine Tickets</h2>
+                <p>Du kannst dich in unseren Newsletter eintragen, damit wir dich sofort informieren, sobald es welche
+                    gibt.</p>
+            {{/notYet}}
+            {{#soldOut}}
+                <h2>Leider ist schon alles ausverkauft</h2>
+                <p>Melde schreib' uns auf <a class="mail2info" data-message="XCamp Warteliste"></a>, damit wir dich auf
+                    die Warteliste setzen können.</p>
+            {{/soldOut}}
+
+            <a href="newsletter" class="button">Zum Newsletter</a>
+        </div>
+    </div>
+</div>
+{{> footer}}
+
+<script src="common.js"></script>
+</body>
+</html>

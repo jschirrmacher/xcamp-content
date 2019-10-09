@@ -1,0 +1,7 @@
+<canvas class="ticketNo" id="{{access_code}}"></canvas>
+<img class="logo" src="assets/img/xcamp-large.png">
+<h2>XCamp Ticket</h2>
+<p class="location">{{eventDate}} {{eventTime}} {{eventLocation}}</p>
+{{^paid}}
+    <div class="unpaid">Zahlung steht noch aus!</div>
+{{/paid}}

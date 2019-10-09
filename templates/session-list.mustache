@@ -1,0 +1,151 @@
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>XCamp - Alle Sessions im Überblick</title>
+    <base href="{{baseUrl}}">
+    <link rel="stylesheet" href="dist/css/main.css">
+</head>
+
+<body>
+    {{> menu}}
+    {{> logo}}
+    <div id="main">
+        <div class="container no-background">
+            <h1>Sessions auf dem {{eventName}}</h1>
+            <ul class="tiles">
+                    <li class="tiles__item box--alert">
+                <div class="tiles__body">
+                <h2>Call for Sessions</h2>
+                <p>
+                    Das XCamp lebt von vielseitigen Themenbeiträgen der Teilnehmer. Hast Du ein Thema?
+                </p>
+                <p>
+                    Melde bis <strong>9. Septmeber 2019</strong> vorab eine Session an.
+                </p>
+
+                <details>
+                <summary role="button" aria-expanded="false" aria-controls="details">
+                    Weiterlesen…
+                </summary>
+                <div aria-hidden="true" id="details">
+                    <p>Zur Auswahl stet das gesamte Spektrum von
+                        Formaten, die für 45 Minuten geeignet sind:
+                    </p>
+                    <ul>
+                        <li>Kurzvortrag + Diskussion</li>
+                        <li>Hands-on Workshop</li>
+                        <li>Brainstorming</li>
+                        <li>Fishbowl</li>
+                        <li>Mind-Mapping</li>
+                        <li>Pecha Cucha</li>
+                        <li>Für weitere Formate sind wir offen</li>
+                    </ul>
+                    <p>
+                        Mit einer frühzeitigen Anmeldung erhältst Du die Chance, einen Beitrag vorab einzureichen. Bei Eignung wird Deine Session auf der Xcamp Webseite
+                        angekündigt und mit Deinem Bild veröffentlicht.
+                    </p>
+                    <p>
+                        Zur Session-Anmeldung sende uns einfach Deine Session-Anmeldung nach dem Ticketkauf in unserem
+                        Netvis-Konferenztool.
+                    </p>
+                </div>
+                </details>
+
+                <a class="button yellow" target="_self" href="tickets">
+                    Ticket kaufen
+                    <br>
+                    und Session einreichen
+                </a>
+            </div>
+            </li>
+                {{#sessions}}
+                <li class="tiles__item">
+                    <img class="tiles__img" src="{{{image}}}" alt="">
+                    <div class="tiles__body">
+                        <h2 class="tiles__headline">{{person.name}}</h2>
+                        {{#urlTitle}}
+                            <h3 class="tiles__headline"><a href="{{{url}}}" target="_blank" rel="nofollow" class="tiles__url">{{urlTitle}}</a></h3>
+                        {{/urlTitle}}
+                        <p>{{talk}}</p>
+                    </div>
+                </li>
+                {{/sessions}}
+            </ul>
+
+            <div class="box white" id="agenda">
+                <h2>Agenda 13.09.2019</h2>
+                <ul class="agenda">
+                    <li class="agenda__item">
+                        <span class="agenda__time">08:00</span>
+                        <p class="agenda__descr">Check-in und Frühstück</p>
+                    </li>
+                    <li class="agenda__item">
+                        <span class="agenda__time">09:00</span>
+                        <p class="agenda__descr">Begrüßung</p>
+                    </li>
+                    <li class="agenda__item">
+                        <span class="agenda__time">09:40</span>
+                        <p class="agenda__descr">Keynote</p>
+                    </li>
+                    <li class="agenda__item">
+                        <span class="agenda__time">10:30</span>
+                        <p class="agenda__descr">Session-Planung</p>
+                    </li>
+                    <li class="agenda__item">
+                        <span class="agenda__time">11:45</span>
+                        <p class="agenda__descr">1. Session Runde</p>
+                    </li>
+                    <li class="agenda__item">
+                        <span class="agenda__time">12:30</span>
+                        <p class="agenda__descr">Mittagspause &amp; Networking</p>
+                    </li>
+                    <li class="agenda__item">
+                        <span class="agenda__time">13:30</span>
+                        <p class="agenda__descr">2. Session Runde</p>
+                    </li>
+                    <li class="agenda__item">
+                        <span class="agenda__time">14:30</span>
+                        <p class="agenda__descr">3. Session Runde</p>
+                    </li>
+                    <li class="agenda__item">
+                        <span class="agenda__time">15:30</span>
+                        <p class="agenda__descr">Kaffeepause</p>
+                    </li>
+                    <li class="agenda__item">
+                        <span class="agenda__time">16:00</span>
+                        <p class="agenda__descr">4. Session Runde</p>
+                    </li>
+                    <li class="agenda__item">
+                        <span class="agenda__time">17:00</span>
+                        <p class="agenda__descr">5. Session Runde</p>
+                    </li>
+                    <li class="agenda__item">
+                        <span class="agenda__time">18:00</span>
+                        <p class="agenda__descr">Closing und Networking</p>
+                    </li>
+                    <li class="agenda__item">
+                        <span class="agenda__time">19:00</span>
+                        <p class="agenda__descr">Gute Heimreise</p>
+                    </li>
+                </ul>
+                <div>
+                    <a target="_self" href=".">
+                        <img src="assets/img/Netvis2-1200x528.jpg" style="max-width: 100%">
+                    </a>
+                    <a class="button turquoise with-arrow" target="_self" href=".">
+                        Jetzt vernetzen
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    {{> footer}}
+    <script src="common.js"></script>
+    <script>
+    setMenuState()
+    </script>
+</body>
+
+</html>

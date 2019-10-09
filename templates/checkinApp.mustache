@@ -1,0 +1,31 @@
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>XCamp 2019 Checkin</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <link rel="apple-touch-icon" href="assets/img/xcamp-large.png" />
+    <base href="{{baseUrl}}">
+    <link rel="stylesheet" href="dist/css/ticket.css">
+</head>
+<body>
+<div id="main" class="maximize">
+    <div class="container">
+        {{> logo}}
+        <h1>Checkin</h1>
+        <div class="row">
+            <video id="preview"></video>
+            <div id="characteristics">
+                <img id="char-img"/>
+                <div id="char-name"></div>
+                <button id="profile-button" class="button small">Profil bearbeiten</button>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="common.js"></script>
+<script src="instascan.js"></script>
+<script src="checkin.js"></script>
+</body>
+</html>

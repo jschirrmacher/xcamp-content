@@ -1,5 +1,5 @@
 ---
-layout: orga-team
+layout: standard
 title: Über das Organisationsteam vom XCamp
 ---
 

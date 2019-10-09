@@ -1,0 +1,18 @@
+<html lang="de">
+<head>
+    {{> head}}
+    <link rel="stylesheet" href="dist/css/main.css">
+</head>
+<body data-code="{{accessCode}}">
+{{> menu}}
+{{> logo}}
+<div id="mainpage">
+    <div class="container no-background">
+        {{& html}}
+    </div>
+</div>
+{{> footer}}
+<script src="common.js"></script>
+<script src="mainpage.js"></script>
+</body>
+</html>

@@ -1,0 +1,36 @@
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>{{eventName}} - Administration</title>
+    <base href="{{baseUrl}}">
+    <link rel="stylesheet" href="dist/css/ticket.css">
+</head>
+<body>
+{{> menu}}
+{{> logo}}
+<div id="main">
+    <div class="container semi-transparent">
+        <h1>{{eventName}} Administration</h1>
+
+        <p>Willkommen!</p>
+        <p>Hier findest du alle administrativen Funktionen für das {{eventName}}</p>
+
+        <ul>
+            <li><a href="#" id="orga-coupon">Gutscheincode für Studenten-Ticket erzeugen</a></li>
+            <li><a href="#" id="orga-coupon-earlybird">Gutscheincode für nachträgliches EarlyBird-Ticket erzeugen</a></li>
+            <li><a href="orga/invoices">Rechnungsliste</a></li>
+            <li><a href="orga/participants?format=excel">Teilnehmerliste exportieren</a></li>
+            <li><a href="orga/checkin">Checkin-App</a></li>
+            <li><a href="orga/tiles">Kachel erzeugen</a></li>
+            <li><a href="session-list">Sessions</a></li>
+        </ul>
+    </div>
+</div>
+{{> footer}}
+
+<script src="qrcode/qrcode.min.js"></script>
+<script src="common.js"></script>
+<script src="orga.js"></script>
+</body>
+</html>

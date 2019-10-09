@@ -1,0 +1,22 @@
+<html lang="de">
+<head>
+    {{> head}}
+    <link rel="stylesheet" href="dist/css/main.css">
+</head>
+
+<body data-code="{{accessCode}}">
+{{> menu}}
+{{> logo}}
+<div id="main" class="no-background">
+    <div id="{{meta.id}}" class="container">
+        {{& html}}
+    </div>
+</div>
+{{> footer}}
+
+<script src="common.js"></script>
+<script>
+    setMenuState()
+</script>
+</body>
+</html>

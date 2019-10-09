@@ -1,0 +1,35 @@
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Informationen über das {{eventName}} erhalten</title>
+    <base href="{{baseUrl}}">
+    <link rel="stylesheet" href="dist/css/ticket.css">
+</head>
+<body>
+{{> menu}}
+{{> logo}}
+<div id="main">
+    <div class="container semi-transparent">
+        <h1>Wunderbar!</h1>
+
+        <h2>Willkommen in der {{eventName}} Community, {{firstName}}!</h2>
+
+        <p>
+            Wir haben dir jetzt eine E-Mail gesendet.
+        </p>
+        <p>
+            Bitte schaue in deinem Postfach und bestätige deine
+            Anmeldung durch Klick auf den in der E-Mail enthaltenen Link.
+        </p>
+
+        <div class="info">
+            Du kannst dich zu jeder Zeit wieder von {{eventName}} Newsletter abmelden.<br>
+            Einfach in der zuletzt erhaltenen E-Mail auf “Newsletter abbestellen” klicken.
+        </div>
+    </div>
+</div>
+{{> footer}}
+
+</body>
+</html>

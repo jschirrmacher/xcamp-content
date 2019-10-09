@@ -1,0 +1,42 @@
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>XCamp Zugang</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <base href="{{{baseUrl}}}">
+    <link rel="stylesheet" href="dist/css/ticket.css">
+</head>
+<body>
+{{> menu}}
+{{> logo}}
+<div id="main">
+    <div class="container semi-transparent">
+        <h1>Passwort erforderlich</h1>
+
+        <p>Falls du bereits ein Ticket für das XCamp hast, kannst du dich hier einloggen.</p>
+        <p>Wenn du noch keines hast, kannst du <a href="tickets">hier ein Ticket bekommen</a>.</p>
+
+        <form id="login-form" action="session" method="post">
+            <label id="email">Deine E-Mail-Adresse
+                <input type="email" name="email">
+            </label>
+            <label>Dein Passwort
+                <input type="password" name="password">
+            </label>
+            <input type="hidden" name="username" value="{{accessCode}}">
+            <input type="hidden" name="url" value="{{url}}">
+            <button class="button" type="submit">Anmelden</button>
+
+            <h2>Du hast dein Passwort vergessen?</h2>
+            <p>Wir können dir einen Zugangslink per E-Mail senden, wenn du oben deine E-Mail-Adresse angibst,
+                das Passwortfeld leer lässt und auf den folgenden Button klickst:
+            </p>
+            <button class="button wide" id="lost-pwd">Zugangslink erhalten</button>
+        </form>
+    </div>
+</div>
+{{> footer}}
+<script src="common.js"></script>
+<script src="login.js"></script>
+</body>
+</html>

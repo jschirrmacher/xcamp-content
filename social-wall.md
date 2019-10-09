@@ -1,5 +1,5 @@
 ---
-layout: social-wall
+layout: standard
 title: Social Wall
 ---
 # Social Wall

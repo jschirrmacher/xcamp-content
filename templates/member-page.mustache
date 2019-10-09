@@ -1,0 +1,37 @@
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>XCamp Autor</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <base href="{{{baseUrl}}}">
+    <link rel="stylesheet" href="dist/css/main.css">
+</head>
+<body>
+{{> menu}}
+{{> logo}}
+<div id="main" class="no-background">
+    <div class="container team-member">
+        <div class="row">
+            <img src="{{meta.image}}">
+            <h1>Über {{meta.title}}</h1>
+            {{& html}}
+        </div>
+
+        <h2>Artikel von {{meta.title}}</h2>
+        <div class="articles">
+        {{#articleList}}
+            <div class="card">
+                <a href="{{meta.pageName}}">
+                    <img src="{{meta.image}}">
+                    <h3>{{meta.title}}</h3>
+                </a>
+                {{& excerpt}}
+            </div>
+        {{/articleList}}
+        </div>
+    </div>
+</div>
+
+<script src="common.js"></script>
+</body>
+</html>

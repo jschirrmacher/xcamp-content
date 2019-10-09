@@ -1,0 +1,73 @@
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Vergünstiges Ticket für das {{eventName}} erwerben</title>
+    <base href="{{baseUrl}}">
+    <link rel="stylesheet" href="dist/css/ticket.css">
+</head>
+<body>
+{{> menu}}
+{{> logo}}
+<div id="main">
+    <div class="container semi-transparent">
+        <h1>Vergünstigtes Ticket für das {{eventName}} erhalten</h1>
+
+        <p>Wir vergeben eine begrenzte Anzahl von Tickets an Menschen, die ein besonderes Interesse
+        an der Eventteilnahme haben, jedoch nicht die normalen Ticketkosten aufbringen können.</p>
+
+        <p>Der Preis für vergünstigte Tickets liegt bei 35€ inkl. MWSt.</p>
+
+        <form id="ticket-form" method="post" action="tickets/reduced">
+            <h2>Gib hier ein paar Informationen an:</h2>
+
+            <div class="row">
+                <div class="form-group col-6">
+                    <label for="payment-first-name"></label>
+                    <input type="text" id="payment-first-name" name="firstName" class="form-control mandatory"
+                           placeholder="Rufname" autocomplete='given-name'
+                           required/>
+                </div>
+                <div class="form-group col-6">
+                    <label for="payment-name"></label>
+                    <input type="text" id="payment-name" name="lastName" class="form-control mandatory"
+                           placeholder="Familienname"
+                           autocomplete='family-name' required/>
+                </div>
+                <div class="form-group col-12">
+                    <label for="payment-email"></label>
+                    <input type="email" id="payment-email" name="email" class="form-control mandatory"
+                           autocomplete='email' placeholder="E-Mail-Adresse" required/>
+                </div>
+
+                <div class="form-group col-12">
+                    <label for="application-description"></label>
+                    <textarea id="application-description" name="description" class="form-control mandatory" required
+                              placeholder="Begründung, warum du ein vergünstigtes Ticket erhalten solltest"></textarea>
+                </div>
+            </div>
+
+            {{> public-interest}}
+            {{> privacy}}
+
+            <div class="form-group checkbox">
+                <label>
+                    <input type="checkbox" name="tos_accepted" class="form-control" id="tos-accepted"/>
+                    Ich bewerbe mich hiermit für ein preisreduziertes Ticket für das {{eventName}}. Ich habe
+                    die Hinweise zum Datenschutz zur Kenntnis genommen und bin damit einverstanden, dass meine
+                    Daten wie beschrieben elektronisch gespeichert werden.
+                </label>
+            </div>
+
+            <button type="submit" id="submit-button" class="button">Jetzt bewerben</button>
+        </form>
+    </div>
+</div>
+{{> footer}}
+
+<script>
+    const categories = { {{categories}} }
+</script>
+<script src="ticket.js"></script>
+</body>
+</html>

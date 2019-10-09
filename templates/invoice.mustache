@@ -1,0 +1,199 @@
+<html>
+<head>
+    <title>XCamp Rechnung Nr. {{invoiceNo}}</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        .sheet {
+            background-color: white;
+            height: 300mm;
+            width: 200mm;
+            padding: 15mm 25mm 10mm;
+            position: relative;
+        }
+
+        .printable {
+            position: relative;
+            height: 100%;
+        }
+
+        h1, h2 {
+            margin-bottom: 2em;
+        }
+
+        footer {
+            border-top: 1px solid #bbb;
+            color: #888;
+            font-size: 80%;
+            padding-top: 1em;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+
+        #logo {
+            height: 160px;
+        }
+
+        .invoice-info {
+            float: right;
+        }
+
+        .firm {
+            font-weight: bold;
+            margin-bottom: 1em;
+        }
+
+        .postcode {
+            float: left;
+            margin-right: 0.5em;
+        }
+
+        .recipient {
+            margin: 2em 0 5em;
+        }
+
+        .invoice-text {
+            margin-bottom: 2em;
+        }
+
+        .amount {
+            float: right;
+        }
+
+        .vat {
+            margin-top: 0.5em;
+        }
+
+        .totalAmount {
+            margin: 1em 0 2em;
+            font-weight: bold;
+            border-top: 1px solid #aaa;
+            padding-top: 4px;
+        }
+
+        .account-rel {
+            margin: 2em;
+        }
+
+        #print {
+            display: none;
+        }
+
+        @media screen {
+            body {
+                padding: 20px;
+                background: #ddd;
+            }
+
+            .sheet {
+                box-shadow: #888 3px 3px 5px;
+            }
+
+            #print {
+                position: absolute;
+                left: 225mm;
+                top: 1em;
+                display: inline-block;
+                padding: 6px 12px;
+                margin-bottom: 0;
+                font-size: 14px;
+                font-weight: 400;
+                line-height: 1.42857143;
+                text-align: center;
+                white-space: nowrap;
+                vertical-align: middle;
+                -ms-touch-action: manipulation;
+                touch-action: manipulation;
+                cursor: pointer;
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+                background-image: none;
+                border: 1px solid #2e6da4;
+                border-radius: 4px;
+                color: #fff;
+                background-color: #337ab7;
+            }
+        }
+    </style>
+</head>
+<body>
+<div class="sheet">
+    <div class="printable">
+        <div id="logo">
+            <img src="{{baseUrl}}assets/img/xcamp-large.png"/>
+        </div>
+
+        <div class="invoice-info">
+            <div class="invoice-id">Rechnungs-Nr. {{invoiceNo}}</div>
+            <div class="date">Datum {{created}}</div>
+            <div><br>
+                Kontakt:<br>
+                xcamp@justso.de
+            </div>
+        </div>
+
+        <div class="recipient">
+            <div class="firm">{{firm}}</div>
+            <div class="name">{{firstName}} {{lastName}}</div>
+            <div class="address">{{address}}</div>
+            <div class="postcode">{{postcode}}</div>
+            <div class="city">{{city}}</div>
+            <div class="country">{{country}}</div>
+        </div>
+
+        <h2>Rechnung</h2>
+
+        <div class="invoice-text">
+            <p>Liebe(r) {{eventName}} Teilnehmer(in),</p>
+            <p>wir freuen uns über deine Teilnahme beim {{eventName}}!</p>
+            <p>Hier ist die Rechnung für {{bookedString}}.</p>
+            {{#yourReference}}
+            <b>Referenz: {{yourReference}}</b>
+            {{/yourReference}}
+        </div>
+
+        <div class="product">
+            {{ticketString}} für {{ticketType}}<br>
+            zum {{eventName}} am {{eventDate}}
+            <div class="amount">{{netAmount}}</div>
+        </div>
+        <div class="vat">
+            zzgl. 19% USt.
+            <div class="amount">{{vat}}</div>
+        </div>
+        <div class="totalAmount">
+            Gesamtsumme:
+            <div class="amount">{{totalAmount}}</div>
+        </div>
+
+        {{^paid}}
+            <p>Der Betrag ist sofort zur Zahlung fällig. Bitte überweise ihn ohne Abzug auf unser Konto:</p>
+            <p class="account-rel">Justso GmbH<br/>
+                Frankfurter Volksbank<br/>
+                IBAN DE68 501 900 00 6100 700 610
+            </p>
+        {{/paid}}
+        {{#paid}}
+            <p>Diese Rechnung ist bereits bezahlt, vielen Dank! Bitte nichts mehr überweisen.</p>
+        {{/paid}}
+
+        <p>Mit freundlichen Grüßen</p>
+        <p>XCamp Team</p>
+
+        <footer>
+            Justso GmbH, Praunheimer Landstraße 95, 60488 Frankfurt am Main<br/>
+            Geschäftsführerin: Dr. Christiane Gerigk<br/>
+            Registergericht: Amtsgericht Frankfurt am Main, Registernummer: HRB 96356<br/>
+            USt.-IdNr. DE288767862 | StNr. 045/236/95300
+        </footer>
+    </div>
+
+    <button class="btn btn-primary" id="print" onclick="window.print()">Drucken</button>
+</div>
+</body>
+</html>

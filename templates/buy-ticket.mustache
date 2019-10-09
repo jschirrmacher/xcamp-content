@@ -1,0 +1,152 @@
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Ticket für das {{eventName}} kaufen</title>
+    <base href="{{baseUrl}}">
+    <link rel="stylesheet" href="dist/css/ticket.css">
+</head>
+<body>
+{{> menu}}
+{{> logo}}
+<div id="main">
+    <div class="container semi-transparent">
+        <h1>Tickets für das {{eventName}} kaufen</h1>
+
+        <form id="ticket-form" method="post" action="tickets">
+            <h2>Gib hier die Rechnungs-Daten an:</h2>
+
+            <div class="row">
+                {{^code}}
+                <div class="form-group radio col-6 button small">
+                    <label>
+                        <input type="radio" name="type" class="form-control" value="corporate" id="type-corporate"/>Unternehmen
+                    </label>
+                </div>
+                <div class="form-group radio col-6 button small">
+                    <label>
+                        <input type="radio" name="type" class="form-control" value="private" id="type-private" checked/>Selbstzahler
+                    </label>
+                </div>
+                {{/code}}
+
+                {{#code}}
+                    <input type="radio" class="hidden" name="type" value="{{ticketType}}" checked="checked">
+                    <input type="hidden" name="code" value="{{code}}">
+                {{/code}}
+
+                <div class="form-group col-12">
+                    <label for="payment-firm"></label>
+                    <input type="text" id="payment-firm" name="firm" class="form-control" placeholder="Name der Firma"
+                           autocomplete="organization"/>
+                </div>
+                <div class="form-group col-12">
+                    <label for="payment-yourReference"></label>
+                    <input type="text" id="payment-yourReference" name="yourReference" class="form-control" placeholder="Referenz (z.B. Kostenstelle)"
+                           autocomplete="off"/>
+                </div>
+                <div class="form-group col-6">
+                    <label for="payment-first-name"></label>
+                    <input type="text" id="payment-first-name" name="firstName" class="form-control mandatory"
+                           placeholder="Rufname" autocomplete="given-name"
+                           required/>
+                </div>
+                <div class="form-group col-6">
+                    <label for="payment-name"></label>
+                    <input type="text" id="payment-name" name="lastName" class="form-control mandatory"
+                           placeholder="Familienname"
+                           autocomplete="family-name" required/>
+                </div>
+                <div class="form-group col-12">
+                    <label for="payment-email"></label>
+                    <input type="email" id="payment-email" name="email" class="form-control mandatory"
+                           autocomplete="email" placeholder="E-Mail-Adresse" required/>
+                </div>
+                <div class="form-group col-12">
+                    <label for="payment-address"></label>
+                    <input type="text" id="payment-address" name="address" class="form-control mandatory"
+                           autocomplete="address-line1" placeholder="Straße, Hausnummer" required/>
+                </div>
+                <div class="form-group col-4">
+                    <label for="payment-post-code"></label>
+                    <input type="text" id="payment-post-code" name="postcode" class="form-control mandatory"
+                           autocomplete="postal-code" placeholder="Postleitzahl" required/>
+                </div>
+                <div class="form-group col-8">
+                    <label for="payment-city"></label>
+                    <input type="text" id="payment-city" name="city" class="form-control mandatory" placeholder="Stadt"
+                           autocomplete="address-level2" required/>
+                </div>
+                <div class="form-group col-12">
+                    <label for="payment-country"></label>
+                    <select id="payment-country" name="country" class="form-control mandatory"
+                            autocomplete="country-name">
+                        <option value="de" selected>Deutschland</option>
+                        <option value="ch">Schweiz</option>
+                        <option value="at">Österreich</option>
+                    </select>
+                </div>
+                <div class="form-group col-12">
+                    <label for="profession"></label>
+                    <select id="profession" name="profession" class="form-control" autocomplete="profession">
+                        <option value="">Bitte auswählen (optional)</option>
+                        <option value="small-company">Angestellt Kleines Unternehmen (<= 50 MA)</option>
+                        <option value="medium-company">Angestellt Mittleres Unternehmen (> 50 MA <= 250 MA)</option>
+                        <option value="large-company">Angestellt Großes Unternehmen (> 250 MA)</option>
+                        <option value="student">Schüler / Student</option>
+                        <option value="self-employed">Selbständig</option>
+                        <option value="founder">Gründer</option>
+                        <option value="transition">In Transition / Orientierung</option>
+                    </select>
+                </div>
+
+                <div class="static" {{#code}}style="display: none"{{/code}}>
+                    Ich kaufe
+                    <label for="ticketCount"></label>
+                    <input type="number" id="ticketCount" name="ticketCount" class="form-control mandatory col-2"
+                           autocomplete="off" placeholder="Anzahl" value="1" required/>
+                    Ticket(s) für je <span id="single-price"></span> €.
+                </div>
+            </div>
+
+            <div id="invoice-details"></div>
+
+            {{> public-interest}}
+
+            <div class="radio">
+                <label>
+                    <input type="radio" name="payment" class="form-control" value="paypal" id="payment-paypal" checked/>
+                    Ich zahle per PayPal mittels Kreditkarte oder SEPA-Einzug
+                </label>
+            </div>
+            <div class="radio">
+                <label>
+                    <input type="radio" name="payment" class="form-control" value="invoice" id="payment-invoice"/>
+                    Ich zahle auf Rechnung (nur bei Unternehmens-Tickets)
+                </label>
+            </div>
+
+            {{> privacy}}
+
+            <div class="form-group checkbox">
+                <label>
+                    <input type="checkbox" name="tos_accepted" class="form-control" id="tos-accepted"/>
+                    Ich kaufe hiermit das/die oben spezifizierte(n) Ticket(s) für das {{eventName}}. Ich habe
+                    die Hinweise zum Datenschutz zur Kenntnis genommen und bin damit einverstanden, dass meine
+                    Rechnungsdaten wie beschrieben elektronisch gespeichert werden.
+                </label>
+            </div>
+
+            <button type="submit" id="submit-button" class="button">Jetzt kaufen</button>
+        </form>
+    </div>
+</div>
+{{> footer}}
+
+<script>
+    const categories = { {{categories}} }
+</script>
+<script src="common.js"></script>
+<script src="ticket.js"></script>
+</body>
+</html>

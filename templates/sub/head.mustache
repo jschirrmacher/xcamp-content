@@ -1,0 +1,68 @@
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>{{title}} - {{eventName}}</title>
+
+<meta name="description" content="{{title}}"/>
+<base href="{{baseUrl}}">
+
+<link rel="canonical" href="{{selflink}}" />
+<link rel='shortlink' href='{{selflink}}' />
+
+<meta property="og:locale" content="de_DE" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="{{title}} - {{eventName}}" />
+<meta property="og:description" content="{{title}} - {{eventName}}" />
+<meta property="og:url" content="{{selflink}}" />
+<meta property="og:site_name" content="{{eventName}}" />
+<meta property="og:image" content="{{baseUrl}}{{image}}"/>
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="{{title}} - {{eventName}}" />
+<meta name="twitter:title" content="{{title}} - {{eventName}}" />
+<meta name="twitter:image" content="{{baseUrl}}{{image}}" />
+
+<link rel="alternate" type="application/rss+xml" title="XCamp  &raquo; Feed" href="https://xcamp.co/feed/" />
+<link rel="alternate" type="application/rss+xml" title="XCamp  &raquo; Kommentar-Feed" href="https://xcamp.co/comments/feed/" />
+
+<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "WebSite",
+            "@id": "https://xcamp.co/#website",
+            "url": "https://xcamp.co/",
+            "name": "XCamp ",
+            "potentialAction": {
+                "@type": "SearchAction",
+                "target": "https://xcamp.co/?s={search_term_string}",
+                "query-input": "required name=search_term_string"
+            }
+        },
+        {
+            "@type": "ImageObject",
+            "@id": "https://xcamp.co/#primaryimage",
+            "url": "https://xcamp.co/netvis/Netvis2-1200x528.jpg",
+            "width": 1693,
+            "height": 745
+        },
+        {
+            "@type": "WebPage",
+            "@id": "https://xcamp.co/#webpage",
+            "url": "https://xcamp.co/",
+            "inLanguage": "de-DE",
+            "name": "2019 XCamp - Barcamp-Plus f\u00fcr digitale Innovation und agile Produktentwicklung - XCamp",
+            "isPartOf": {
+                "@id": "https://xcamp.co/#website"
+            },
+            "primaryImageOfPage": {
+                "@id": "https://xcamp.co/#primaryimage"
+            },
+            "datePublished": "2017-07-27T13:48:37+00:00",
+            "dateModified": "2019-07-14T16:17:20+00:00",
+            "description": "Barcamp-Plus f\u00fcr digitale Innovation und agile Produktentwicklung in Frankfurt am Main"
+        }
+    ]
+}</script>
+
+<link rel="alternate" type="application/json+oembed" href="{{baseUrl}}oembed.json" />
+<link rel="alternate" type="text/xml+oembed" href="{{baseUrl}}oembed.xml" />

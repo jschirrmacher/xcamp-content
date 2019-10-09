@@ -1,0 +1,53 @@
+<html lang="de">
+
+<head>
+    {{> head}}
+    <link rel="stylesheet" href="dist/css/main.css">
+</head>
+
+<body>
+{{> menu}}
+{{> logo}}
+<div id="main" class="no-background">
+    <div class="container blog-list">
+        <h1>{{eventName}} Blog</h1>
+
+        <ul id="blog-list">
+            {{#entries}}
+                <li>
+                    <a href="{{{meta.pageName}}}">
+                        <img src="{{{meta.image}}}">
+                        <h2>{{meta.title}}</h2>
+                    </a>
+                    {{& excerpt}}
+                    <a href="{{{meta.pageName}}}" class="continue">[weiter lesen]</a>
+                    <div class="meta">by
+                        {{#meta.authorPage}}
+                            <a href="team/{{{meta.authorPage}}}">{{meta.author}}</a>
+                        {{/meta.authorPage}}
+                        {{^meta.authorPage}}
+                            {{meta.author}}
+                        {{/meta.authorPage}}
+
+                        | {{meta.published}}
+                    </div>
+                </li>
+            {{/entries}}
+        </ul>
+
+        <div class="pager">
+            {{#prevPage}}<a href="blog?page={{prevPage}}">Vorherige Seite</a>{{/prevPage}}
+            {{#pageNums}}<a href="blog?page={{page}}" class="{{active}}">{{page}}</a>{{/pageNums}}
+            {{#nextPage}}<a href="blog?page={{nextPage}}">Nächste Seite</a>{{/nextPage}}
+        </div>
+    </div>
+</div>
+
+{{> footer}}
+<script src="common.js"></script>
+<script>
+    setMenuState()
+</script>
+
+</body>
+</html>

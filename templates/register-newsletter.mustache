@@ -1,0 +1,64 @@
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Informationen über das XCamp erhalten</title>
+    <base href="{{baseUrl}}">
+    <link rel="stylesheet" href="dist/css/ticket.css">
+</head>
+<body>
+{{> menu}}
+{{> logo}}
+<div id="main">
+    <div class="container semi-transparent">
+        <h1>Informationen über das XCamp erhalten</h1>
+
+        <form id="newsletter-form" method="post" action="newsletter">
+            <h2>
+                Wir informieren dich: Updates, exklusive Angebote, Blick hinter die Kulissen.
+            </h2>
+
+            <div class="row">
+                <div class="form-group col-12">
+                    <label for="newsletter-email"></label>
+                    <input type="email" id="newsletter-email" name="email" class="form-control mandatory"
+                           autocomplete='email' placeholder="E-Mail-Adresse" required/>
+                </div>
+            </div>
+
+            <div class="info">
+                Das XCamp Orga Team wird die Informationen, die du in diesem Formular angibst dazu verwenden,
+                mit dir in Kontakt zu bleiben und dir Updates und Informationen zum XCamp zu übermitteln.
+                Du kannst dich zu jeder Zeit wieder von XCamp Newsletter abmelden.
+                Einfach in der zuletzt erhaltenen E-Mail auf “Newsletter abbestellen” klicken.
+            </div>
+
+            <div class="row">
+                <h3>Optionale Zusatzinformationen</h3>
+                <p>Wenn du uns ein paar weitere Informationen gibst, können wir besser mit dir kommunizieren.</p>
+                <div class="form-group col-12">
+                    <label for="newsletter-firm"></label>
+                    <input type="text" id="newsletter-firm" name="firm" class="form-control" placeholder="Name der Firma"
+                           autocomplete='organization'/>
+                </div>
+                <div class="form-group col-6">
+                    <label for="newsletter-first-name"></label>
+                    <input type="text" id="newsletter-first-name" name="firstName" class="form-control"
+                           placeholder="Rufname" autocomplete='given-name'/>
+                </div>
+                <div class="form-group col-6">
+                    <label for="newsletter-name"></label>
+                    <input type="text" id="newsletter-name" name="lastName" class="form-control"
+                           placeholder="Familienname"
+                           autocomplete='family-name'/>
+                </div>
+            </div>
+
+            <button type="submit" id="submit-button" class="button">Abonnieren</button>
+        </form>
+    </div>
+</div>
+{{> footer}}
+
+</body>
+</html>

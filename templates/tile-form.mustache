@@ -1,0 +1,33 @@
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>XCamp Kachel-Generator</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <base href="{{baseUrl}}">
+    <link rel="stylesheet" href="dist/css/tile-form.css">
+</head>
+<body>
+    <div class="tile {{color}}">
+        <h1 class="{{titleColor}}">{{title}}</h1>
+        <span class="{{textColor}}">{{text}}</span>
+        <div>
+            <span class="box">https://xcamp.co</span>
+        </div>
+    </div>
+
+    <form>
+        <label><span>Hintergrund:</span>
+            <select name="color" value="{{color}}">{{#colorSelect}}color{{/colorSelect}}</select>
+        </label>
+        <label><span>Titel:</span>
+            <input name="title" value="{{title}}">
+            <select name="titleColor" value="{{titleColor}}">{{#colorSelect}}titleColor{{/colorSelect}}</select>
+        </label>
+        <label><span>Text:</span>
+            <input name="text" value="{{text}}">
+            <select name="textColor" value="{{textColor}}">{{#colorSelect}}textColor{{/colorSelect}}</select>
+        </label>
+        <button type="submit">Ok</button>
+    </form>
+</body>
+</html>

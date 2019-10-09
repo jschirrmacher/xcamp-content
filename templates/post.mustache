@@ -1,0 +1,66 @@
+<html lang="de">
+
+<head>
+    {{> head}}
+    <link rel="stylesheet" href="dist/css/main.css">
+</head>
+
+<body>
+{{> menu}}
+{{> logo}}
+<div id="main" class="no-background">
+    <div class="container blog-entry">
+        <div class="pager">
+            {{#prevPage}}<a href="{{prevPage}}">&lt; Vorherige Seite</a>{{/prevPage}}
+            {{#nextPage}}<a href="{{nextPage}}">Nächste Seite &gt;</a>{{/nextPage}}
+        </div>
+
+        <div class="row">
+            <div class="col-8">
+                <h1>{{title}}</h1>
+
+                {{&text}}
+
+                <div class="social-networks-wrapper">
+                    <a href="{{twitter}}" class="social-network-icon icon-twitter"
+                       target="_blank" rel="noopener noreferrer" title="Share on Twitter">
+                    </a>
+                    <a href="{{facebook}}" class="social-network-icon icon-facebook"
+                       target="_blank" rel="noopener noreferrer" title="Share on Facebook">
+                    </a>
+                </div>
+            </div>
+
+            {{#hasOthers}}
+            <div id="otherEntries" class="col-4">
+                <h3>Weitere Beiträge</h3>
+
+                <ul>
+                    {{#otherEntries}}
+                        <li><a href="{{link}}">{{title}}</a></li>
+                    {{/otherEntries}}
+                </ul>
+            </div>
+            {{/hasOthers}}
+        </div>
+
+        {{#author}}
+        <div class="author">
+            <img src="{{image}}"><h3>Autor/in: {{name}}</h3>
+            <div>{{& html}}</div>
+        </div>
+        {{/author}}
+        {{^author}}
+            {{author}}
+        {{/author}}
+    </div>
+</div>
+
+{{> footer}}
+<script src="common.js"></script>
+<script>
+    setMenuState()
+</script>
+
+</body>
+</html>

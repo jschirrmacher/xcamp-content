@@ -1,0 +1,60 @@
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>XCamp 2019 Ticket</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <base href="{{baseUrl}}">
+    <link rel="stylesheet" href="dist/css/ticket.css">
+</head>
+<body>
+{{> menu}}
+{{> logo}}
+<div id="main">
+<div class="container semi-transparent">
+    <form class="ticket" id="{{access_code}}">
+        {{> ticketHeader}}
+        {{> ticketData}}
+    </form>
+
+    <p class="noprint">
+        Du kannst vor dem Event jederzeit dein Ticket übertragen, indem du den Namen und die E-Mail-Adresse des
+        neuen Teilnehmers einträgst und auf "Änderungen speichern" klickst. Der Teilnehmer / die Teilnehmerin erhält
+        dann das Ticket an seine / ihre E-Mail-Adresse.
+    </p>
+    <p class="noprint">
+        Der ursprüngliche Käufer des Tickets hat über den Link, der ihm / ihr nach dem Kauf zugesendet wurde,
+        auch weiterhin Zugriff auf das Ticket. Das ist notwendig, um ggf. eine falsch eingebene E-Mail-Adresse bei der
+        Übertragung des Tickets auf eine andere Person korrigieren zu können.
+    </p>
+</div>
+</div>
+{{> footer}}
+
+<script src="qrcode/qrcode.min.js"></script>
+<script src="common.js"></script>
+<script>
+    [].forEach.call(document.getElementsByClassName('ticketNo'), function (el) {
+        QRCode.toCanvas(el, '{{baseUrl}}tickets/' + el.id)
+    })
+        {{#print}}
+        window.print()
+        window.onafterprint = function () {
+            window.close()
+        }
+        {{/print}}
+
+    bindHandler('saveTicket', 'click', function (button) {
+        const options = encodeParams({
+            firstName: button.form.elements['participant_firstName'].value,
+            lastName: button.form.elements['participant_lastName'].value,
+            email: button.form.elements['participant_email'].value,
+        }, {method: 'PUT'})
+        fetchReload('tickets/' + button.form.id, options)
+    })
+
+    bindHandler('printTicket', 'click', function (button) {
+        window.open('tickets/' + button.form.id + '/print')
+    })
+</script>
+</body>
+</html>
