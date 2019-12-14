@@ -7,7 +7,7 @@ title: Barcamp-Plus für digitale Innovation und Produktentwicklung - XCamp 2019
 Am 13. September 2019 treffen auf dem XCamp die Innovationstreiber aus Unternehmen und Start-ups, Design Thinker, Agile und Lean Startup-Experten der Metropolregion Frankfurt Rhein Main zusammen.
 
 <a href="tickets" class="big button yellow">Jetzt Ticket kaufen</a>
-<a href="./" class="big button turquoise">Jetzt vernetzen</a>
+<a href="netvis" class="big button turquoise">Jetzt vernetzen</a>
 
 - =magenta
 
