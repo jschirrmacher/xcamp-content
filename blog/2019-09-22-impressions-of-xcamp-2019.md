@@ -3,7 +3,7 @@ layout:    post
 title:     Impressions of XCamp 2019
 author:    Svenja Enss-van Gemmern
 published: 22.09.2019
-tags:      Review,XCamp2019
+tags:      Review,XCamp2019,XCamp2020
 image:     media/0.jpeg
 ---
 
