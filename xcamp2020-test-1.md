@@ -14,15 +14,13 @@ Auf dem XCamp treffen die Innovationstreiber aus Unternehmen und Start-ups, Desi
 
 ## Was ist XCamp?
 
-- =white
+1. Schwerpunkt des XCamps liegt 2020 auf praktische machen statt vortragen. Wir challangen Start-ups und Veränderer mit klaren Mission eigene Themen vorzutragen und bei für XCamp für andere Teilnehmer zu in kurze Pecha Kucha Präsentation am Vorabend zu präsentieren.
+  
+Das ist Deine Change Interessenten für Deinen Thema zu gewinnen! Am folgenden Tag treffen sich die Team von Teilnehmern in die Workshop Sessions und erarbeiten das Thema ein Stück weiter. Das XCamp wird als Open-Space organisiert. Die Inhalte werden von den Teilnehmern selbst bestimmt. Das Format wird auch (Un-) Konferenz bezeichnet. Wir wollen auch diese Jahr für die Teilnehmern ein Maximum an Interaktion, zudem ein hohes Maß an Inspiration und Lernfortschritt eröffnen – daher ist es Teilnehmern überlassen ob man das ganze Session mitmachen möchte oder ob man zwischen die Sessions wechselt.      
 
-  Schwerpunkt des XCamps liegt 2020 auf praktische machen statt vortragen. Wir challangen Start-ups und Veränderer mit klaren Mission eigene Themen vorzutragen und bei für XCamp für andere Teilnehmer zu in kurze Pecha Kucha Präsentation am Vorabend zu präsentieren.   
-  Das ist Deine Change Interessenten für Deinen Thema zu gewinnen! Am folgenden Tag treffen sich die Team von Teilnehmern in die Workshop Sessions und erarbeiten das Thema ein Stück weiter. Das XCamp wird als Open-Space organisiert. Die Inhalte werden von den Teilnehmern selbst bestimmt. Das Format wird auch (Un-) Konferenz bezeichnet. Wir wollen auch diese Jahr für die Teilnehmern ein Maximum an Interaktion, zudem ein hohes Maß an Inspiration und Lernfortschritt eröffnen – daher ist es Teilnehmern überlassen ob man das ganze Session mitmachen möchte oder ob man zwischen die Sessions wechselt.   
-  Die Agenda des XCamps, wird in der Session-Planung zu Beginn bestimmt. Jeder Teilnehmer erhält die Chance, einen Beitrag zu leisten und an anderen interessante Beiträge teilzuhaben.
+1. Die Agenda des XCamps, wird in der Session-Planung zu Beginn bestimmt. Jeder Teilnehmer erhält die Chance, einen Beitrag zu leisten und an anderen interessante Beiträge teilzuhaben.
 
-- =white
-
-  * Praktische machen statt Vortragen
+1. * Praktische machen statt Vortragen
   * Inspiration erleben und vernetzen
   * Schwung ins Unternehmen tragen
   * Erfahrungsaustausch 
