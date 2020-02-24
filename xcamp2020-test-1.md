@@ -71,6 +71,9 @@ Im Herbst 2020 werden wieder Experten über Praxiserfahrungen mit Methoden und P
 <a href="netvis" class="big button turquoise">Jetzt vernetzen</a>
 
 
+## Impressionen von XCamp
+
+
 
 ## Letzte [Blog-News](blog) zum XCamp
 
