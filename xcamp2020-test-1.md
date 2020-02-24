@@ -9,7 +9,7 @@ Auf dem XCamp treffen die Innovationstreiber aus Unternehmen und Start-ups, Desi
 
 <a href="newsletter" class="big button yellow">Ticket für 2020 nicht verpassen!</a>
 <!--a href="tickets" class="big button yellow">Jetzt Ticket kaufen</a-->
-<a href="xcamp2019" class="big button turquoise">Das war XCamp 2019</a>
+<a href="https://xcamp.co/blog/2019-09-22-impressions-of-xcamp-2019" class="big button turquoise">Das war XCamp 2019</a>
 
 
 ## Was ist XCamp?
@@ -79,7 +79,7 @@ Im Herbst 2020 werden wieder Experten über Praxiserfahrungen mit Methoden und P
 1.   ![Visual Recording of XCamp](blog/media/0-7.jpeg)
 1.   ![Visual Recording of XCamp](blog/media/0-8.jpeg)
 1.   ![View from DB Skydeck](blog/media/0-9.jpeg)
-
+1.   <a href="https://xcamp.co/blog/2019-09-22-impressions-of-xcamp-2019" class="big button turquoise">Das war XCamp 2019</a>
 
 
 ## Letzte [Blog-News](blog) zum XCamp
