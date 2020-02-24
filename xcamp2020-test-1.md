@@ -22,11 +22,11 @@ Die Agenda des XCamps, wird in der Session-Planung zu Beginn bestimmt. Jeder Tei
 
 - =white
 
-- Praktische machen statt Vortragen
-- Inspiration erleben und vernetzen
-- Schwung ins Unternehmen tragen
-- Erfahrungsaustausch 
-- kreative Methoden lernen
+    * Praktische machen statt Vortragen
+    * Inspiration erleben und vernetzen
+    * Schwung ins Unternehmen tragen
+    * Erfahrungsaustausch 
+    * kreative Methoden lernen
   
 ## Barcamp für Macher, Innovations Treiber & Agilisten 
 
