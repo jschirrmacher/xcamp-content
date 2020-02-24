@@ -10,7 +10,7 @@ Auf dem XCamp treffen die Innovationstreiber aus Unternehmen und Start-ups, Desi
 <a href="newsletter" class="big button yellow">Ticket für 2020 nicht verpassen!</a>
 <!--a href="tickets" class="big button yellow">Jetzt Ticket kaufen</a-->
 <a href="xcamp2019" class="big button turquoise">Das war XCamp 2019</a>
-<a href="netvis" class="big button turquoise">Jetzt vernetzen</a>
+
 
 ## Was ist XCamp?
 
