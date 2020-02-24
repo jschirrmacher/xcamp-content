@@ -104,39 +104,7 @@ Im Herbst 2020 werden wieder Experten über Praxiserfahrungen mit Methoden und P
 1. Die Agenda des XCamps, auch als Line-Up bezeichnet, wird in der Session-Planung zu Beginn bestimmt. Jeder Teilnehmer erhält die Chance, einen Beitrag zu leisten und an anderen interessante Beiträge teilzuhaben.-->
 
 
-## Jetzt teilnehmen!
 
-Auch in 2020 diskutieren Experten über Praxiserfahrungen mit Methoden und Prozessen rund um innovative Service- und Produktentwicklung. Einsteiger erhalten Hands-on-Zugang zu Methoden wie Lean Startup, Scrum, OKR, Agil, Projektmanagement, WOL, Digital Workplace, UI, UX und Design Thinking.
-
-Ähnlich zu den vergangenen LeanCamps und XCamps gibt es viel Inspiration, Vernetzung und neue Schubkraft für eigene Projekte.
-
-- =magenta has-bottom-buttons sold-out
-
-  ### Selbstzahler-Ticket
-  Mit diesem Ticket holst Du dir als Selbstzahler den Zugang zum Event, Verköstigung und Getränke. Verpass nicht diese
-  einmalige Chance!
-  <a href="tickets?type=private" class="button button--light align-bottom ticket-button" target="_self" disabled="true">??? €<br>Ticket kaufen</a>
-
-- =yellow has-bottom-buttons sold-out
-
-  ### Unternehmensticket
-  Mit einem Unternehmensticket erhältst Du als Mitarbeiter eines Unternehmens den vollen Zugang zur Veranstaltung für
-  den gesamten Tag inklusive Verköstigung und Getränke. Kauf auf Rechnung ist hier möglich.
-  <a href="tickets?type=corporate" class="button button--light align-bottom ticket-button" target="_self" disabled="true">??? €<br>Ticket kaufen</a>
-
-- =turquoise has-bottom-buttons sold-out
-
-  ### Vergünstigtes Ticket
-  Du studierst, gründest gerade oder bist in einer finanziell engen Phase und interessierst dich für innovate agile?
-  Wir haben eine begrenzte Anzahl an Tickets reserviert. Bewirb dich für den vollen Zugang zur Veranstaltung für den
-  ganzen Tag.
-  <a href="tickets?type=reduced" class="button button--light align-bottom ticket-button" target="_self" disabled="true">??? €<br>Ticket anfragen</a>
-
-
-## Du kannst dich noch nicht für ein Ticket entscheiden?
-Wir halten dich auf dem Laufenden, wenn du dich in unserem Newsletter einträgst
-
-<a href="newsletter" class="big button turquoise">Newsletter abonnieren</a>
 
 ## Sponsoren
 
