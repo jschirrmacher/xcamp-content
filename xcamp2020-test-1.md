@@ -73,15 +73,15 @@ Im Herbst 2020 werden wieder Experten über Praxiserfahrungen mit Methoden und P
 
 ## Impressionen von XCamp
 
-1.   ![Circle of Innovation in DB Skydeck](media/0.jpeg)
-1.   ![View from DB Skydeck](media/0-2.jpeg)
-1.   ![Jens Bothmer in action](media/0-3.jpeg)
-1.   ![Tasty food at XCamp 2019](media/0-4.jpeg)
-1.   ![Visual Recording of XCamp](media/0-5.jpeg)
-1.   ![Visual Recording of XCamp](media/0-6.jpeg)
-1.   ![Visual Recording of XCamp](media/0-7.jpeg)
-1.   ![Visual Recording of XCamp](media/0-8.jpeg)
-1.   ![View from DB Skydeck](media/0-9.jpeg)
+1.   ![Circle of Innovation in DB Skydeck](blog/media/0.jpeg)
+1.   ![View from DB Skydeck](blog/media/0-2.jpeg)
+1.   ![Jens Bothmer in action](blog/media/0-3.jpeg)
+1.   ![Tasty food at XCamp 2019](blog/media/0-4.jpeg)
+1.   ![Visual Recording of XCamp](blog/media/0-5.jpeg)
+1.   ![Visual Recording of XCamp](blog/media/0-6.jpeg)
+1.   ![Visual Recording of XCamp](blog/media/0-7.jpeg)
+1.   ![Visual Recording of XCamp](blog/media/0-8.jpeg)
+1.   ![View from DB Skydeck](blog/media/0-9.jpeg)
 
 
 
