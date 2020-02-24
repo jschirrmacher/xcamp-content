@@ -25,25 +25,25 @@ Die Agenda des XCamps, wird in der Session-Planung zu Beginn bestimmt. Jeder Tei
 - Erfahrungsaustausch 
 - kreative Methoden lernen
   
-
+## Barcamp für Macher, Innovations Treiber & Agilisten 
 
 - =magenta
 
   <span class="checkmark"></span>
-  ### Zuhören und praktisch Eintauchen
-  Erlebe Keynotes, hands-on Workshops und Open Space-Sessions zu Agilen Methoden, Lean Startup, Design Thinking, Business Modell Generation und den Erfolgsbedingungen für die Praxis.
+  ### Startup Innovator oder Veränderer mit klarer Mission
+  Bringe Dein Thema zum XCamp denn du gerne vorantreiben möchtest. Bei XCamp bekommts du einmalige Change von echten Experpern dein Workshop begleitent zu werden und du bekommts deinen Testpublikum von den Teilnehmern.
 
 - =yellow
 
   <span class="checkmark"></span>
-  ### Inspiration erleben und vernetzen
-  Gewinne durch Erfahrungsaustausch, interaktives Lernen und Workshops neue Einsichten und Motivation. Vernetze Dich mit Gleichgesinnten und Spezialisten, die neue Impulse geben.
+  ### Für Methoden Experten
+  Du bringt Deine Expertise in Spiel und bekommt eine Möglichkeit ein Workshop zu begleiten und Deine Methoden Werkzeuge zu testen - mit echten Case direkt aus Praxis.   
 
 - =turquoise
 
   <span class="checkmark"></span>
-  ### Schwung ins Unternehmen tragen
-  Erfahre selbst, wie Du kreativer wirst und mehr Wirksamkeit in Innovationsprojekten erreichen kannst. Setze anschliessend das Gelernte bei Dir vor Ort erfolgreich in die Praxis.
+  ### Zum Mitmachen und Lernen
+  Lerne durch machen und nehme Teil an Workshops von XCamp! Echte Use Cases aus diversen Startups oder innovations Projekten werden in den Sessions unter der Lupe genommen und Du lernst sehr praxisnah.
 
 
 ## Letzte [Blog-News](blog) zum XCamp
