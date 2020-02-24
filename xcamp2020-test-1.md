@@ -58,6 +58,20 @@ Das ist Deine Change Interessenten für Deinen Thema zu gewinnen! Am folgenden T
   Lerne durch machen und nehme Teil an Workshops von XCamp! Echte Use Cases aus diversen Startups oder innovations Projekten werden in den Sessions unter der Lupe genommen und Du lernst sehr praxisnah.
 
 
+
+## XCamp 2020 ist in Planung
+
+Im Herbst 2020 werden wieder Experten über Praxiserfahrungen mit Methoden und Prozessen rund um innovative Service- und Produktentwicklung diskutieren und austauschen. Einsteiger erhalten Hands-on-Zugang zu Methoden wie Lean Startup, Scrum, OKR, Agil, Projektmanagement, WOL, Digital Workplace, UI, UX und Design Thinking.
+
+Ähnlich zu den vergangenen LeanCamps und XCamps gibt es viel Inspiration, Vernetzung und neue Schubkraft für eigene Projekte.
+
+**Wir halten dich auf dem Laufenden, wenn du dich in unserem Newsletter einträgst**
+
+<a href="newsletter" class="big button turquoise">Newsletter abonnieren</a>
+<a href="netvis" class="big button turquoise">Jetzt vernetzen</a>
+
+
+
 ## Letzte [Blog-News](blog) zum XCamp
 
 <div id="newest-blog-entries"></div>
