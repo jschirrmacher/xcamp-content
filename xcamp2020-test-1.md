@@ -22,11 +22,11 @@ Auf dem XCamp treffen die Innovationstreiber aus Unternehmen und Start-ups, Desi
 
 - =white
 
-    * Praktische machen statt Vortragen
-    * Inspiration erleben und vernetzen
-    * Schwung ins Unternehmen tragen
-    * Erfahrungsaustausch 
-    * kreative Methoden lernen
+  * Praktische machen statt Vortragen
+* Inspiration erleben und vernetzen
+* Schwung ins Unternehmen tragen
+* Erfahrungsaustausch 
+* kreative Methoden lernen
   
 ## Barcamp für Macher, Innovations Treiber & Agilisten 
 
