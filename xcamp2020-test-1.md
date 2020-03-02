@@ -14,12 +14,11 @@ Auf dem XCamp treffen die Innovationstreiber aus Unternehmen und Start-ups, Desi
 
 ## Was ist das XCamp?
 
-- =yellow
-  Beim XCamp 2020 wollen wir praktisch machen statt nur darüber reden. Veränderer mit klaren Missionen tragen ihre Themen im Vorfeld auf der Website, und am Vorabend persönlich vor. Das ist Deine Chance, Ratgebende und Mitmachende für Dein Thema zu gewinnen!
+1. Beim XCamp 2020 wollen wir praktisch machen statt nur darüber reden. Veränderer mit klaren Missionen tragen ihre Themen im Vorfeld auf der Website, und am Vorabend persönlich vor. Das ist Deine Chance, Ratgebende und Mitmachende für Dein Thema zu gewinnen!
 
-  Am Workshop-Tag treffen sich die Teams in Workshop Sessions und bringen das Thema ein konkretes Stück voran. Am Ende des XCamp sind die Ideengeber einen wichtigen Schritt vorangekommen. Mitmacher und Ratgeber wissen, dass sie etwas zu einer guten Sache beigetragen haben.
+1. Am Workshop-Tag treffen sich die Teams in Workshop Sessions und bringen das Thema ein konkretes Stück voran. Am Ende des XCamp sind die Ideengeber einen wichtigen Schritt vorangekommen. Mitmacher und Ratgeber wissen, dass sie etwas zu einer guten Sache beigetragen haben.
 
-  Nach dem XCamp haben alle neue Erfahrungen gemacht und Kontakte geknüpft und bringen diese auch in ihre tägliche Arbeit ein. Inspiration, Methodenwissen und neuer Schwung für Beruf und persönliche Entwicklung.
+1. Nach dem XCamp haben alle neue Erfahrungen gemacht und Kontakte geknüpft und bringen diese auch in ihre tägliche Arbeit ein. Inspiration, Methodenwissen und neuer Schwung für Beruf und persönliche Entwicklung.
   
   
 ## Barcamp für Macher, Innovations Treiber & Agilisten 
