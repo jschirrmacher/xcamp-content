@@ -12,20 +12,14 @@ Auf dem XCamp treffen die Innovationstreiber aus Unternehmen und Start-ups, Desi
 <a href="https://xcamp.co/blog/2019-09-22-impressions-of-xcamp-2019" class="big button turquoise">Das war XCamp 2019</a>
 
 
-## Was ist XCamp?
+## Was ist das XCamp?
 
-1. Schwerpunkt des XCamps liegt 2020 auf praktische machen statt vortragen. Wir challangen Start-ups und Veränderer mit klaren Mission eigene Themen vorzutragen und bei für XCamp für andere Teilnehmer zu in kurze Pecha Kucha Präsentation am Vorabend zu präsentieren.
-  Das ist Deine Change Interessenten für Deinen Thema zu gewinnen! Am folgenden Tag treffen sich die Team von Teilnehmern in die Workshop Sessions und erarbeiten das Thema ein Stück weiter. Das XCamp wird als Open-Space organisiert. Die Inhalte werden von den Teilnehmern selbst bestimmt. Das Format wird auch (Un-) Konferenz bezeichnet. Wir wollen auch diese Jahr für die Teilnehmern ein Maximum an Interaktion, zudem ein hohes Maß an Inspiration und Lernfortschritt eröffnen – daher ist es Teilnehmern überlassen ob man das ganze Session mitmachen möchte oder ob man zwischen die Sessions wechselt.      
+- =yellow
+Beim XCamp 2020 wollen wir praktisch machen statt nur darüber reden. Veränderer mit klaren Missionen tragen ihre Themen im Vorfeld auf der Website, und am Vorabend persönlich vor. Das ist Deine Chance, Ratgebende und Mitmachende für Dein Thema zu gewinnen!
 
-1. Die Agenda des XCamps, wird in der Session-Planung zu Beginn bestimmt. Jeder Teilnehmer erhält die Chance, einen Beitrag zu leisten und an anderen interessante Beiträge teilzuhaben.
-   Praktische machen statt Vortragen
-Inspiration erleben und vernetzen
-Schwung ins Unternehmen tragen
-Erfahrungsaustausch 
-kreative Methoden lernen
-  
-  
-   
+Am Workshop-Tag treffen sich die Teams in Workshop Sessions und bringen das Thema ein konkretes Stück voran. Am Ende des XCamp sind die Ideengeber einen wichtigen Schritt vorangekommen. Mitmacher und Ratgeber wissen, dass sie etwas zu einer guten Sache beigetragen haben.
+
+Nach dem XCamp haben alle neue Erfahrungen gemacht und Kontakte geknüpft und bringen diese auch in ihre tägliche Arbeit ein. Inspiration, Methodenwissen und neuer Schwung für Beruf und persönliche Entwicklung.
   
   
 ## Barcamp für Macher, Innovations Treiber & Agilisten 
@@ -34,25 +28,25 @@ kreative Methoden lernen
 
   <span class="checkmark"></span>
   ### Startup Innovator oder Veränderer mit klarer Mission
-  Bringe Dein Thema zum XCamp denn du gerne vorantreiben möchtest. Bei XCamp bekommts du einmalige Change von echten Experpern dein Workshop begleitent zu werden und du bekommts deinen Testpublikum von den Teilnehmern.
+  Bringe Dein Thema zum XCamp mit, das du gerne vorantreiben möchtest. Beim XCamp bekommst du die einmalige Chance, von Experten begleitet zu werden und gewinnst Mitstreiter für deine Sache.
 
 - =yellow
 
   <span class="checkmark"></span>
   ### Für Methoden Experten
-  Du bringt Deine Expertise in Spiel und bekommt eine Möglichkeit ein Workshop zu begleiten und Deine Methoden Werkzeuge zu testen - mit echten Case direkt aus Praxis.   
+  Du bringt Deine Expertise ins Spiel und bekommst die Möglichkeit, Deine Methoden Werkzeuge zu testen - mit echten Fällen direkt aus Praxis.   
 
 - =turquoise
 
   <span class="checkmark"></span>
   ### Zum Mitmachen und Lernen
-  Lerne durch machen und nehme Teil an Workshops von XCamp! Echte Use Cases aus diversen Startups oder innovations Projekten werden in den Sessions unter der Lupe genommen und Du lernst sehr praxisnah.
+  Lerne durch machen und nimm Teil an Workshops beim XCamp! Echte Use Cases aus Startups oder Innovations-Projekten werden in den Sessions unter der Lupe genommen und Du lernst sehr praxisnah.
 
 
 
 ## XCamp 2020 ist in Planung
 
-Im Herbst 2020 werden wieder Experten über Praxiserfahrungen mit Methoden und Prozessen rund um innovative Service- und Produktentwicklung diskutieren und austauschen. Einsteiger erhalten Hands-on-Zugang zu Methoden wie Lean Startup, Scrum, OKR, Agil, Projektmanagement, WOL, Digital Workplace, UI, UX und Design Thinking.
+Im Herbst 2020 werden sich wieder Experten über Praxiserfahrungen mit Methoden und Prozessen rund um innovative Service- und Produktentwicklung diskutieren und austauschen. Einsteiger erhalten Hands-on-Zugang zu Methoden wie Lean Startup, Scrum, OKR, Agil, Projektmanagement, WOL, Digital Workplace, UI, UX und Design Thinking.
 
 Ähnlich zu den vergangenen LeanCamps und XCamps gibt es viel Inspiration, Vernetzung und neue Schubkraft für eigene Projekte.
 
