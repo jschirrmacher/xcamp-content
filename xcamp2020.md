@@ -9,25 +9,59 @@ Auf dem XCamp treffen die Innovationstreiber aus Unternehmen und Start-ups, Desi
 
 <a href="newsletter" class="big button yellow">Ticket für 2020 nicht verpassen!</a>
 <!--a href="tickets" class="big button yellow">Jetzt Ticket kaufen</a-->
-<a href="netvis" class="big button turquoise">Jetzt vernetzen</a>
+<a href="https://xcamp.co/blog/2019-09-22-impressions-of-xcamp-2019" class="big button turquoise">Das war XCamp 2019</a>
+
+## Was ist das XCamp?
+
+<ul class="yellow">
+  <li>Beim XCamp 2020 wollen wir praktisch machen statt nur darüber reden. Veränderer mit klaren Missionen tragen ihre Themen im Vorfeld auf der Website, und am Vorabend persönlich vor. Das ist Deine Chance, Ratgebende und Mitmachende für Dein Thema zu gewinnen!</li>
+  <li>Am Workshop-Tag treffen sich die Teams in Workshop Sessions und bringen das Thema ein konkretes Stück voran. Am Ende des XCamp sind die Ideengeber einen wichtigen Schritt vorangekommen. Mitmacher und Ratgeber wissen, dass sie etwas zu einer guten Sache beigetragen haben.</li>
+  <li>Nach dem XCamp haben alle neue Erfahrungen gemacht und Kontakte geknüpft und bringen diese auch in ihre tägliche Arbeit ein. Inspiration, Methodenwissen und neuer Schwung für Beruf und persönliche Entwicklung.</li>
+</ul>
+
+## Barcamp für Macher, Innovations Treiber & Agilisten 
 
 - =magenta
 
   <span class="checkmark"></span>
-  ### Zuhören und praktisch Eintauchen
-  Erlebe Keynotes, hands-on Workshops und Open Space-Sessions zu Agilen Methoden, Lean Startup, Design Thinking, Business Modell Generation und den Erfolgsbedingungen für die Praxis.
+  ### Startup Innovator oder Veränderer mit klarer Mission
+  Bringe Dein Thema zum XCamp mit, das du gerne vorantreiben möchtest. Beim XCamp bekommst du die einmalige Chance, von Experten begleitet zu werden und gewinnst Mitstreiter für deine Sache.
 
 - =yellow
 
   <span class="checkmark"></span>
-  ### Inspiration erleben und vernetzen
-  Gewinne durch Erfahrungsaustausch, interaktives Lernen und Workshops neue Einsichten und Motivation. Vernetze Dich mit Gleichgesinnten und Spezialisten, die neue Impulse geben.
+  ### Für Methoden Experten
+  Du bringt Deine Expertise ins Spiel und bekommst die Möglichkeit, Deine Methoden Werkzeuge zu testen - mit echten Fällen direkt aus Praxis.   
 
 - =turquoise
 
   <span class="checkmark"></span>
-  ### Schwung ins Unternehmen tragen
-  Erfahre selbst, wie Du kreativer wirst und mehr Wirksamkeit in Innovationsprojekten erreichen kannst. Setze anschliessend das Gelernte bei Dir vor Ort erfolgreich in die Praxis.
+  ### Zum Mitmachen und Lernen
+  Lerne durch machen und nimm Teil an Workshops beim XCamp! Echte Use Cases aus Startups oder Innovations-Projekten werden in den Sessions unter der Lupe genommen und Du lernst sehr praxisnah.
+
+
+
+## XCamp 2020 ist in Planung
+
+Im Herbst 2020 werden sich wieder Experten über Praxiserfahrungen mit Methoden und Prozessen rund um innovative Service- und Produktentwicklung diskutieren und austauschen. Einsteiger erhalten Hands-on-Zugang zu Methoden wie Lean Startup, Scrum, OKR, Agil, Projektmanagement, WOL, Digital Workplace, UI, UX und Design Thinking.
+
+Ähnlich zu den vergangenen LeanCamps und XCamps gibt es viel Inspiration, Vernetzung und neue Schubkraft für eigene Projekte.
+
+**Wir halten dich auf dem Laufenden, wenn du dich in unserem Newsletter einträgst**
+
+<a href="newsletter" class="big button turquoise">Newsletter abonnieren</a>
+<a href="netvis" class="big button turquoise">Jetzt vernetzen</a>
+
+
+## Impressionen von XCamp
+
+1.   ![Tasty food at XCamp 2019](blog/media/0-4.jpeg)
+1.   ![Visual Recording of XCamp](blog/media/0-5.jpeg)
+1.   ![Visual Recording of XCamp](blog/media/0-6.jpeg)
+1.   ![Visual Recording of XCamp](blog/media/0-7.jpeg)
+1.   ![Visual Recording of XCamp](blog/media/0-8.jpeg)
+1.   ![View from DB Skydeck](blog/media/0-9.jpeg)
+1.   <a href="https://xcamp.co/blog/2019-09-22-impressions-of-xcamp-2019" class="big button turquoise">Das war XCamp 2019</a>
 
 
 ## Letzte [Blog-News](blog) zum XCamp
@@ -39,49 +73,17 @@ Auf dem XCamp treffen die Innovationstreiber aus Unternehmen und Start-ups, Desi
 
 <iframe src="https://www.youtube.com/embed/bPJKoiXNvz8?feature=oembed&amp;enablejsapi=1&amp;wmode=opaque" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="" id="player_1" name="fitvid0"></iframe>
 
-
-## Das Format des XCamp
-
-1. Das XCamp wird als Open-Space organisiert. Die Inhalte werden von den Teilnehmern selbst bestimmt. Das Format wird auch (Un-) Konferenz bezeichnet. Es eröffnet den Teilnehmern ein Maximum an Interaktion, zudem ein hohes Maß an Inspiration und Lernfortschritt – insbesondere für Neulinge. Schwerpunkt des XCamps liegt auf den Themenfeldern Agiles Management und Innovation im Unternehmenskontext.
-  
-1. Im Hinblick zu einer traditionellen Konferenz gibt es wenige festgelegte Redner. Als Besucher der Konferenz kannst Du, wie jeder andere Teilnehmer, eine eigene Session halten. In dieser diskutierst Du beispielsweise Deine Erfahrungen zu einem Thema oder erhältst Best-Practice-Hinweise von anderen Teilnehmern.
-  
-1. Die Agenda des XCamps, auch als Line-Up bezeichnet, wird in der Session-Planung zu Beginn bestimmt. Jeder Teilnehmer erhält die Chance, einen Beitrag zu leisten und an anderen interessante Beiträge teilzuhaben.
-
-
-## Jetzt teilnehmen!
-
-Auch in 2020 diskutieren Experten über Praxiserfahrungen mit Methoden und Prozessen rund um innovative Service- und Produktentwicklung. Einsteiger erhalten Hands-on-Zugang zu Methoden wie Lean Startup, Scrum, OKR, Agil, Projektmanagement, WOL, Digital Workplace, UI, UX und Design Thinking.
-
-Ähnlich zu den vergangenen LeanCamps und XCamps gibt es viel Inspiration, Vernetzung und neue Schubkraft für eigene Projekte.
-
-- =magenta has-bottom-buttons sold-out
-
-  ### Selbstzahler-Ticket
-  Mit diesem Ticket holst Du dir als Selbstzahler den Zugang zum Event, Verköstigung und Getränke. Verpass nicht diese
-  einmalige Chance!
-  <a href="tickets?type=private" class="button button--light align-bottom ticket-button" target="_self" disabled="true">??? €<br>Ticket kaufen</a>
-
-- =yellow has-bottom-buttons sold-out
-
-  ### Unternehmensticket
-  Mit einem Unternehmensticket erhältst Du als Mitarbeiter eines Unternehmens den vollen Zugang zur Veranstaltung für
-  den gesamten Tag inklusive Verköstigung und Getränke. Kauf auf Rechnung ist hier möglich.
-  <a href="tickets?type=corporate" class="button button--light align-bottom ticket-button" target="_self" disabled="true">??? €<br>Ticket kaufen</a>
-
-- =turquoise has-bottom-buttons sold-out
-
-  ### Vergünstigtes Ticket
-  Du studierst, gründest gerade oder bist in einer finanziell engen Phase und interessierst dich für innovate agile?
-  Wir haben eine begrenzte Anzahl an Tickets reserviert. Bewirb dich für den vollen Zugang zur Veranstaltung für den
-  ganzen Tag.
-  <a href="tickets?type=reduced" class="button button--light align-bottom ticket-button" target="_self" disabled="true">??? €<br>Ticket anfragen</a>
+<!--
+## Das Format des XCamp-->
+<!--
+1. Das XCamp wird als Open-Space organisiert. Die Inhalte werden von den Teilnehmern selbst bestimmt. Das Format wird auch (Un-) Konferenz bezeichnet. Es eröffnet den Teilnehmern ein Maximum an Interaktion, zudem ein hohes Maß an Inspiration und Lernfortschritt – insbesondere für Neulinge. Schwerpunkt des XCamps liegt auf den Themenfeldern Agiles Management und Innovation im Unternehmenskontext.-->
+<!--  
+1. Im Hinblick zu einer traditionellen Konferenz gibt es wenige festgelegte Redner. Als Besucher der Konferenz kannst Du, wie jeder andere Teilnehmer, eine eigene Session halten. In dieser diskutierst Du beispielsweise Deine Erfahrungen zu einem Thema oder erhältst Best-Practice-Hinweise von anderen Teilnehmern.-->
+<!--  
+1. Die Agenda des XCamps, auch als Line-Up bezeichnet, wird in der Session-Planung zu Beginn bestimmt. Jeder Teilnehmer erhält die Chance, einen Beitrag zu leisten und an anderen interessante Beiträge teilzuhaben.-->
 
 
-## Du kannst dich noch nicht für ein Ticket entscheiden?
-Wir halten dich auf dem Laufenden, wenn du dich in unserem Newsletter einträgst
 
-<a href="newsletter" class="big button turquoise">Newsletter abonnieren</a>
 
 ## Sponsoren
 
