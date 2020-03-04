@@ -13,33 +13,40 @@ Auf dem XCamp treffen die Innovationstreiber aus Unternehmen und Start-ups, Desi
 
 ## Was ist das XCamp?
 
-<ul class="yellow">
-  <li>Beim XCamp 2020 wollen wir praktisch machen statt nur darüber reden. Veränderer mit klaren Missionen tragen ihre Themen im Vorfeld auf der Website, und am Vorabend persönlich vor. Das ist Deine Chance, Ratgebende und Mitmachende für Dein Thema zu gewinnen!</li>
-  <li>Am Workshop-Tag treffen sich die Teams in Workshop Sessions und bringen das Thema ein konkretes Stück voran. Am Ende des XCamp sind die Ideengeber einen wichtigen Schritt vorangekommen. Mitmacher und Ratgeber wissen, dass sie etwas zu einer guten Sache beigetragen haben.</li>
-  <li>Nach dem XCamp haben alle neue Erfahrungen gemacht und Kontakte geknüpft und bringen diese auch in ihre tägliche Arbeit ein. Inspiration, Methodenwissen und neuer Schwung für Beruf und persönliche Entwicklung.</li>
-</ul>
+1. =yellow
 
-## Barcamp für Macher, Innovations Treiber & Agilisten 
+  Beim XCamp 2020 wollen wir praktisch arbeiten statt nur darüber reden. Ideengeber mit klaren Missionen tragen ihre Themen im Vorfeld auf der Website und am Vorabend persönlich vor. Das ist Deine Chance, Ratgebende und Mitmachende für Deine Vision zu gewinnen!
+
+1. =yellow
+
+  Am Workshop-Tag treffen sich die Teams in Workshop Sessions und bringen das Thema ein konkretes Stück voran. Am Ende des XCamp sind die Ideengeber einen wichtigen Schritt vorangekommen. Mitmacher und Ratgeber wissen, dass sie etwas zu einer guten Sache beigetragen haben.
+
+1. =yellow
+
+  Nach dem XCamp haben alle neue Erfahrungen gemacht und Kontakte geknüpft und bringen diese auch in ihre tägliche Arbeit ein. Inspiration, Methodenwissen und neuer Schwung für Beruf und persönliche Entwicklung.
+
+## Barcamp für Macher, Innovations Treiber & Agilisten
 
 - =magenta
 
-  <span class="checkmark"></span>
-  ### Startup Innovator oder Veränderer mit klarer Mission
+  %checkmark: %
+  ### Ideengeber
   Bringe Dein Thema zum XCamp mit, das du gerne vorantreiben möchtest. Beim XCamp bekommst du die einmalige Chance, von Experten begleitet zu werden und gewinnst Mitstreiter für deine Sache.
+
+  [%turquoise button: Projekt vorschlagen%](mailto:purpose@xcamp.co?subject=Projektvorschlag%20für%20das%20XCamp%202020)
 
 - =yellow
 
-  <span class="checkmark"></span>
-  ### Für Methoden Experten
-  Du bringt Deine Expertise ins Spiel und bekommst die Möglichkeit, Deine Methoden Werkzeuge zu testen - mit echten Fällen direkt aus Praxis.   
+  %checkmark: %
+  ### Methodiker
+  Du bringt Deine Expertise ins Spiel und bekommst die Möglichkeit, Deine Methoden Werkzeuge zu testen - mit echten Fällen direkt aus Praxis für eine bessere Welt.
 
 - =turquoise
 
-  <span class="checkmark"></span>
-  ### Zum Mitmachen und Lernen
-  Lerne durch machen und nimm Teil an Workshops beim XCamp! Echte Use Cases aus Startups oder Innovations-Projekten werden in den Sessions unter der Lupe genommen und Du lernst sehr praxisnah.
+  %checkmark: %
+  ### Mitmacher
 
-
+  Lerne durch Mitwirkung und sei Teil innovativer, sinnvoller Projekte beim XCamp! Echte Use Cases die die Welt verbessern werden unter der Lupe genommen und Du lernst sehr praxisnah.
 
 ## XCamp 2020 ist in Planung
 
@@ -47,13 +54,10 @@ Im Herbst 2020 werden sich wieder Experten über Praxiserfahrungen mit Methoden 
 
 Ähnlich zu den vergangenen LeanCamps und XCamps gibt es viel Inspiration, Vernetzung und neue Schubkraft für eigene Projekte.
 
-**Wir halten dich auf dem Laufenden, wenn du dich in unserem Newsletter einträgst**
+<a href="newsletter" class="big button turquoise">Informiert bleiben</a>
+<a href="netvis" class="big button turquoise">Vernetzen</a>
 
-<a href="newsletter" class="big button turquoise">Newsletter abonnieren</a>
-<a href="netvis" class="big button turquoise">Jetzt vernetzen</a>
-
-
-## Impressionen von XCamp
+## Impressionen vom XCamp
 
 1.   ![Tasty food at XCamp 2019](blog/media/0-4.jpeg)
 1.   ![Visual Recording of XCamp](blog/media/0-5.jpeg)
@@ -61,7 +65,7 @@ Im Herbst 2020 werden sich wieder Experten über Praxiserfahrungen mit Methoden 
 1.   ![Visual Recording of XCamp](blog/media/0-7.jpeg)
 1.   ![Visual Recording of XCamp](blog/media/0-8.jpeg)
 1.   ![View from DB Skydeck](blog/media/0-9.jpeg)
-1.   <a href="https://xcamp.co/blog/2019-09-22-impressions-of-xcamp-2019" class="big button turquoise">Das war XCamp 2019</a>
+1.   <a href="https://xcamp.co/blog/2019-09-22-impressions-of-xcamp-2019" class="big button turquoise">Das war das XCamp 2019</a>
 
 
 ## Letzte [Blog-News](blog) zum XCamp
