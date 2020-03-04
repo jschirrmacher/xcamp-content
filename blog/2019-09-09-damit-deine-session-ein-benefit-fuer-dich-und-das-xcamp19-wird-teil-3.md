@@ -5,7 +5,7 @@ authorPage: gudrun-traumann
 author:     Gudrun Traumann
 published:  09.09.2019
 image:      media/Studio-Walk.png
-tags:       XCamp2019, Sessions
+tags:       XCamp2019, Sessions, XCamp2020
 ---
 
 ## Inspirationen kurz vor dem Endspurt
