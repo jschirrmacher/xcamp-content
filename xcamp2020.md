@@ -48,7 +48,7 @@ Auf dem XCamp treffen die Innovationstreiber aus Unternehmen und Start-ups, Desi
   %checkmark: %
   ### Mitmacher
 
-  Lerne durch Mitwirkung und sei Teil innovativer, sinnvoller Projekte beim XCamp! Echte Use Cases werden unter der Lupe genommen und Du lernst sehr praxisnah.
+  Lerne durch Mitwirkung und sei Teil innovativer, sinnvoller Projekte beim XCamp! Echte Use Cases werden unter die Lupe genommen und Du lernst sehr praxisnah.
 
 ## XCamp 2020 ist in Planung
 
