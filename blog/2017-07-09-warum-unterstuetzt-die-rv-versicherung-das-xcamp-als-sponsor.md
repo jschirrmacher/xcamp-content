@@ -7,7 +7,7 @@ image:      media/RV-Logo-320x202.jpg
 tags:       XCamp2017, Sessions
 ---
 
-###Beitrag von André Dörfler, R+V Versicherung
+### Beitrag von André Dörfler, R+V Versicherung
 
 Die R+V zählt zu den größten Versicherern und attraktivsten Arbeitgebern in Deutschland. Aus dieser Position der Stärke 
 heraus befindet sie sich in einem Wandel. Ausgelöst durch die großen Herausforderungen von veränderten Kundenbedürfnissen, 
