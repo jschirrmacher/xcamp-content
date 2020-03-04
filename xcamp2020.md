@@ -7,9 +7,9 @@ title: Barcamp-Plus für digitale Innovation und Produktentwicklung - XCamp 2020
 
 Auf dem XCamp treffen die Innovationstreiber aus Unternehmen und Start-ups, Design Thinker, Agile und Lean Startup-Experten der Metropolregion Frankfurt Rhein Main zusammen.
 
-<a href="newsletter" class="big button yellow">Ticket für 2020 nicht verpassen!</a>
-<!--a href="tickets" class="big button yellow">Jetzt Ticket kaufen</a-->
-<a href="https://xcamp.co/blog/2019-09-22-impressions-of-xcamp-2019" class="big button turquoise">Das war XCamp 2019</a>
+[%big yellow button: Ticket für 2020 nicht verpassen!%](newsletter)
+<!--[%big yellow button: Jetzt Ticket kaufen%](tickets)-->
+[%big turquoise button: Das war XCamp 2019%](blog/2019-09-22-impressions-of-xcamp-2019)
 
 ## Was ist das XCamp?
 
@@ -31,6 +31,7 @@ Auf dem XCamp treffen die Innovationstreiber aus Unternehmen und Start-ups, Desi
 
   %checkmark: %
   ### Ideengeber
+
   Bringe Dein Thema zum XCamp mit, das du gerne vorantreiben möchtest. Beim XCamp bekommst du die einmalige Chance, von Experten begleitet zu werden und gewinnst Mitstreiter für deine Sache.
 
   [%turquoise button: Projekt vorschlagen%](mailto:purpose@xcamp.co?subject=Projektvorschlag%20für%20das%20XCamp%202020)
@@ -39,6 +40,7 @@ Auf dem XCamp treffen die Innovationstreiber aus Unternehmen und Start-ups, Desi
 
   %checkmark: %
   ### Methodiker
+
   Du bringt Deine Expertise ins Spiel und bekommst die Möglichkeit, Deine Methoden Werkzeuge zu testen - mit echten Fällen direkt aus Praxis für eine bessere Welt.
 
 - =turquoise
@@ -54,24 +56,22 @@ Im Herbst 2020 werden sich wieder Experten über Praxiserfahrungen mit Methoden 
 
 Ähnlich zu den vergangenen LeanCamps und XCamps gibt es viel Inspiration, Vernetzung und neue Schubkraft für eigene Projekte.
 
-<a href="newsletter" class="big button turquoise">Informiert bleiben</a>
-<a href="netvis" class="big button turquoise">Vernetzen</a>
+[%big turqouise button: Informiert bleiben%](newsletter)
+[%big turqouise button: Vernetzen%](netvis)
 
 ## Impressionen vom XCamp
 
-1.   ![Tasty food at XCamp 2019](blog/media/0-4.jpeg)
-1.   ![Visual Recording of XCamp](blog/media/0-5.jpeg)
-1.   ![Visual Recording of XCamp](blog/media/0-6.jpeg)
-1.   ![Visual Recording of XCamp](blog/media/0-7.jpeg)
-1.   ![Visual Recording of XCamp](blog/media/0-8.jpeg)
-1.   ![View from DB Skydeck](blog/media/0-9.jpeg)
-1.   <a href="https://xcamp.co/blog/2019-09-22-impressions-of-xcamp-2019" class="big button turquoise">Das war das XCamp 2019</a>
-
+1. ![Tasty food at XCamp 2019](blog/media/0-4.jpeg)
+2. ![Visual Recording of XCamp](blog/media/0-5.jpeg)
+3. ![Visual Recording of XCamp](blog/media/0-6.jpeg)
+4. ![Visual Recording of XCamp](blog/media/0-7.jpeg)
+5. ![Visual Recording of XCamp](blog/media/0-8.jpeg)
+6. ![View from DB Skydeck](blog/media/0-9.jpeg)
+7. [%big turquoise button: Das war das XCamp 2019%](blog/2019-09-22-impressions-of-xcamp-2019)
 
 ## Letzte [Blog-News](blog) zum XCamp
 
 <div id="newest-blog-entries"></div>
-
 
 ## Eindrücke vom XCamp
 
@@ -110,4 +110,3 @@ Im Herbst 2020 werden sich wieder Experten über Praxiserfahrungen mit Methoden 
         60329 Frankfurt am Main</p>
 </div-->
 </div>
-
