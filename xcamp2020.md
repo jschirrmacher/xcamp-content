@@ -34,21 +34,21 @@ Auf dem XCamp treffen die Innovationstreiber aus Unternehmen und Start-ups, Desi
 
   Bringe Dein Thema zum XCamp mit, das du gerne vorantreiben möchtest. Beim XCamp bekommst du die einmalige Chance, von Experten begleitet zu werden und gewinnst Mitstreiter für deine Sache.
 
-  [%turquoise button: Projekt vorschlagen%](mailto:purpose@xcamp.co?subject=Projektvorschlag%20für%20das%20XCamp%202020)
+  [%yellow button: Projekt vorschlagen%](mailto:purpose@xcamp.co?subject=Projektvorschlag%20für%20das%20XCamp%202020)
 
 - =yellow
 
   %checkmark: %
   ### Methodiker
 
-  Du bringt Deine Expertise ins Spiel und bekommst die Möglichkeit, Deine Methoden Werkzeuge zu testen - mit echten Fällen direkt aus Praxis für eine bessere Welt.
+  Du bringst Deine Expertise ins Spiel und bekommst die Möglichkeit, Deine Methoden Werkzeuge zu testen - mit echten Fällen direkt aus Praxis für eine bessere Welt.
 
 - =turquoise
 
   %checkmark: %
   ### Mitmacher
 
-  Lerne durch Mitwirkung und sei Teil innovativer, sinnvoller Projekte beim XCamp! Echte Use Cases die die Welt verbessern werden unter der Lupe genommen und Du lernst sehr praxisnah.
+  Lerne durch Mitwirkung und sei Teil innovativer, sinnvoller Projekte beim XCamp! Echte Use Cases werden unter der Lupe genommen und Du lernst sehr praxisnah.
 
 ## XCamp 2020 ist in Planung
 
