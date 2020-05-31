@@ -1,0 +1,68 @@
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    .bar {
+      transform-origin: -40px 250px;
+    }
+
+    .shadow {
+      stroke-width: 10px;
+      stroke: white;
+    }
+
+    text {
+      font-weight: bold;
+      font-family: Helvetica, Arial, sans-serif;
+    }
+
+    .fire1 {
+      animation: .3s infinite alternate fire;
+    }
+    .fire2 {
+      fill: rgba(255,105,108,1);
+      animation: .3s .2s infinite alternate fire;
+    }
+    .fire3 {
+      fill: rgba(255,105,108,1);
+      animation: .3s .4s infinite alternate fire;
+    }
+    .fire4 {
+      fill: rgba(255,105,108,1);
+      animation: .3s .6s infinite alternate fire;
+    }
+
+    .m {
+      transform: rotate(-90deg) translate(-100px, 210px) scale(1.6)
+    }
+
+    @keyframes fire {
+      from {
+        fill: rgba(255,105,108,1);
+      }
+
+      to {
+        fill: rgba(255,155,108,1);
+      }
+    }
+  </style>
+
+  <rect x="90" y="200" width="225" height="45" style="transform: rotate(20deg)" class="bar"></rect>
+  <rect x="50" y="360" width="225" height="20" style="transform: rotate(-20deg)" class="bar shadow"></rect>
+  <rect x="50" y="360" width="225" height="45" style="transform: rotate(-20deg)" class="bar"></rect>
+
+  <text x="210" y="275" rotate="300" style="font-size: 150px" class="fire1">C</text>
+  <!--text x="254" y="180" rotate="287" style="font-size: 105px" class="fire2">A</text-->
+  <g class="a">
+    <path class="fire2" d="M188,130 L200,112 L274,109 L271,125 L253,126 L246,150 L263,159 L258,178 L188,130
+          M210,127 L234,144 L240,126 L210,127" />
+  </g>
+
+  <!--text x="275" y="105" rotate="270" style="font-size: 70px" class="fire">M</text-->
+  <g class="m">
+    <path class="fire3"
+      d="M0,40.5 L4,0 L11,1.5 L16,20 L22,4 L28,5 L32,39.5
+        L26,40.5 L24,17 L18,34 L13,34 L8,16 L6,41 L0,40.5">
+    </path>
+  </g>
+  <text x="272" y="45" rotate="260" style="font-size: 72px" class="fire4">P</text>
+</svg>
