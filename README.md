@@ -71,6 +71,14 @@ Text can be styled by surrounding it with percent signs and css class names at t
 
 This results in HTML like `<span class="turquoise button">Buy now</span>` which can be easily used in a link, which actually makes it a button.
 
+### Blocks
+
+To create a text block with a given background color, you can use the same syntax as for texts, but add 'block' with the class names:
+
+```markdown
+%yellow block: This text is displayed in a yellow block%
+```
+
 ### Icons
 
 You can create icons by using css class specifiers like in this example:
