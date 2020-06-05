@@ -7,7 +7,7 @@ title: Barcamp-Plus für digitale Innovation und Produktentwicklung - XCamp 2020
 
 Auf dem XCamp treffen die Innovationstreiber aus Unternehmen und Start-ups, Design Thinker, Agile und Lean Startup-Experten der Metropolregion Frankfurt Rhein Main zusammen.
 
-Dieses Jahr wollen wir eine Reihe von Remote Meetups machen, den Start macht ein Meetup zu Remote Meetings: Welche Werkzeuge und Vorgehensweisen haben sich bewährt?
+%turquoise yellow: Dieses Jahr wollen wir eine Reihe von Remote Meetups machen, den Start macht ein Meetup zu Remote Meetings: Welche Werkzeuge und Vorgehensweisen haben sich bewährt?%
 
 [%big yellow button: Hier anmelden%](meetup/2020-06-26-remote-meetings)
 <!--[%big yellow button: Jetzt Ticket kaufen%](tickets)-->
