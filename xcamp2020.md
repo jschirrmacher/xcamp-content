@@ -33,8 +33,7 @@ Auf dem XCamp treffen die Innovationstreiber aus Unternehmen und Start-ups, Desi
 
 - =magenta
 
-  :bulb:
-  ### Ideengeber
+  ### :star: Ideengeber
 
   Bringe Dein Thema zum XCamp mit, das du gerne vorantreiben möchtest. Beim XCamp bekommst du die einmalige Chance, von Experten begleitet zu werden und gewinnst Mitstreiter für deine Sache.
 
@@ -42,15 +41,13 @@ Auf dem XCamp treffen die Innovationstreiber aus Unternehmen und Start-ups, Desi
 
 - =yellow
 
-  :timer_clock:
-  ### Methodiker
+  ### :search: Methodiker
 
   Du bringst Deine Expertise ins Spiel und bekommst die Möglichkeit, Deine Methoden Werkzeuge zu testen - mit echten Fällen direkt aus Praxis für eine bessere Welt.
 
 - =turquoise
 
-  :construction_worker_woman:
-  ### Mitmacher
+  ### :checkmark: Mitmacher
 
   Lerne durch Mitwirkung und sei Teil innovativer, sinnvoller Projekte beim XCamp! Echte Use Cases werden unter die Lupe genommen und Du lernst sehr praxisnah.
 
