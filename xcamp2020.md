@@ -7,7 +7,9 @@ title: Barcamp-Plus für digitale Innovation und Produktentwicklung - XCamp 2020
 
 Auf dem XCamp treffen die Innovationstreiber aus Unternehmen und Start-ups, Design Thinker, Agile und Lean Startup-Experten der Metropolregion Frankfurt Rhein Main zusammen.
 
-%yellow block: Dieses Jahr wollen wir eine Reihe von Remote Meetups machen, den Start macht ein Meetup zu Remote Meetings: Welche Werkzeuge und Vorgehensweisen haben sich bewährt?%
+1. =yellow
+
+   Dieses Jahr wollen wir eine Reihe von Remote Meetups machen, den Start macht ein Meetup zu Remote Meetings: Welche Werkzeuge und Vorgehensweisen haben sich bewährt?
 
 [%big yellow button: Hier anmelden%](meetup/2020-06-26-remote-meetings)
 <!--[%big yellow button: Jetzt Ticket kaufen%](tickets)-->
@@ -31,7 +33,7 @@ Auf dem XCamp treffen die Innovationstreiber aus Unternehmen und Start-ups, Desi
 
 - =magenta
 
-  %checkmark: %
+  :bulb:
   ### Ideengeber
 
   Bringe Dein Thema zum XCamp mit, das du gerne vorantreiben möchtest. Beim XCamp bekommst du die einmalige Chance, von Experten begleitet zu werden und gewinnst Mitstreiter für deine Sache.
@@ -40,14 +42,14 @@ Auf dem XCamp treffen die Innovationstreiber aus Unternehmen und Start-ups, Desi
 
 - =yellow
 
-  %checkmark: %
+  :timer_clock:
   ### Methodiker
 
   Du bringst Deine Expertise ins Spiel und bekommst die Möglichkeit, Deine Methoden Werkzeuge zu testen - mit echten Fällen direkt aus Praxis für eine bessere Welt.
 
 - =turquoise
 
-  %checkmark: %
+  :construction_worker_woman:
   ### Mitmacher
 
   Lerne durch Mitwirkung und sei Teil innovativer, sinnvoller Projekte beim XCamp! Echte Use Cases werden unter die Lupe genommen und Du lernst sehr praxisnah.
@@ -73,7 +75,7 @@ Im Herbst 2020 werden sich wieder Experten über Praxiserfahrungen mit Methoden 
 
 ## Letzte [Blog-News](blog) zum XCamp
 
-<div id="newest-blog-entries"></div>
+<ul id="newest-blog-entries"></ul>
 
 ## Eindrücke vom XCamp
 
