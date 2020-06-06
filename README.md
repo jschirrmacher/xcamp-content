@@ -73,12 +73,14 @@ This results in HTML like `<span class="turquoise button">Buy now</span>` which 
 
 ### Icons
 
-You can create icons by using css class specifiers like in this example:
+You can create icons by using certain specifiers wrapped in colons like in this example:
 
 ```markdown
-%checkmark: % This text will be shown right behind the icon.
+:checkmark: This text will be shown right behind the icon.
+:star: This text has a star icon right in front
+:search: Example of another icon
 ```
 
 This will result in
 
-![Checkmark icon example](checkmark-screenshot.png)
+![Checkmark icon example](icons-screenshot.png)
