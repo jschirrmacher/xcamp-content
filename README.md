@@ -48,9 +48,9 @@ preview text in the article list.
 
 ## Styling
 
-### Lists
+### Lists => Blocks
 
-Ordered lists will have the effect of a continuous block having three columns, while an unordered list will be shown as blocks of same height in each row.
+Lists are used to create coloured blocks / boxes. If you use an ordered list, the elements are shown side by side, while unordered list elements have a little space in between. Depending on the number of list elements, the boxes use the whole page width, one half, a third or a quarter. If it is more than four list elements, each one uses a third, and the others breaks into the next row.
 
 List elements can be styled by explicitly setting a css class.
 This can be done by using `=<css-classname>` directly at the beginning of the list element, followed by a blank line like in the following example:
@@ -70,14 +70,6 @@ Text can be styled by surrounding it with percent signs and css class names at t
 ```
 
 This results in HTML like `<span class="turquoise button">Buy now</span>` which can be easily used in a link, which actually makes it a button.
-
-### Blocks
-
-To create a text block with a given background color, you can use the same syntax as for texts, but add 'block' with the class names:
-
-```markdown
-%yellow block: This text is displayed in a yellow block%
-```
 
 ### Icons
 
