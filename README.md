@@ -48,9 +48,9 @@ preview text in the article list.
 
 ## Styling
 
-### Lists => Blocks
+### Blocks
 
-Lists are used to create coloured blocks / boxes. If you use an ordered list, the elements are shown side by side, while unordered list elements have a little space in between. Depending on the number of list elements, the boxes use the whole page width, one half, a third or a quarter. If it is more than four list elements, each one uses a third, and the others breaks into the next row.
+To create coloured blocks, we use lists prepended by a line containing the keyword `%blocks%`. If you use an ordered list, the elements are shown side by side, while unordered list elements have a little space in between. Depending on the number of list elements, the boxes use the whole page width, one half, a third or a quarter. If it is more than four list elements, each one uses a third, and the others breaks into the next row.
 
 List elements can be styled by explicitly setting a css class.
 This can be done by using `=<css-classname>` directly at the beginning of the list element, followed by a blank line like in the following example:
