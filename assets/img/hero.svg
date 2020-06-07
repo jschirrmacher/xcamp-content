@@ -1,0 +1,16 @@
+<svg viewBox="0 0 1900 1352" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+      <clipPath id="path-1">
+        <polygon points="0 73.875 245.246094 171.957031 681.9375 0 1900 0 1900 25.640625 886.546875 424.539062 1900 822.015625 1900 1327 245.246094 675.605469 0 772.933594"></polygon>
+      </clipPath>
+      <filter id="monochrome" color-interpolation-filters="sRGB" x="0" y="0" height="100%" width="100%">
+        <feColorMatrix type="matrix"
+          values="1.1 0 0 0 0.3
+                  0.4 0 0 0 0.05
+                  0.2 0 0 0 0.3
+                  0.3 0 0 .6 0" />
+      </filter>
+    </defs>
+    <image clip-path="url(#path-1)" width="100%" height="100%" xlink:href="XCampHeader.jpg" style="filter: url(#monochrome)"></image>
+    <image xlink:href="logo_color_rgb_yellow.png" width="280" x="143" y="-50"></image>
+</svg>
