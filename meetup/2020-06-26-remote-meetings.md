@@ -8,6 +8,8 @@ wir wollen euch über die 2020-Version des XCamp informieren und einladen, bei d
 
 Einige Inspirationen* führten bereits Ende letzten Jahres zu der Idee, das XCamp-Format konsequenter auf Interaktivität und Experimente auszurichten. Wir spielten mit dem Arbeitstitel… „Maker Camp //digital und material“ und dann kam Corona und alles anders.
 
+%blocks%
+
 1. =yellow
 
    Inspirationen und Aspekte für die neuen Formate sind…

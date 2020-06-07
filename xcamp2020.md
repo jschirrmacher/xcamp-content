@@ -7,6 +7,8 @@ title: Barcamp-Plus für digitale Innovation und Produktentwicklung - XCamp 2020
 
 Auf dem XCamp treffen die Innovationstreiber aus Unternehmen und Start-ups, Design Thinker, Agile und Lean Startup-Experten der Metropolregion Frankfurt Rhein Main zusammen.
 
+%blocks%
+
 1. =yellow
 
    Dieses Jahr wollen wir eine Reihe von Remote Meetups machen, den Start macht ein Meetup zu Remote Meetings: Welche Werkzeuge und Vorgehensweisen haben sich bewährt?
@@ -17,19 +19,23 @@ Auf dem XCamp treffen die Innovationstreiber aus Unternehmen und Start-ups, Desi
 
 ## Was ist das XCamp?
 
-1. =yellow
+%blocks%
+
+1. =yellow block
 
   Beim XCamp 2020 wollen wir praktisch arbeiten statt nur darüber reden. Ideengeber mit klaren Missionen tragen ihre Themen im Vorfeld auf der Website und am Vorabend persönlich vor. Das ist Deine Chance, Ratgebende und Mitmachende für Deine Vision zu gewinnen!
 
-1. =yellow
+1. =yellow block
 
   Am Workshop-Tag treffen sich die Teams in Workshop Sessions und bringen das Thema ein konkretes Stück voran. Am Ende des XCamp sind die Ideengeber einen wichtigen Schritt vorangekommen. Mitmacher und Ratgeber wissen, dass sie etwas zu einer guten Sache beigetragen haben.
 
-1. =yellow
+2. =yellow
 
   Nach dem XCamp haben alle neue Erfahrungen gemacht und Kontakte geknüpft und bringen diese auch in ihre tägliche Arbeit ein. Inspiration, Methodenwissen und neuer Schwung für Beruf und persönliche Entwicklung.
 
 ## Barcamp für Macher, Innovations Treiber & Agilisten
+
+%blocks%
 
 - =magenta
 
@@ -45,7 +51,7 @@ Auf dem XCamp treffen die Innovationstreiber aus Unternehmen und Start-ups, Desi
 
   Du bringst Deine Expertise ins Spiel und bekommst die Möglichkeit, Deine Methoden Werkzeuge zu testen - mit echten Fällen direkt aus Praxis für eine bessere Welt.
 
-- =turquoise
+- =turquoise block
 
   ### :checkmark: Mitmacher
 
@@ -62,6 +68,8 @@ Im Herbst 2020 werden sich wieder Experten über Praxiserfahrungen mit Methoden 
 
 ## Impressionen vom XCamp
 
+%blocks%
+
 1. ![Tasty food at XCamp 2019](blog/media/0-4.jpeg)
 2. ![Visual Recording of XCamp](blog/media/0-5.jpeg)
 3. ![Visual Recording of XCamp](blog/media/0-6.jpeg)
@@ -72,6 +80,7 @@ Im Herbst 2020 werden sich wieder Experten über Praxiserfahrungen mit Methoden 
 
 ## Letzte [Blog-News](blog) zum XCamp
 
+%blocks%
 <ul id="newest-blog-entries"></ul>
 
 ## Eindrücke vom XCamp
@@ -86,9 +95,6 @@ Im Herbst 2020 werden sich wieder Experten über Praxiserfahrungen mit Methoden 
 1. Im Hinblick zu einer traditionellen Konferenz gibt es wenige festgelegte Redner. Als Besucher der Konferenz kannst Du, wie jeder andere Teilnehmer, eine eigene Session halten. In dieser diskutierst Du beispielsweise Deine Erfahrungen zu einem Thema oder erhältst Best-Practice-Hinweise von anderen Teilnehmern.-->
 <!--  
 1. Die Agenda des XCamps, auch als Line-Up bezeichnet, wird in der Session-Planung zu Beginn bestimmt. Jeder Teilnehmer erhält die Chance, einen Beitrag zu leisten und an anderen interessante Beiträge teilzuhaben.-->
-
-
-
 
 ## Sponsoren
 
