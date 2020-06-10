@@ -11,9 +11,9 @@ Auf dem XCamp treffen die Innovationstreiber aus Unternehmen und Start-ups, Desi
 
 1. =yellow
 
-   Dieses Jahr wollen wir eine Reihe von Remote Meetups machen, den Start macht ein Meetup zu Remote Meetings: Welche Werkzeuge und Vorgehensweisen haben sich bewährt?
+   Dieses Jahr wollen wir eine Reihe von Remote Meetups machen, den Auftakt machen wir am 26. Juni 2020 mit dem **XCamp Digital Meetup**. Neben dem üblichen Barcamp Format, dieses Mal remote, zeigen wir euch, wie wir künftig noch häufiger mit euch in den Austausch gehen wollen.
 
-[%big yellow button: Hier anmelden%](meetup/2020-06-26-remote-meetings)
+[%big yellow button: Hier anmelden%](meetup/2020-06-26-digital-meetup)
 <!--[%big yellow button: Jetzt Ticket kaufen%](tickets)-->
 [%big turquoise button: Das war XCamp 2019%](blog/2019-09-22-impressions-of-xcamp-2019)
 
