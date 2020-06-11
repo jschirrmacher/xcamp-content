@@ -9,7 +9,7 @@ title: XCamp Digital Meetup 26.06.2020
 
   ## XCamp digital Meetup
 
-  ### Am 26. Juni 2020 von 17 - 20 Uhr bei dir zu Hause
+  ### Am 26. Juni 2020<br>von 17:00 - 20:30 Uhr<br>bei dir zu Hause
 
 %blocks%
 
@@ -22,6 +22,8 @@ title: XCamp Digital Meetup 26.06.2020
   **Termin: 26. Juni 2020**
 
   Anmeldung über Meetup, Teilnahme über Zoom, interaktiv wird es in Mural.
+
+  Teilnahmegebühr 12€
 
   [%magenta button: Teilnehmen%](https://www.meetup.com/de-DE/XCamp-Meetup/events/271106925)
 
@@ -38,7 +40,6 @@ title: XCamp Digital Meetup 26.06.2020
   19:30-20:30 Socializing
 
   19:30-20:00 Optional Breakout: Vorstellen der digitalen Community-Plattform des XCamps
-
 
 ### Digitale XCamp Community
 
@@ -58,7 +59,7 @@ In all den Jahren der XCamp Organisation hatten wir immer wieder den Gedanken, d
 
   Du willst selbst einen Themen-Kanal moderieren? Melde dich gern im Kanal [#orga-team](https://community.xcamp.co/channel/orga-team)
 
-  [%magenta button: Bbeitreten%](https://community.xcamp.co/)
+  [%magenta button: Beitreten%](https://community.xcamp.co/)
 
 - =white
 
