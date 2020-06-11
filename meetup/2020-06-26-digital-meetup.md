@@ -15,7 +15,7 @@ title: XCamp Digital Meetup 26.06.2020
 
 - =yellow
 
-  #### Wir laden dich zum virtuellen Auftakttreffen der XCamp Community ein
+  ### Wir laden dich zum virtuellen Auftakttreffen der XCamp Community ein
 
   Sei von Anfang an mit dabei, wenn sich die agilen Innovations- und Veränderungstreiber der Region interdisziplinär austauschen, gemeinsam lernen und experimentieren.
 
@@ -27,7 +27,7 @@ title: XCamp Digital Meetup 26.06.2020
 
 - =magenta
 
-  #### Was wir vorhaben
+  ### Was wir vorhaben
 
   17:00-17:30 Get together
 
@@ -52,7 +52,7 @@ In all den Jahren der XCamp Organisation hatten wir immer wieder den Gedanken, d
 
   ![XCommunity](../assets/img/XCommunity.png)
 
-  #### Community Chat
+  ### Community Chat
 
   Für die typischen XCamp Themen gibt es bereits Kanäle zum Austausch.
 
@@ -64,7 +64,7 @@ In all den Jahren der XCamp Organisation hatten wir immer wieder den Gedanken, d
 
   ![Mural](../assets/img/Mural.jpg)
 
-  #### Digital Meetups
+  ### Digital Meetups
 
   In unregelmäßigen Abständen organisieren wir zu einzelnen Themen Meetups.
   
@@ -76,7 +76,7 @@ In all den Jahren der XCamp Organisation hatten wir immer wieder den Gedanken, d
 
   ![XCamp 2018](../assets/img/XCamp18-DT.jpg)
 
-  #### XCamp Live-Event
+  ### XCamp Live-Event
   
   Natürlich wird es wieder ein Live-Event an einer coolen Location geben.
   
