@@ -4,7 +4,10 @@ title: Archiv XCamp 2018 - Barcamp-Plus für digitale Innovation und Produktentw
 ---
 
 # XCamp 2018: Innovate agile. Start lean.
+
 Am 25. August 2018 trafen auf dem XCamp die Innovationstreiber aus Unternehmen und Start-ups, Design Thinker, Agile und Lean Startup-Experten der Metropolregion Frankfurt Rhein Main zusammen.
+
+%blocks%
 
 - =magenta
 
@@ -27,9 +30,12 @@ Am 25. August 2018 trafen auf dem XCamp die Innovationstreiber aus Unternehmen u
 
 ## Letzte [Blog-News](blog) zum XCamp 18
 
-<div id="newest-blog-entries"></div>
+%blocks%
+<ul id="newest-blog-entries"></ul>
 
 ## Sessions auf dem XCamp 2018
+
+%blocks%
 
 - =magenta
 
@@ -150,13 +156,15 @@ Am 25. August 2018 trafen auf dem XCamp die Innovationstreiber aus Unternehmen u
 
 ## Das Format des XCamp
 
+%blocks%
+
 1. Das XCamp wird als Open-Space organisiert. Die Inhalte werden von den Teilnehmern selbst bestimmt. Das Format wird auch (Un-) Konferenz bezeichnet. Es eröffnet den Teilnehmern ein Maximum an Interaktion, zudem ein hohes Maß an Inspiration und Lernfortschritt – insbesondere für Neulinge. Schwerpunkt des XCamps liegt auf den Themenfeldern Agiles Management und Innovation im Unternehmenskontext.
   
 1. Im Hinblick zu einer traditionellen Konferenz gibt es wenige festgelegte Redner. Als Besucher der Konferenz kannst Du, wie jeder andere Teilnehmer, eine eigene Session halten. In dieser diskutierst Du beispielsweise Deine Erfahrungen zu einem Thema oder erhältst Best-Practice-Hinweise von anderen Teilnehmern.
   
 1. Die [Agenda](#agenda) des XCamps, auch als Line-Up bezeichnet, wird in der Session-Planung zu Beginn bestimmt. Jeder Teilnehmer erhält die Chance, einen Beitrag zu leisten und an anderen interessante Beiträge teilzuhaben.
 
-
+%blocks%
 
 - =yellow
 

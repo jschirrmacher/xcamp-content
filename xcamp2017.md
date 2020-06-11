@@ -6,6 +6,8 @@ title: Archiv XCamp 2018 - Barcamp-Plus für digitale Innovation und Produktentw
 # XCamp 2017: Innovate agile. Start lean.
 Am 11. November 2017 trafen sich auf dem XCamp in Wiesbaden Innovationstreiber aus Unternehmen und Start-ups, Design Thinker, Agile und Lean Startup-Experten der Metropolregion Frankfurt Rhein Main.
 
+%blocks%
+
 - =yellow
 
   <span class="checkmark"></span>
@@ -27,15 +29,19 @@ Am 11. November 2017 trafen sich auf dem XCamp in Wiesbaden Innovationstreiber a
 
 ## Letzte [Blog-News](blog) zum XCamp 17
 
-<div id="newest-blog-entries"></div>
+%blocks%
+
+<ul id="newest-blog-entries"></ul>
 
 
 ## Sessions auf dem XCamp 2017
 
+%blocks%
+
 - =magenta
 
   ### Brant Cooper
-  %frame ![Brant Cooper](media/2018/05/brantcooper-200x200.jpg)%
+  ![Brant Cooper](media/2018/05/brantcooper-200x200.jpg)
   
   [CEO Moves the Needle Inc. & Author of The Lean Entrepreneur](https://www.brantcooper.com/)
   
@@ -46,7 +52,7 @@ Am 11. November 2017 trafen sich auf dem XCamp in Wiesbaden Innovationstreiber a
 - =turquoise
 
   ### Martin Strunk
-  %frame ![Martin Strunk](media/2018/05/dr_strunk_1985.jpg)%
+  ![Martin Strunk](media/2018/05/dr_strunk_1985.jpg)
   
   [DB Systel GmbH](https://www.dbsystel.de)
   
@@ -54,12 +60,11 @@ Am 11. November 2017 trafen sich auf dem XCamp in Wiesbaden Innovationstreiber a
   
   Aus der Praxis einer agilen Transformation
   
-
 - =turquoise
 
   ### Benno Löwenberg
 
-  %frame ![Benno Löwenberg](media/2018/05/profilbild_benno_loewenberg-3.png)%
+  ![Benno Löwenberg](media/2018/05/profilbild_benno_loewenberg-3.png)
   
   @BennoLoewenberg
   
@@ -70,7 +75,7 @@ Am 11. November 2017 trafen sich auf dem XCamp in Wiesbaden Innovationstreiber a
 - =turquoise
 
   ### André Dörfler
-  %frame ![André Dörfler](media/2018/05/Andre-Doerfler-200x113.jpg)%
+  ![André Dörfler](media/2018/05/Andre-Doerfler-200x113.jpg)
   
   R + V Versicherung
   
@@ -79,7 +84,7 @@ Am 11. November 2017 trafen sich auf dem XCamp in Wiesbaden Innovationstreiber a
 - =turquoise
 
   ### Marc Frey
-  %frame ![Marc Frey](media/2018/05/marc_frey__neu__720-200x124.png)%
+  ![Marc Frey](media/2018/05/marc_frey__neu__720-200x124.png)
   
   Simplify
   
@@ -90,7 +95,7 @@ Am 11. November 2017 trafen sich auf dem XCamp in Wiesbaden Innovationstreiber a
 - =turquoise
 
   ### Jens Bothmer
-  %frame ![Jens Bothmer](media/2018/05/Jens_Bothmer_683_683_Portraits-200x200.png)%
+  ![Jens Bothmer](media/2018/05/Jens_Bothmer_683_683_Portraits-200x200.png)
   
   Autentity Innovationberatung
   
@@ -99,7 +104,7 @@ Am 11. November 2017 trafen sich auf dem XCamp in Wiesbaden Innovationstreiber a
 - =turquoise
 
   ### Torsten J. Koerting
-  %frame ![Torsten J. Koerting](media/2018/05/Torsten-J-Koerting-Slider_3000x1680_Beratung-200x112.jpg)%
+  ![Torsten J. Koerting](media/2018/05/Torsten-J-Koerting-Slider_3000x1680_Beratung-200x112.jpg)
   
   The Game Changer
   
@@ -173,54 +178,62 @@ Am 11. November 2017 trafen sich auf dem XCamp in Wiesbaden Innovationstreiber a
 
 ## Eindrücke vom XCamp
 
-- ![](media/2018/05/DSC07410.jpg)
-- ![](media/2018/05/DSC07474.jpg)
-- ![](media/2018/05/DSC07583.jpg)
-- ![](media/2018/05/DSC08060.jpg)
-- ![](media/2018/05/DSC07645.jpg)
-- ![](media/2018/05/DSC07535.jpg)
-- ![](media/2018/05/DSC07717-.jpg)
-- ![](media/2018/05/DSC08033.jpg)
-- ![](media/2018/05/DSC07773.jpg)
-- ![](media/2018/05/DSC07865.jpg)
-- ![](media/2018/05/DSC07821.jpg)
-- ![](media/2018/05/DSC08104.jpg)
+%blocks%
+
+- ![R+V Versicherung, Wiesbaden](media/2018/05/DSC07410.jpg)
+- ![Eröffnung XCamp 2017](media/2018/05/DSC07474.jpg)
+- ![Christiane Gerigk eröffnet das XCamp 2017](media/2018/05/DSC07583.jpg)
+- ![Session Voting](media/2018/05/DSC08060.jpg)
+- ![Session Planning](media/2018/05/DSC07645.jpg)
+- ![Brant Cooper fesselt die Zuhörer](media/2018/05/DSC07535.jpg)
+- ![Martin Strunk erklärt die Transformation der DB Systel](media/2018/05/DSC07717-.jpg)
+- ![Die Sessions auf einen (langen) Blick](media/2018/05/DSC08033.jpg)
+- ![Basteln auf dem XCamp 2016](media/2018/05/DSC07773.jpg)
+- ![Agile Mindset](media/2018/05/DSC07865.jpg)
+- ![Jens Bothmer zur Entwicklung des Internets](media/2018/05/DSC07821.jpg)
+- ![Orga-Team und Helfer beim XCamp 2016](media/2018/05/DSC08104.jpg)
 
 ## Das Format des XCamp
 
+%blocks%
+
 1. Das XCamp wird als Open-Space organisiert. Die Inhalte werden von den Teilnehmern selbst bestimmt. Das Format wird
    auch (Un-) Konferenz bezeichnet. Es eröffnet den Teilnehmern ein Maximum an Interaktion, zudem ein hohes Maß an
-   Inspiration und Lernfortschritt – insbesondere für Neulinge. Schwerpunkt des XCamps liegt auf den Themenfeldern 
+   Inspiration und Lernfortschritt – insbesondere für Neulinge. Schwerpunkt des XCamps liegt auf den Themenfeldern
    Agiles Management und Innovation im Unternehmenskontext.
   
-1. Im Hinblick zu einer traditionellen Konferenz gibt es wenige festgelegte Redner. Als Besucher der Konferenz kannst 
-   Du, wie jeder andere Teilnehmer, eine eigene Session halten. In dieser diskutierst Du beispielsweise Deine 
+1. Im Hinblick zu einer traditionellen Konferenz gibt es wenige festgelegte Redner. Als Besucher der Konferenz kannst
+   Du, wie jeder andere Teilnehmer, eine eigene Session halten. In dieser diskutierst Du beispielsweise Deine
    Erfahrungen zu einem Thema oder erhältst Best-Practice-Hinweise von anderen Teilnehmern.
   
-1. Die [Agenda](#agenda) des XCamps, auch als Line-Up bezeichnet, wird in der Session-Planung zu Beginn bestimmt. Jeder 
+1. Die [Agenda](#agenda) des XCamps, auch als Line-Up bezeichnet, wird in der Session-Planung zu Beginn bestimmt. Jeder
    Teilnehmer erhält die Chance, einen Beitrag zu leisten und an anderen interessante Beiträge teilzuhaben.
-   
+
    *Prinzip Biene und Hummel*
-   
-   Während der Sessions entscheidet jeder für sich, ob er von Anfang bis zum Ende bleibt. Das sind die Bienen. 
+
+   Während der Sessions entscheidet jeder für sich, ob er von Anfang bis zum Ende bleibt. Das sind die Bienen.
    Oder zwischendurch zu anderen, parallel laufenden Sessions wechselt. Das sind die Hummeln.
 
+%blocks%
 
 - =yellow
 
   ### Design Thinking kennlernen
+
   Mindset und Prozess in einer praktischen Übung mit Methode für Lösung von Problemen und Ideenentwicklung selbst erfahren. Der Quicky für Neugierige, die genauer wissen wollen, was die Innovationsmethode so attraktiv macht.
   Es wird auf die 6 Phasen des Design Thinking, auf ausgewählte Methoden und zahlreiche Beispiele aus der Praxis eingegangen.
   
 - =yellow
 
   ### Lean Startup kennenlernen
+  
   Unsicherheit in einem Gründungs- oder Innovationsvorhaben systematisch verringern.
   Neben den vorherrschenden Produktfokus tritt die Entwicklung eines reproduzierbaren Geschäftsmodells. Wir befassen uns mit dem Value Proposition Canvas, dem Lean Canvas, Hypothesenbildung und Experimenten.
 
 - =yellow
 
   ### SCRUM - Agile Entwicklung kennenlernen
+  
   Zunehmender Einsicht und veränderten Einflussgrößen im Projektverlauf Rechnung tragen. Wie arbeiten agile Projektteams? Welche Prinzipien liegen agilen Methoden zugrunde?
   Wir sprechen über Mindset und Ziele agiler Entwicklungsmethoden, wie Scrum und tauschen uns über geeignete Voraussetzungen zur Anwendung aus.
 
@@ -242,6 +255,7 @@ Am 11. November 2017 trafen sich auf dem XCamp in Wiesbaden Innovationstreiber a
 > ## Agenda
 > 
 > ### Samstag, 11.11.2017
+> 
 > 08:00 – Eintreffen, Check-in und Self-service Frühstück
 > 
 > 09:00 – Begrüßung durch den Veranstalter und Ansprache der Sponsoren

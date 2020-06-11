@@ -8,6 +8,8 @@ Am 13. September 2019 trafen auf dem XCamp die Innovationstreiber aus Unternehme
 
 <a href="netvis" class="big button turquoise">Jetzt vernetzen</a>
 
+%blocks%
+
 - =magenta
 
   <span class="checkmark"></span>
@@ -29,7 +31,8 @@ Am 13. September 2019 trafen auf dem XCamp die Innovationstreiber aus Unternehme
 
 ## Letzte [Blog-News](blog) zum XCamp 19
 
-<div id="newest-blog-entries"></div>
+%blocks%
+<ul id="newest-blog-entries"></ul>
 
 
 ## Eindrücke vom XCamp
@@ -38,6 +41,8 @@ Am 13. September 2019 trafen auf dem XCamp die Innovationstreiber aus Unternehme
 
 
 ## Das Format des XCamp
+
+%blocks%
 
 1. Das XCamp wird als Open-Space organisiert. Die Inhalte werden von den Teilnehmern selbst bestimmt. Das Format wird auch (Un-) Konferenz bezeichnet. Es eröffnet den Teilnehmern ein Maximum an Interaktion, zudem ein hohes Maß an Inspiration und Lernfortschritt – insbesondere für Neulinge. Schwerpunkt des XCamps liegt auf den Themenfeldern Agiles Management und Innovation im Unternehmenskontext.
   
@@ -51,6 +56,8 @@ Am 13. September 2019 trafen auf dem XCamp die Innovationstreiber aus Unternehme
 Am 13. September 2019 im Skydeck der DB Systel im Silberturm diskutierten Experten im Herzen von Frankfurt über Praxiserfahrungen mit Methoden und Prozessen rund um innovative Service- und Produktentwicklung. Einsteiger erhalten Hands-on-Zugang zu Methoden wie Lean Startup, Scrum, OKR, Agil, Projektmanagement, WOL, Digital Workplace, UI, UX und Design Thinking.
 
 Ähnlich zu den vergangenen LeanCamps und XCamps gibt es viel Inspiration, Vernetzung und neue Schubkraft für eigene Projekte.
+
+%blocks%
 
 - =magenta has-bottom-buttons sold-out
 

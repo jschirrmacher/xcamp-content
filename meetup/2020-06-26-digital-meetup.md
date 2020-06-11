@@ -2,23 +2,32 @@
 layout: standard
 title: XCamp Digital Meetup 26.06.2020
 ---
-## XCamp digital Meetup
 
-### Am 26. Juni 2020 von 17 - 20 Uhr bei dir zu Hause
+%hero%
 
-![XCamp Digital Meetup](../assets/img/Warmup.png)
+- ![XCamp Digital Meetup](../assets/img/meetup-hero.svg)
+
+  ## XCamp digital Meetup
+
+  ### Am 26. Juni 2020 von 17 - 20 Uhr bei dir zu Hause
 
 %blocks%
 
 - =yellow
 
-  **Wir laden dich zum Auftakttreffen der digitalen XCamp Community ein**
+  #### Wir laden dich zum virtuellen Auftakttreffen der XCamp Community ein
 
   Sei von Anfang an mit dabei, wenn sich die agilen Innovations- und Veränderungstreiber der Region interdisziplinär austauschen, gemeinsam lernen und experimentieren.
 
+  **Termin: 26. Juni 2020**
+
+  Anmeldung über Meetup, Teilnahme über Zoom, interaktiv wird es in Mural.
+
+  [%turquoise button: Teilnehmen%](https://www.meetup.com/de-DE/XCamp-Meetup/events/271106925)
+
 - =magenta
 
-  **Was wir vorhaben:**
+  #### Was wir vorhaben
 
   17:00-17:30 Get together
 
@@ -30,36 +39,45 @@ title: XCamp Digital Meetup 26.06.2020
 
   19:30-20:00 Optional Breakout: Vorstellen der digitalen Community-Plattform des XCamps
 
-[%turquoise button: Teilnehmen%](https://www.meetup.com/de-DE/XCamp-Meetup/events/271106925)
 
-### Wie es zur digitalen XCamp Community kam
+### Digitale XCamp Community
 
-In all den Jahren der XCamp Organisation hatten wir immer wieder den Gedanken, die Teilnehmer auch im Rest des Jahres enger in den Austausch zu bringen. Der Spirit, der uns bei den Events jedes Mal begeistert, der lebhafte Austausch von Erfahrungen und Wissen sollte doch auch jederzeit möglich sein! Nun besorgte Corona den Rest und brachte uns dazu, jetzt wirklich etwas auf die Beine zu stellen, um mit der Community und für die Community in den kontinuierlichen Austausch zu gehen.
+In all den Jahren der XCamp Organisation hatten wir immer wieder den Gedanken, die Teilnehmer auch im Rest des Jahres enger in den Austausch zu bringen. Der Spirit, der uns bei den Events jedes Mal begeistert, der lebhafte Austausch von Erfahrungen und Wissen sollte jederzeit möglich sein! Jetzt bringt uns Corona dazu, den Schritt zu gehen: mit der Community und für die Community in den kontinuierlichen Austausch.
 
 ### Wie wir den Austausch organisieren
 
 %blocks%
 
-- =yellow
+- =white
 
-  **Community Chat**
+  ![XCommunity](../assets/img/XCommunity.png)
 
-  Wir stellen euch Plattform zur direkten, themenbezogenen Kommunikation bereit. Abonniere einfach die Kanäle, die dich interessieren. Du willst selbst ein Thema moderieren? Melde dich gern bei uns.
+  #### Community Chat
 
-- =turquoise
+  Für die typischen XCamp Themen gibt es bereits Kanäle zum Austausch.
 
-  **Digital Meetups**
+  Du willst selbst einen Themen-Kanal moderieren? Melde dich gern im Kanal [#orga-team](https://community.xcamp.co/channel/orga-team)
 
-  Im unregelmäßigen Rhythmus organisieren wir zu einzelnen Themen Meetups (aktuell Remote). Besprecht im Community Chat, was euch interessiert und wann ein guter Termin dafür wäre.
+  [%yellow button: Bbeitreten%](https://community.xcamp.co/)
 
-- =magenta
+- =white
 
-  **XCamp Live-Event**
+  ![Mural](../assets/img/Mural.jpg)
+
+  #### Digital Meetups
+
+  In unregelmäßigen Abständen organisieren wir zu einzelnen Themen Meetups.
   
-  Natürlich wollen wir auch wieder ein Live-Event an einer coolen Location organisieren, wenn nicht noch in diesem, dann spätestens nächstes Jahr!
+  Entweder als Mini-Barcamp oder im Lean Coffee Format.
 
-%blocks%
+  [%turquoise button: Teilnehmen%](https://www.meetup.com/de-DE/XCamp-Meetup/events/271106925)
 
-- [%turquoise button: Teilnehmen am Digital Meetup Auftakt%](https://www.meetup.com/de-DE/XCamp-Meetup/events/271106925)
+- =white
 
-- [%yellow button: Der XCamp Community beitreten%](https://community.xcamp.co/)
+  ![XCamp 2018](../assets/img/XCamp18-DT.jpg)
+
+  #### XCamp Live-Event
+  
+  Natürlich wird es wieder ein Live-Event an einer coolen Location geben.
+  
+  Ihr erfahrt davon, sobald Corona uns wieder lässt.
