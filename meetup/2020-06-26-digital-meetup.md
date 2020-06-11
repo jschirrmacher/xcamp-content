@@ -13,7 +13,7 @@ title: XCamp Digital Meetup 26.06.2020
 
 %blocks%
 
-- =yellow
+- =turquoise
 
   ### Wir laden dich zum virtuellen Auftakttreffen der XCamp Community ein
 
@@ -25,9 +25,7 @@ title: XCamp Digital Meetup 26.06.2020
 
   Teilnahmegebühr 12€
 
-  [%magenta button: Teilnehmen%](https://www.meetup.com/de-DE/XCamp-Meetup/events/271106925)
-
-- =magenta
+- =yellow
 
   ### Was wir vorhaben
 
@@ -40,6 +38,8 @@ title: XCamp Digital Meetup 26.06.2020
   19:30-20:30 Socializing
 
   19:30-20:00 Optional Breakout: Vorstellen der digitalen Community-Plattform des XCamps
+
+  [%magenta button: Teilnehmen%](https://www.meetup.com/de-DE/XCamp-Meetup/events/271106925)
 
 ### Digitale XCamp Community
 
