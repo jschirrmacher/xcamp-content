@@ -21,7 +21,7 @@ title: XCamp Digital Meetup 26.06.2020
 
   **Termin: 26. Juni 2020**
 
-  Anmeldung über Meetup, Teilnahme über Zoom, interaktiv wird es in Mural.
+  Anmeldung über Meetup, Teilnahme über Video-Conferencing, interaktiv wird es in Mural.
 
   Teilnahmegebühr 12€
 
@@ -35,7 +35,7 @@ title: XCamp Digital Meetup 26.06.2020
 
   17:30-18:00 Vorstellen von Session-Vorschlägen, Voting
 
-  18:00-19:30 3-4 Parallele Zoom-Sessions zu Erfahrungen, Experimenten, interaktivem Lernen rund um die Kernthemen Agilität und Innovation
+  18:00-19:30 3-4 Parallele Sessions zu Erfahrungen, Experimenten, interaktivem Lernen rund um die Kernthemen Agilität und Innovation
 
   19:30-20:30 Socializing
 
