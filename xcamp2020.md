@@ -11,9 +11,12 @@ Auf dem XCamp treffen die Innovationstreiber aus Unternehmen und Start-ups, Desi
 
 1. =yellow
 
-   Dieses Jahr wollen wir eine Reihe von Remote Meetups machen, den Auftakt machen wir am 26. Juni 2020 mit dem **XCamp Digital Meetup**. Neben dem üblichen Barcamp Format, dieses Mal remote, zeigen wir euch, wie wir künftig noch häufiger mit euch in den Austausch gehen wollen.
+   Bis wir wieder ein echtes XCamp veranstalten dürfen, starten wir mit einer Reihe digitaler Meetups. Den Auftakt machen wir am 26. Juni 2020 mit dem **XCamp Digital Meetup**. Es wird ein virtuelles, kompaktes Barcamp geben. Zudem  starten wir den Community Chat, die Plattform zur themenbezogenen Vernetzung für Agilität, Innovation und die besten Methoden dazu.
 
-[%big yellow button: Hier anmelden%](meetup/2020-06-26-digital-meetup)
+1. =yellow
+
+   [%big magenta button: Hier anmelden%](meetup/2020-06-26-digital-meetup)
+
 <!--[%big yellow button: Jetzt Ticket kaufen%](tickets)-->
 [%big turquoise button: Das war das XCamp 2019%](blog/2019-09-22-impressions-of-xcamp-2019)
 
@@ -21,15 +24,15 @@ Auf dem XCamp treffen die Innovationstreiber aus Unternehmen und Start-ups, Desi
 
 %blocks%
 
-1. =yellow block
+1. =white block
 
   Beim XCamp 2020 wollen wir praktisch arbeiten statt nur darüber reden. Ideengeber mit klaren Missionen tragen ihre Themen im Vorfeld auf der Website und am Vorabend persönlich vor. Das ist Deine Chance, Ratgebende und Mitmachende für Deine Vision zu gewinnen!
 
-1. =yellow block
+1. =white block
 
   Am Workshop-Tag treffen sich die Teams in Workshop Sessions und bringen das Thema ein konkretes Stück voran. Am Ende des XCamp sind die Ideengeber einen wichtigen Schritt vorangekommen. Mitmacher und Ratgeber wissen, dass sie etwas zu einer guten Sache beigetragen haben.
 
-2. =yellow
+2. =white
 
   Nach dem XCamp haben alle neue Erfahrungen gemacht und Kontakte geknüpft und bringen diese auch in ihre tägliche Arbeit ein. Inspiration, Methodenwissen und neuer Schwung für Beruf und persönliche Entwicklung.
 
@@ -75,7 +78,7 @@ Im Herbst 2020 werden sich wieder Experten über Praxiserfahrungen mit Methoden 
 3. ![Visual Recording of XCamp](blog/media/0-6.jpeg)
 4. ![Visual Recording of XCamp](blog/media/0-7.jpeg)
 5. ![Visual Recording of XCamp](blog/media/0-8.jpeg)
-6. ![View from DB Skydeck](blog/media/0-9.jpeg)
+6. ![Workshop beim XCamp](assets/img/xcamp19-2-44.jpg)
 7. [%big turquoise button: Das war das XCamp 2019%](blog/2019-09-22-impressions-of-xcamp-2019)
 
 ## Letzte [Blog-News](blog) zum XCamp
