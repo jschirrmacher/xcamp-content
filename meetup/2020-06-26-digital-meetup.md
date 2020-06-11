@@ -23,7 +23,7 @@ title: XCamp Digital Meetup 26.06.2020
 
   Anmeldung über Meetup, Teilnahme über Zoom, interaktiv wird es in Mural.
 
-  [%turquoise button: Teilnehmen%](https://www.meetup.com/de-DE/XCamp-Meetup/events/271106925)
+  [%magenta button: Teilnehmen%](https://www.meetup.com/de-DE/XCamp-Meetup/events/271106925)
 
 - =magenta
 
@@ -58,7 +58,7 @@ In all den Jahren der XCamp Organisation hatten wir immer wieder den Gedanken, d
 
   Du willst selbst einen Themen-Kanal moderieren? Melde dich gern im Kanal [#orga-team](https://community.xcamp.co/channel/orga-team)
 
-  [%yellow button: Bbeitreten%](https://community.xcamp.co/)
+  [%magenta button: Bbeitreten%](https://community.xcamp.co/)
 
 - =white
 
@@ -70,7 +70,7 @@ In all den Jahren der XCamp Organisation hatten wir immer wieder den Gedanken, d
   
   Entweder als Mini-Barcamp oder im Lean Coffee Format.
 
-  [%turquoise button: Teilnehmen%](https://www.meetup.com/de-DE/XCamp-Meetup/events/271106925)
+  [%magenta button: Teilnehmen%](https://www.meetup.com/de-DE/XCamp-Meetup/events/271106925)
 
 - =white
 
