@@ -15,7 +15,7 @@ Auf dem XCamp treffen die Innovationstreiber aus Unternehmen und Start-ups, Desi
 
 [%big yellow button: Hier anmelden%](meetup/2020-06-26-digital-meetup)
 <!--[%big yellow button: Jetzt Ticket kaufen%](tickets)-->
-[%big turquoise button: Das war XCamp 2019%](blog/2019-09-22-impressions-of-xcamp-2019)
+[%big turquoise button: Das war das XCamp 2019%](blog/2019-09-22-impressions-of-xcamp-2019)
 
 ## Was ist das XCamp?
 
