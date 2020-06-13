@@ -67,7 +67,7 @@ Im Herbst 2020 werden sich wieder Experten über Praxiserfahrungen mit Methoden 
 Ähnlich zu den vergangenen LeanCamps und XCamps gibt es viel Inspiration, Vernetzung und neue Schubkraft für eigene Projekte.
 
 [%big turqouise button: Informiert bleiben%](newsletter)
-[%big turqouise button: Vernetzen%](netvis)
+[%big turqouise button: Vernetzen%](https://community.xcamp.co)
 
 ## Impressionen vom XCamp
 
